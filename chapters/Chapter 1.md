@@ -1,7 +1,6 @@
-```
-Chapter One
-The Constitution.
-```
+## Chapter One
+
+### The Constitution.
 
 1. Sovereignty of the people.
 
@@ -40,9 +39,7 @@ or other unlawful means, suspends, overthrows, abrogates or amends this
 Constitution or any part of it or attempts to do any such act, commits the
 offence of treason and shall be punished according to law.
 
- 
 (3) This Constitution shall not lose its force and effect even where its
-
 
 observance is interrupted by a government established by the force of arms;
 and in any case, as soon as the people recover their liberty, its observance

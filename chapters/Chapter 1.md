@@ -39,18 +39,17 @@ or other unlawful means, suspends, overthrows, abrogates or amends this
 Constitution or any part of it or attempts to do any such act, commits the
 offence of treason and shall be punished according to law.
 
-(3) This Constitution shall not lose its force and effect even where its
-
-observance is interrupted by a government established by the force of arms;
-and in any case, as soon as the people recover their liberty, its observance
+(3) This Constitution shall not lose its force and effect even where its observance is interrupted by a government established by the force of arms; and in any case, as soon as the people recover their liberty, its observance
 shall be reestablished and all persons who have taken part in any rebellion or
 other activity which resulted in the interruption of the observance shall be
 tried in accordance with this Constitution and other laws consistent with it.
 
 (4) All citizens of Uganda shall have the right and duty at all times—
+
 (a) to defend this Constitution and, in particular, to resist any person
 or group of persons seeking to overthrow the established
 constitutional order; and
+
 (b) to do all in their power to restore this Constitution after it has
 been suspended, overthrown, abrogated or amended contrary to
 its provisions.
@@ -68,8 +67,11 @@ punishment.
 4. Promotion of public awareness of the Constitution.
 
 The State shall promote public awareness of this Constitution by—
+
 (a) translating it into Ugandan languages and disseminating it as
-widely as possible; and
+widely as possible; and  
+
+
 (b) providing for the teaching of the Constitution in all educational
 institutions and armed forces training institutions and regularly
 transmitting and publishing programmes through the media

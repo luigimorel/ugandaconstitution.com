@@ -35,10 +35,13 @@ or religion, social or economic standing, political opinion or disability.
 
 (4) Nothing in this article shall prevent Parliament from enacting laws
 that are necessary for—  
+
 (a) implementing policies and programmes aimed at redressing
 social, economic, educational or other imbalance in society; or  
+
 (b) making such provision as is required or authorised to be made
 under this Constitution; or  
+
 (c) providing for any matter acceptable and demonstrably justified in
 a free and democratic society.
 
@@ -59,25 +62,32 @@ except as may be authorised by law.
 
 (1) No person shall be deprived of personal liberty except in any of
 the following cases—  
+
 (a) in execution of the sentence or order of a court, whether
 established for Uganda or another country or of an international
 court or tribunal in respect of a criminal offence of which that
 person has been convicted, or of an order of a court punishing the
 person for contempt of court;  
+
+
 (b) in execution of the order of a court made to secure the fulfillment
 of any obligation imposed on that person by law;  
+
 (c) for the purpose of bringing that person before a court in execution
 of the order of a court or upon reasonable suspicion that that
 person has committed or is about to commit a criminal offence
 under the laws of Uganda;   
+
 (d) for the purpose of preventing the spread of an infectious or
 contagious disease;  
+
 (e) in the case of a person who has not attained the age of eighteen
 years, for the purpose of the education or welfare of that person;  
 (f) in the case of a person who is, or is reasonably suspected to be, of
 unsound mind or addicted to drugs or alcohol, for the purpose of
 the care or treatment of that person or the protection of the
 community;  
+
 (g) for the purpose of preventing the unlawful entry of that person
 into Uganda, or for the purpose of effecting the expulsion,
 extradition or other lawful removal of that person from Uganda
@@ -99,8 +109,10 @@ arrest, restriction or detention and of his or her right to a lawyer of his or h
 choice.
 
 (4) A person arrested or detained—
+
 (a) for the purpose of bringing him or her before a court in execution
 of an order of a court; or
+
 (b) upon reasonable suspicion of his or her having committed or
 being about to commit a criminal offence under the laws of
 Uganda,
@@ -109,25 +121,30 @@ case not later than forty-eight hours from the time of his or her arrest.
 
 
 (5) Where a person is restricted or detained—
+
 (a) the next-of-kin of that person shall, at the request of that person,
 be informed as soon as practicable of the restriction or detention;
+
 (b) the next-of-kin, lawyer and personal doctor of that person shall be
 allowed reasonable access to that person; and
+
 (c) that person shall be allowed access to medical treatment
 including, at the request and at the cost of that person, access to
 private medical treatment.
 
 
-
 (6) Where a person is arrested in respect of a criminal offence—  
+
 (a) the person is entitled to apply to the court to be released on bail,
 and the court may grant that person bail on such conditions as the
 court considers reasonable;  
+
 (b) in the case of an offence which is triable by the High Court as
 well as by a subordinate court, the person shall be released on bail
 on such conditions as the court considers reasonable, if that
 person has been remanded in custody in respect of the offence
 before trial for one hundred and twenty days;  
+
 (c) in the case of an offence triable only by the High Court, the
 person shall be released on bail on such conditions as the court
 considers reasonable, if the person has been remanded in custody  for three hundred and sixty days before the case is committed to
@@ -165,16 +182,20 @@ degrading treatment or punishment.
 
 (3) For the purposes of this article, “forced labour” does not
 include—  
+
 (a) any labour required in consequence of the sentence or order of a
 court;  
+
 (b) any labour required of any person while that person is lawfully
 detained which, though not required in consequence of the
 sentence or order of a court, is reasonably necessary in the
 interests of hygiene or for the maintenance of the place at which
 the person is detained;  
+
 (c) any labour required of a member of a disciplined force as part of
 that member’s duties as such or, in the case of a person who has
 conscientious objections to service as a member of a naval,
+
 military or air force, any labour which that person is required by  law to perform in place of that service;    
 (d) any labour required during any period when Uganda is at war or
 in case of any emergency or calamity which threatens the life and
@@ -183,6 +204,7 @@ the labour is reasonably justifiable in the circumstances of any
 situation arising or existing during the period or as a result of the
 emergency or calamity, for the purpose of dealing with that
 situation; or  
+
 (e) any labour reasonably required as part of reasonable and normal
 communal or other civic obligations.
 
@@ -195,23 +217,27 @@ association with others.
 (2) No person shall be compulsorily deprived of property or any
 interest in or right over property of any description except where the
 following conditions are satisfied—  
+
 (a) the taking of possession or acquisition is necessary for public use
 or in the interest of defence, public safety, public order, public
 morality or public health; and  
+
 (b) the compulsory taking of possession or acquisition of property is
 made under a law which makes provision for—  
 (i) prompt payment of fair and adequate compensation, prior
 to the taking of possession or acquisition of the property;
 and  
+
 (ii) a right of access to a court of law by any person who has an
 interest or right over the property.
 
 27. Right to privacy of person, home and other property.  
 
 
-(1) No person shall be subjected to—  
+(1) No person shall be subjected to—
 (a) unlawful search of the person, home or other property of that
 person; or  
+
 (b) unlawful entry by others of the premises of that person.
 
 
@@ -231,29 +257,38 @@ necessary in a free and democratic society.
 
 
 (3) Every person who is charged with a criminal offence shall—  
+
 (a) be presumed to be innocent until proved guilty or until that
 person has pleaded guilty;  
+
 (b) be informed immediately, in a language that the person
 understands, of the nature of the offence;  
+
 (c) be given adequate time and facilities for the preparation of his or
 her defence;  
+
 (d) be permitted to appear before the court in person or, at that
 person’s own expense, by a lawyer of his or her choice;  
+
 (e) in the case of any offence which carries a sentence of death or
 imprisonment for life, be entitled to legal representation at the
-expense of the State;  
+expense of the State;
+
 (f) be afforded, without payment by that person, the assistance of an
 interpreter if that person cannot understand the language used at
 the trial;  
+
 (g) be afforded facilities to examine witnesses and to obtain the
 attendance of other witnesses before the court.
 
 
 (4) Nothing done under the authority of any law shall be held to be
 inconsistent with—  
+
 (a) clause (3)(a) of this article, to the extent that the law in question
 imposes upon any person charged with a criminal offence, the
 burden of proving particular facts;  
+
 (b) clause (3)(g) of this article, to the extent that the law imposes
 conditions that must be satisfied if witnesses called to testify on
 behalf of an accused are to be paid their expenses out of public
@@ -300,8 +335,10 @@ by law.
 
 
 (1) Every person shall have the right to—  
+
 (a) freedom of speech and expression which shall include freedom of
 the press and other media; 
+
 (b) freedom of thought, conscience and belief which shall include
 academic freedom in institutions of learning;   
  
@@ -309,8 +346,10 @@ academic freedom in institutions of learning;
 shall include the right to belong to and participate in the practices
 of any religious body or organisation in a manner consistent with
 this Constitution;  
+
 (d) freedom to assemble and to demonstrate together with others
-peacefully and unarmed and to petition; and  
+peacefully and unarmed and to petition; and 
+
 (e) freedom of association which shall include the freedom to form
 and join associations or unions, including trade unions and
 political and other civic organisations.
@@ -318,9 +357,12 @@ political and other civic organisations.
 
 
 (2) Every Ugandan shall have the right—
+
 (a) to move freely throughout Uganda and to reside and settle in any
 part of Uganda;
+
 (b) to enter, leave and return to, Uganda; and
+
 (c) to a passport or other travel document.
 
 
@@ -462,10 +504,13 @@ profession and to carry on any lawful occupation, trade or business.
 
 
 (3) Every worker has a right—  
+
 (a) to form or join a trade union of his or her choice for the
 promotion and protection of his or her economic and social
 interests;    
+
 (b) to collective bargaining and representation; and  
+
 (c) to withdraw his or her labour according to law.  
 
 
@@ -497,9 +542,12 @@ Chapter, no person shall prejudice the fundamental or other human rights and
 freedoms of others or the public interest.
 
 
-(2) Public interest under this article shall not permit—    
+(2) Public interest under this article shall not permit— 
+
 (a) political persecution;    
+
 (b) detention without trial;    
+
 (c) any limitation of the enjoyment of the rights and freedoms
 prescribed by this Chapter beyond what is acceptable and
 demonstrably justifiable in a free and democratic society, or what
@@ -511,10 +559,14 @@ is provided in this Constitution.
 
 Notwithstanding anything in this Constitution, there shall be no derogation
 from the enjoyment of the following rights and freedoms—  
+
 (a) freedom from torture and cruel, inhuman or degrading treatment
 or punishment;  
+
 (b) freedom from slavery or servitude;  
+
 (c) the right to fair hearing;  
+
 (d) the right to an order of habeas corpus.
 
 45. Human rights and freedoms additional to other rights.
@@ -545,14 +597,17 @@ where necessary for the purposes of dealing with the emergency.
 
 Where a person is restricted or detained under a law made for the purpose of
 a state of emergency, the following provisions shall apply—  
+
 (a) he or she shall, within twenty-four hours after the commencement
 of the restriction or detention, be furnished with a statement in
 writing specifying the grounds upon which he or she is restricted
 or detained;  
+
 (b) the spouse or next-of-kin of or other person named by the person
 restricted or detained shall be informed of the restriction or
 detention and allowed access to the person within seventy-two
-hours after the commencement of the restriction or detention;  
+hours after the commencement of the restriction or detention; 
+
 (c) not more than thirty days after the commencement of his or her
 restriction or detention, a notification shall be published in the
 Gazette and in the media stating that he or she has been restricted
@@ -570,9 +625,11 @@ thirty days.
 
 (2) A person who is restricted or detained shall be permitted and
 afforded every possible facility—  
+
 (a) to consult a lawyer of his or her choice or any group of persons
 who shall be permitted to make representations to the Uganda
 Human Rights Commission for the review of his or her case;  
+
 (b) to appear in person or by a lawyer of his or her choice at the
 hearing or review of his or her case.
 
@@ -584,17 +641,22 @@ or detention.
 
 (1) In every month in which there is a sitting of Parliament, the
 Minister responsible shall make a report to Parliament in respect of—  
+
 (a) the number of persons restricted or detained under the state of
 emergency; and  
+
 (b) the action taken in compliance with the findings of the Uganda
 Human Rights Commission.
 
 (2) The Minister responsible shall publish every month in the Gazette
 and in the media—  
+
 (a) the number and names and addresses of the persons restricted or
 detained;  
+
 (b) the number of cases reviewed by the Uganda Human Rights
 Commission; and  
+
 (c) the action taken in compliance with the findings of the Uganda
 Human Rights Commission.
 
@@ -647,28 +709,37 @@ six years and be eligible for reappointment.
 
 
 (1) The commission shall have the following functions—  
+
 (a) to investigate, at its own initiative or on a complaint made by any
 person or group of persons against the violation of any human
 right;  
+
 (b) to visit jails, prisons, and places of detention or related facilities
 with a view to assessing and inspecting conditions of the inmates
 and make recommendations;  
+
 (c) to establish a continuing programme of research, education and
 information to enhance respect of human rights;  
+
 (d) to recommend to Parliament effective measures to promote
 human rights, including provision of compensation to victims of
 violations of human rights or their families;  
+
 (e) to create and sustain within society the awareness of the
 provisions of this Constitution as the fundamental law of the
 people of Uganda;  
+
 (f) to educate and encourage the public to defend this Constitution
 at all times against all forms of abuse and violation;  
+
 (g) to formulate, implement and oversee programmes intended to
 inculcate in the citizens of Uganda awareness of their civic
 responsibilities and an appreciation of their rights and obligations
 as free people;  
+
 (h) to monitor the Government’s compliance with international treaty
 and convention obligations on human rights; and  
+
 (i) to perform such other functions as may be provided by law.
 
 
@@ -678,9 +749,12 @@ human rights and freedoms in the country.
 
 (3) In the performance of its functions, the Uganda Human Rights
 Commission shall—  
+
 (a) establish its operational guidelines and rules of procedure;  
+
 (b) request the assistance of any department, bureau, office, agency 
 or person in the performance of its functions; and  
+
 (c) observe the rules of natural justice.
 
 53. Powers of the commission.
@@ -688,22 +762,27 @@ or person in the performance of its functions; and
 (1) In the performance of its functions, the commission shall have the
 powers of a court—
 
-
 (a) to issue summons or other orders requiring the attendance of any
 person before the commission and the production of any
 document or record relevant to any investigation by the
 commission;
+
 (b) to question any person in respect of any subject matter under
 investigation before the commission;
+
 (c) to require any person to disclose any information within his or her
 knowledge relevant to any investigation by the commission; and
+
 (d) to commit persons for contempt of its orders.
 
 
 (2) The commission may, if satisfied that there has been an
 infringement of a human right or freedom, order—  
+
 (a) the release of a detained or restricted person;  
+
 (b) payment of compensation; or  
+
 (c) any other legal remedy or redress.
 
 (3) A person or authority dissatisfied with an order made by the
@@ -712,10 +791,13 @@ Court.
 
 
 (4) The commission shall not investigate—  
+
 (a) any matter which is pending before a court or judicial tribunal;  
+
 (b) a matter involving the relations or dealings between the
 Government and the Government of any foreign State or
 international organisation; or  
+
 (c) a matter relating to the exercise of the prerogative of mercy.
 
 

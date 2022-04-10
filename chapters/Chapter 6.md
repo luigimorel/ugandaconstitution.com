@@ -29,11 +29,15 @@ extend the life of Parliament for a period not exceeding six months at a time.
 
 
 (1) Parliament shall consist of—  
+
 (a) members directly elected to represent constituencies;  
+
 (b) one woman representative for every district;  
+
 (c) such numbers of representatives of the army, youth, workers,  
 persons with disabilities and other groups as Parliament may
 determine; and  
+
 (d) the Vice President and Ministers, who, if not already elected
 members of Parliament, shall be ex officio members of
 Parliament without the right to vote on any issue requiring a vote
@@ -68,22 +72,30 @@ democratic governance of Uganda.
 80. Qualifications and disqualifications of members of Parliament.
 
 (1) A person is qualified to be a member of Parliament if that
-person—  
+person—
+
 (a) is a citizen of Uganda;  
+
 (b) is a registered voter; and  
+
 (c) has completed a minimum formal education of Advanced Level
 standard or its equivalent.
 
 (2) A person is not qualified for election as a member of Parliament
 if that person—  
-(a) is of unsound mind;  
+
+(a) is of unsound mind; 
+
 (b) is holding or acting in an office the functions of which involve a
 responsibility for or in connection with the conduct of an
 election;  
+
 (c) is a traditional or cultural leader as defined in article 246(6) of
 this Constitution;  
+
 (d) has been adjudged or otherwise declared bankrupt under any law
-in force in Uganda and has not been discharged; or  
+in force in Uganda and has not been discharged; or 
+
 (e) is under a sentence of death or a sentence of imprisonment
 exceeding nine months imposed by any competent court without
 the option of a fine.
@@ -140,11 +152,16 @@ first sitting of Parliament after that office becomes vacant.
 
 
 (7) The Speaker or Deputy Speaker shall vacate his or her office—  
+
 (a) if he or she is appointed to any public office;   
+
 (b) if he or she becomes a Minister;  
+
 (c) if he or she resigns his or her office by writing signed by him or
 her addressed to the Clerk to Parliament;  
+
 (d) if he or she ceases to be a member of Parliament; or  
+
 (e) if he or she is removed by resolution of Parliament supported by
 not less than two-thirds of all members of Parliament.
 
@@ -163,14 +180,18 @@ specified in the Fourth Schedule to this Constitution.
 
 (1) A member of Parliament shall vacate his or her seat in
 Parliament—  
+
 (a) if he or she resigns his or her office in writing signed by him or
 her and addressed to the Speaker;  
+
 (b) if such circumstances arise that if that person were not a member
 of Parliament would cause that person to be disqualified for
 election as a member of Parliament under article 80 of this
 Constitution;  
+
 (c) subject to the provisions of this Constitution, upon dissolution of
 Parliament;  
+
 (d) if that person is absent from fifteen sittings of Parliament without
 permission in writing of the Speaker during any period when
 Parliament is continuously meeting and is unable to offer
@@ -183,12 +204,15 @@ imposed is or includes the vacation of the office of a member of
 Parliament;     
 
 (f) if recalled by the electorate in his or her constituency in
-accordance with this Constitution;  
+accordance with this Constitution; 
+
 (g) if that person leaves the political party for which he or she stood
 as a candidate for election to Parliament to join another party or
 to remain in Parliament as an independent member;  
+
 (h) if, having been elected to Parliament as an independent candidate,
 that person joins a political party;
+
 (i) if that person is appointed a public officer.
 
 
@@ -209,10 +233,13 @@ expiry of the term of Parliament.
 
 (2) A member of Parliament may be recalled from that office on any
 of the following grounds—
+
 (a) physical or mental incapacity rendering that member incapable of
 performing the functions of the office;
+
 (b) misconduct or misbehaviour likely to bring hatred, ridicule,
 contempt or disrepute to the office; or
+
 (c) persistent deserting of the electorate without reasonable cause.
 
 (3) The recall of a member of Parliament shall be initiated by a
@@ -228,9 +255,11 @@ report its findings to the Speaker.
 
 
 (5) The Speaker shall—  
+
 (a) declare the seat vacant, if the Electoral Commission reports that
 it is satisfied from the inquiry, with the genuineness of the
 petition; or  
+
 (b) declare immediately that the petition was unjustified, if the
 commission reports that it is not satisfied with the genuineness of
 the petition.
@@ -253,8 +282,10 @@ emolument likely to compromise his or her office.
 
 (1) The High Court shall have jurisdiction to hear and determine any
 question whether—
+
 (a) a person has been validly elected a member of Parliament or the
 seat of a member of Parliament has become vacant; or
+
 (b) a person has been validly elected as Speaker or Deputy Speaker
 or having been so elected, has vacated that office.
 
@@ -263,11 +294,9 @@ this article may appeal to the Court of Appeal.
 
 
 (3) Parliament shall, by law make provision with respect to—
-(a) the persons eligible to apply to the High Court for determination
 
+(a) the persons eligible to apply to the High Court for determination of any question under this article; and
 
-
-of any question under this article; and
 (b) the circumstances and manner in which and the conditions upon
 which any such application may be made.
 
@@ -319,15 +348,21 @@ and functions of committees of Parliament.
 
 (4) In the exercise of their functions under this article, committees of
 Parliament—
+
 (a) may call any Minister or any person holding public office and
 private individuals to submit memoranda or appear before them
 to give evidence;
+
 (b) may co-opt any member of Parliament or employ qualified
 persons to assist them in the discharge of their functions;
+
 (c) shall have the powers of the High Court for—
+
 (i) enforcing the attendance of witnesses and examining them
 on oath, affirmation or otherwise;
+
 (ii) compelling the production of documents; and
+
 (iii) issuing a commission or request to examine witnesses
 abroad.
 
@@ -342,9 +377,12 @@ presented to the President for assent.
 
 (3) The President shall, within thirty days after a bill is presented to
 him or her—  
+
 (a) assent to the bill;  
+
 (b) return the bill to Parliament with a request that the bill or a
 particular provision of it be reconsidered by Parliament; or  
+
 (c) notify the Speaker in writing that he or she refuses to assent to the
 bill.
 
@@ -360,9 +398,11 @@ without the assent of the President.
 
 
 (6) Where the President—  
+
 (a) refuses to assent to a bill under clause (3)(c) of this article,
 Parliament may reconsider the bill and if passed, the bill shall be
 presented to the President for assent;  
+
 (b) refuses to assent to a bill which has been reconsidered and passed
 under paragraph (a) or clause (4) of this article, the Speaker shall,
 upon the refusal, if the bill was so passed with the support of at
@@ -390,18 +430,24 @@ court as between the parties to the decision or judgment.
 
 Parliament shall not, unless the bill or the motion is introduced on behalf of
 the Government—  
+
 (a) proceed upon a bill, including an amendment bill, that makes
 provision for any of the following—  
+
 (i) the imposition of taxation or the alteration of taxation
 otherwise than by reduction;  
+
 (ii) the imposition of a charge on the Consolidated Fund or other public fund of Uganda or the alteration of any such
 charge otherwise than by reduction;  
+
 (iii) the payment, issue or withdrawal from the Consolidated
 Fund or other public fund of Uganda of any monies not
 charged on that fund or any increase in the amount of that
 payment, issue or withdrawal; or  
+
 (iv) the composition or remission of any debt due to the
 Government of Uganda; or  
+
 (b) proceed upon a motion, including an amendment to a motion, the
 effect of which would be to make provision for any of the
 purposes specified in paragraph (a) of this article.
@@ -422,13 +468,17 @@ invalidate those proceedings.
 
 (4) The rules of procedure of Parliament shall include the following
 provisions—  
+
 (a) the Speaker shall determine the order of business in Parliament
 and shall give priority to Government business;  
+
 (b) a member of Parliament has the right to move a private member’s
 bill;    
+
 (c) the member moving the private member’s bill shall be afforded
 reasonable assistance by the department of Government whose
 area of operation is affected by the bill; and  
+
 (d) the office of the Attorney General shall afford the member
 moving the private member’s bill professional assistance in the
 drafting of the bill.

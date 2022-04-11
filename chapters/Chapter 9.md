@@ -1,14 +1,10 @@
-
-
 ## Chapter Nine
+
 ### Finance.
 
+#### General.
 
-
-General.
-
-
-152. Taxation.
+##### 152. Taxation.
 
 (1) No tax shall be imposed except under the authority of an Act of
 Parliament.
@@ -21,7 +17,7 @@ of those powers, as shall be determined by law.
 (3) Parliament shall make laws to establish tax tribunals for the
 purposes of settling tax disputes.
 
-153. Consolidated Fund.
+##### 153. Consolidated Fund.
 
 (1) There shall be a Consolidated Fund into which shall be paid all
 revenues or other monies raised or received for the purpose of, or on behalf
@@ -35,12 +31,14 @@ fund established for a specific purpose; or
 department of Government that received them for the purposes of
 defraying the expenses of that department.
 
-154. Withdrawal from the Consolidated Fund.
+##### 154. Withdrawal from the Consolidated Fund.
 
 (1) No monies shall be withdrawn from the Consolidated Fund
 except—  
+
 (a) to meet expenditure charged on the fund by this Constitution or
 by an Act of Parliament; or  
+
 (b) where the issue of those monies has been authorised by an
 Appropriation Act, a Supplementary Appropriation Act or as
 provided under clause (4) of this article.
@@ -72,7 +70,7 @@ Parliament by resolution for that financial year; and
 service in the Appropriation Act for that financial year when that
 law comes into operation.
 
-155. Financial year estimates.
+####155. Financial year estimates.
 
 (1) The President shall cause to be prepared and laid before
 Parliament in each financial year, but in any case not later than the fifteenth
@@ -105,7 +103,7 @@ exceeding one year.
 (6) Parliament may make laws for giving effect to the provisions of
 this article.
 
-156. Appropriation Bill.
+#####156. Appropriation Bill.
 
 (1) The heads of expenditure contained in the estimates, other than
 expenditure charged on the Consolidated Fund by this Constitution or any
@@ -115,10 +113,12 @@ the Consolidated Fund of the sums necessary to meet that expenditure and the
 appropriation of those sums for the purposes specified in the bill.
 
 (2) If in respect of any financial year it is found—  
+
 (a) that the amount appropriated for any purpose under the
 Appropriation Act is insufficient or that a need has arisen for
 expenditure for a purpose for which no amount has been
 appropriated by that Act; or  
+
 (b) that any monies have been expended for any purpose in excess of
 the amount appropriated for that purpose or for a purpose for
 which no amount has been appropriated by that Act,
@@ -133,13 +133,12 @@ introduced into Parliament in the financial year next following that financial
 year to which the estimates relate, providing for the appropriation of the sums
 so approved for the purposes specified in those estimates.
 
-157. Contingencies Fund.
+##### 157. Contingencies Fund.
 
 Parliament shall make provision for the establishment of a Contingencies
 Fund and shall make laws to regulate the operations of that fund.
 
-158. Offices the remuneration of which is charged on the Consolidated
-     Fund.
+##### 158. Offices the remuneration of which is charged on the Consolidated Fund.
 
 (1) Where any salary or allowance of the holder of any office is
 charged on the Consolidated Fund, it shall not be altered to his or her
@@ -149,7 +148,7 @@ disadvantage after he or she has been appointed to that office.
 prescribe the offices, the salaries and allowances in respect of which are
 charged on the Consolidated Fund by this Constitution.
 
-159. Power of Government to borrow or lend.
+##### 159. Power of Government to borrow or lend.
 
 (1) Subject to the provisions of this Constitution, Government may
 borrow from any source.
@@ -160,9 +159,11 @@ authorised by or under an Act of Parliament.
 
 (3) An Act of Parliament made under clause (2) of this article shall
 provide—  
+
 (a) that the terms and conditions of the loan shall be laid before
 Parliament and shall not come into operation unless they have
 been approved by a resolution of Parliament; and  
+
 (b) that any monies received in respect of that loan shall be paid into
 the Consolidated Fund and form part of that fund or into some
 other public fund which is existing or is created for the purpose
@@ -171,9 +172,12 @@ of the loan.
 (4) The President shall, at such times as Parliament may determine,
 cause to be presented to Parliament such information concerning any loan as
 is necessary to show—  
+
 (a) the extent of the total indebtedness by way of principal and
 accumulated interest;  
+
 (b) the provision made for servicing or repayment of the loan; and  
+
 (c) the utilisation and performance of the loan.
 
 (5) Parliament may, by resolution, authorise the Government to enter
@@ -187,8 +191,10 @@ approved by Parliament by resolution.
 (7) For the purposes of this article, the expression “loan” includes any
 money lent or given to or by the Government on condition of return or
 repayment and any other form of borrowing or lending in respect of which—  
+
 (a) monies from the Consolidated Fund or any other public fund may
 be used for payment or repayment; or  
+
 (b) monies from any fund by whatever name called, established for
 the purposes of payment or repayment whether in whole or in part
 and whether directly or indirectly, may be used for payment or
@@ -198,7 +204,7 @@ repayment.
 provisions of clauses (2) and (3) of this article, subject to such conditions as
 Parliament may prescribe.
 
-160. Public debt.
+##### 160. Public debt.
 
 (1) The public debt of Uganda shall be charged on the Consolidated
 Fund and other public funds of Uganda.
@@ -208,10 +214,10 @@ interest on that debt, sinking fund payments in respect of that debt and the
 costs, charges and expenses incidental to the management of that debt.
 
 
-Central Bank of Uganda.
+#### Central Bank of Uganda.
 
 
-161. The central bank.
+#### 161. The central bank.
 
 (1) The Bank of Uganda shall be the central bank of Uganda and it
 shall be the only authority to issue the currency of Uganda.
@@ -222,7 +228,9 @@ members.
 
 (3) The governor, the deputy governor and all other members of the
 board shall—  
+
 (a) be appointed by the President with the approval of Parliament;  
+
 (b) hold office for a term of five years but shall be eligible for
 reappointment.
 
@@ -232,22 +240,29 @@ chairperson and deputy chairperson of the board.
 
 (5) The governor, the deputy governor or any other member of the
 board may be removed from office by the President only for—  
+
 (a) inability to perform the functions of his or her office arising from
 infirmity of body or mind;  
+
 (b) misbehaviour or misconduct; or  
+
 (c) incompetence.
 
-162. Functions of the bank.
+##### 162. Functions of the bank.
 
 
 (1) The Bank of Uganda shall—  
+
 (a) promote and maintain the stability of the value of the currency of
 Uganda;  
+
 (b) regulate the currency system in the interest of the economic
 progress of Uganda;  
+
 (c) encourage and promote economic development and the efficient
 utilisation of the resources of Uganda through effective and
 efficient operation of a banking and credit system; and  
+
 (d) do all such other things not inconsistent with this article as may
 be prescribed by law.
 
@@ -260,10 +275,10 @@ person or authority.
 make laws prescribing and regulating the functions of the Bank of Uganda.
 
 
-Auditor General.
+#### Auditor General.
 
 
-163. Auditor General.
+##### 163. Auditor General.
 
 (1) There shall be an Auditor General who shall be appointed by the
 President with the approval of Parliament and whose office shall be a public
@@ -271,17 +286,21 @@ office.
 
 (2) A person shall not be appointed Auditor General unless that
 person—
+
 (a) is a qualified accountant of not less than fifteen years’ standing;
 and
+
 (b) is a person of high moral character and proven integrity.
 
 
 (3) The Auditor General shall—  
+
 (a) audit and report on the public accounts of Uganda and of all
 public offices, including the courts, the central and local
 government administrations, universities and public institutions
 of like nature, and any public corporation or other bodies or
 organisations established by an Act of Parliament; and  
+
 (b) conduct financial and value for money audits in respect of any
 project involving public funds.
 
@@ -310,12 +329,15 @@ and reported upon by an auditor appointed by Parliament.
 
 (10) The Auditor General may be removed from office by the President
 only for—  
+
 (a) inability to perform the functions of his or her office arising from
 infirmity of body or mind;  
+
 (b) misbehaviour or misconduct; or  
+
 (c) incompetence.
 
-164. Accountability.
+##### 164. Accountability.
 
 (1) The Permanent Secretary or the accounting officer in charge of a
 Ministry or department shall be accountable to Parliament for the funds in

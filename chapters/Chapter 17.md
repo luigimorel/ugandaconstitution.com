@@ -1,22 +1,22 @@
-
-
 ## Chapter Seventeen
+
 ### General and Miscellaneous.
 
+##### 247. Administration of estates.
 
-247. Administration of estates.
+Parliament shall—
 
-Parliament shall—  
 (a) by law establish an efficient, fair and expeditious machinery for
 the administration and management of the estates of deceased
 persons; and  
+
 (b) under the law referred to in paragraph (a) of this article, ensure
 that the services of the department or organisation established for
 the purpose are decentralised and accessible to all persons who
 may reasonably require those services and that the interests of all
 beneficiaries are adequately protected.
 
-248. Law Reform Commission.
+##### 248. Law Reform Commission.
 
 (1) There shall be a Law Reform Commission for Uganda the
 composition and functions of which shall be prescribed by Parliament by law.
@@ -25,7 +25,7 @@ composition and functions of which shall be prescribed by Parliament by law.
 article shall publish periodic reports on its findings and submit annual reports
 to Parliament.
 
-249. Disaster Preparedness and Management Commission.
+##### 249. Disaster Preparedness and Management Commission.
 
 (1) There shall be a Disaster Preparedness and Management
 Commission for Uganda to deal with both natural and man-made disasters.
@@ -50,7 +50,7 @@ proceedings shall be served on the Attorney General.
 (4) In the title of any criminal proceedings, the prosecution shall be
 designated by the word “Uganda”.
 
-251. Performance of functions of commissions and authorities.
+##### 251. Performance of functions of commissions and authorities.
 
 (1) Any commission or authority established by this Constitution
 may, subject to the provisions of this Constitution, regulate its own procedure
@@ -65,7 +65,7 @@ the absence of any member or any vacancy in the office of a member.
 (3) In this article, “commission or authority” includes a council and
 a committee of the commission or authority.
 
-252. Resignations.
+##### 252. Resignations.
 
 (1) Except as otherwise provided in this Constitution, any person who
 is appointed or elected to any office established by this Constitution may
@@ -81,13 +81,20 @@ it.
 
 (3) For the purposes of clause (1) of this article, “office” includes the
 office of—  
+
 (a) the Vice President;  
+
 (b) the Speaker and Deputy Speaker;  
+
 (c) a Minister;  
+
 (d) the Attorney General;  
+
 (e) a member of Parliament;  
+
 (f) a member of any commission, authority, council or committee
 established by this Constitution; and  
+
 (g) a public officer.
 
 
@@ -95,7 +102,7 @@ established by this Constitution; and
 laws providing for the resignation of persons holding offices established by
 this Constitution not provided for in this article.
 
-253. Reappointments and concurrent appointments.
+##### 253. Reappointments and concurrent appointments.
 
 (1) Where any person has vacated an office established by this
 Constitution, that person may, if qualified, again be appointed or elected to
@@ -111,7 +118,7 @@ appointment made by virtue of clause (2) of this article, then, for the purposes
 of any function conferred on the holder of that office, the person last
 appointed shall be taken to be the sole holder of that office.
 
-254. Pension.
+##### 254. Pension.
 
 (1) A public officer shall, on retirement, receive such pension as is
 commensurate with his or her rank, salary and length of service.
@@ -123,78 +130,111 @@ money.
 (3) The payment of pension shall be prompt and regular and easily
 accessible to pensioners.
 
-255. Right of citizens to demand referenda.
+##### 255. Right of citizens to demand referenda.
 
 Parliament may by law make provision for the right of citizens to demand the
 holding by the Electoral Commission of a referendum whether national or in
 any particular part of Uganda, on any issue.
 
-256. Manner of administering oaths.
+##### 256. Manner of administering oaths.
 
 The oaths specified in the Fourth Schedule to this Constitution shall be
 administered in a manner prescribed by law.
 
-257. Interpretation.
+##### 257. Interpretation.
 
 
 (1) In this Constitution, unless the context otherwise requires—  
+
 (a) “Act of Parliament” means a law made by Parliament;  
+
 (b) “article” means an article of this Constitution;  
+
 (c) “child” means a person under the age of eighteen years;  
+
 (d) “court” means a court of judicature established by or under the
 authority of this Constitution;  
+
 (e) “Court of Appeal” means the Court of Appeal of Uganda;  
+
 (f) “district” means a district referred to in article 5 of this
 Constitution;   
+
 (g) “district council” means a district council established under
-article 180 of this Constitution;  
+article 180 of this Constitution; 
+
 (h) “education service” means any part of the public service
 established as the education service by Parliament by law in
-conformity with this Constitution;  
+conformity with this Constitution; 
+
 (i) “financial year” means the period of twelve months ending on the
 thirtieth day of June in any year or such other day as Parliament
-may by law prescribe;  
+may by law prescribe; 
+
 (j) “functions” includes powers and duties;
+
 (k) “Gazette” means The Uganda Gazette and includes any
 supplement of that Gazette;  
+
 (l) “Government” means the Government of Uganda;  
+
 (m) “health service” means any part of the public service established
 as the health service by Parliament by law in conformity with this
 Constitution;  
+
 (n) “High Court” means the High Court of Uganda;  
+
 (o) “judgment” includes a decision, an order or decree of the court;  
+
 (p) “judicial power” means the power to dispense justice among
 persons and between persons and the State under the laws of
 Uganda;  
+
 (q) “Leadership Code of Conduct” means the Leadership Code of
 Conduct established under Chapter Fourteen of this Constitution;
+
 (r) “local government council” means a council referred to in article
 180 of this Constitution;  
+
 (s) “Minister” means a Minister of the Government and includes a
 Minister of State and a Deputy Minister;  
+
 (t) “oath of allegiance” means an oath of allegiance prescribed by
 this Constitution;  
+
 (u) “Parliament” means the Parliament of Uganda;  
-(v) “President” means the President of Uganda;  
+
+(v) “President” means the President of Uganda; 
+
 (w) “public office” means an office in the public service;  
+
 (x) “public officer” means a person holding or acting in any public
 office;  
+
 (y) “public service” means service in a civil capacity of the
 Government or of a local government;  
+
 (z) “session” means a series of meetings of Parliament within a
 period of twelve months;  
+
 (aa) “sitting” includes a period during which Parliament is
 continuously sitting without adjournment and a period during
-which it is in committee;  
+which it is in committee; 
+
 (bb) “Speaker” means the Speaker of Parliament and “Deputy
 Speaker” shall be construed accordingly;  
+
 (cc) “subordinate court” means a court subordinate to the High Court;  
+
 (dd) “Supreme Court” means the Supreme Court of Uganda;  
+
 (ee) “Uganda” means the Republic of Uganda.  
 
 (2) In this Constitution—  
+
 (a) unless the context otherwise requires, a reference to an office in
 the public service includes—  
+
 (i) a reference to the office of Chief Justice, Deputy Chief
 Justice, Principal Judge, a justice of the Supreme Court or
 a justice of Appeal, or a judge of the High Court and the
@@ -203,9 +243,11 @@ or under the authority of this Constitution, other than a
 court-martial, being an office the emoluments of which are
 paid directly from the Consolidated Fund or directly out of
 monies provided by Parliament; and  
+
 (ii) a reference to the office of a member of the Uganda Police
 Force, the Uganda Prisons Service, the education service
 and the health service;  
+
 (b) a reference to an office in the public service does not include a reference to the office of the President, the Vice President, the
 Speaker or Deputy Speaker, a Minister, the Attorney General, a
 member of Parliament or a member of any commission, authority,
@@ -247,27 +289,29 @@ to amend or revoke any such statutory instrument, rule, resolution or
 direction.
 
 (9) In this Constitution, references to the amendment of any of the
-provisions of this Constitution or any Act of Parliament include references
-
-to the alteration, modification or reenactment, with or without amendment or
+provisions of this Constitution or any Act of Parliament include references to the alteration, modification or reenactment, with or without amendment or
 modification of that provision, the suspension or repeal of that provision and
 the making of a different provision in place of that provision.
 
 
 (10) In this Constitution, unless the context otherwise requires—
+
 (a) words referring to natural persons include a reference to
 corporations;  
+
 (b) words in the singular include the plural, and words in the plural
 include the singular;  
+
 (c) words directing or empowering a public officer to do any act or
 thing, or otherwise applying to that officer by the designation of
 the office of that person, include the successors in office and all
 deputies and other assistants of that person.
 
 
-258. Ratification of certain acts relating to the procedure of Parliament.
+##### 258. Ratification of certain acts relating to the procedure of Parliament.
 
 Subject to article 92 of this Constitution—  
+
 (a) no Act, resolution or decision passed or taken or purported to
 have been passed or taken by Parliament at any time after the
 commencement of this Constitution using the procedure of voting

@@ -1,13 +1,10 @@
-
 ## Chapter Five
+
 ### Representation of The People.
 
+#### Right to vote.
 
-
-Right to vote.
-
-
-59. Right to vote.
+##### 59. Right to vote.
 
 (1) Every citizen of Uganda of eighteen years of age or above has a
 right to vote.
@@ -22,10 +19,10 @@ qualified to vote register and exercise their right to vote.
 citizens with disabilities to register and vote.
 
 
-Electoral Commission.
+#### Electoral Commission.
 
 
-60. Electoral Commission.
+##### 60. Electoral Commission.
 
 (1) There shall be an Electoral Commission which shall consist of a
 chairperson, a deputy chairperson and five other members appointed by the
@@ -55,7 +52,6 @@ organisation; or
 
 (d) a public officer.
 
-
 (6) Members of the commission shall be paid such emoluments as
 Parliament may determine.
 
@@ -75,7 +71,7 @@ of physical or mental incapacity;
 
 (c) incompetence.
 
-61. Functions of the Electoral Commission.
+##### 61. Functions of the Electoral Commission.
 
 The Electoral Commission shall have the following functions—
 
@@ -100,13 +96,13 @@ relating to elections; and
 (h) to perform such other functions as may be prescribed by
 Parliament by law.
 
-62. Independence of the commission.
+##### 62. Independence of the commission.
 
 Subject to the provisions of this Constitution, the commission shall be
 independent and shall, in the performance of its functions, not be subject to
 the direction or control of any person or authority.
 
-63. Constituencies.
+##### 63. Constituencies.
 
 (1) Subject to clauses (2) and (3) of this article, Uganda shall be
 divided into as many constituencies for the purpose of election of members
@@ -141,7 +137,7 @@ number obtained by dividing the number of inhabitants of Uganda by the
 number of constituencies into which Uganda is to be divided under this
 article.
 
-64. Appeals from decisions of the commission.
+##### 64. Appeals from decisions of the commission.
 
 (1) Any person aggrieved by a decision of the Electoral Commission
 in respect of any of the complaints referred to in article 61(f) of this
@@ -161,13 +157,13 @@ of this article shall be final.
 (5) Parliament shall make laws providing for procedure for the
 expeditious disposal of appeals referred to in this article.
 
-65. Staff of the commission.
+##### 65. Staff of the commission.
 
 The appointment of officers and employees of the Electoral Commission
 shall be made by the commission acting in consultation with the Public
 Service Commission.
 
-66. Expenses of the commission.
+##### 66. Expenses of the commission.
 
 (1) Parliament shall ensure that adequate resources and facilities are
 provided to the commission to enable it to perform its functions effectively.
@@ -180,7 +176,7 @@ its finances.
 salaries, allowances and pensions payable to or in respect of persons serving
 with the commission, shall be charged on the Consolidated Fund.
 
-67. Organisation of elections.
+##### 67. Organisation of elections.
 
 (1) The Electoral Commission shall ensure that elections are held at
 times fixed and notified in advance to the public.
@@ -194,7 +190,7 @@ the State-owned media to present their programmes to the people.
 (4) Parliament shall make laws regulating the use of public resources
 and institutions during election campaigns.
 
-68. Voting at elections and referenda.
+##### 68. Voting at elections and referenda.
 
 (1) At a public election or referendum, voting shall, subject to the
 provisions of this Constitution, be by secret ballot using one ballot box at
@@ -265,7 +261,7 @@ their roles; and
 movement political system, as it may consider necessary.
 
 
-71. Multiparty political system.
+##### 71. Multiparty political system.
 
 A political party in the multiparty political system shall conform to the
 following principles—  
@@ -289,7 +285,7 @@ sources and use of their funds and assets;
 of belonging to an organisation or interest group.
 
 
-72. Right to form political organisations.
+##### 72. Right to form political organisations.
 
 (1) Subject to the provisions of this Constitution, the right to form
 political parties and any other political organisations is guaranteed.
@@ -301,7 +297,7 @@ Constitution and it is registered.
 (3) Parliament shall by law regulate the financing and functioning of
 political organisations.
 
-73. Regulations of political organisations.
+##### 73. Regulations of political organisations.
 
 (1) Subject to the provisions of this Constitution, but notwithstanding
 the provisions of articles 29(1)(e) and 43 of this Constitution, during the
@@ -312,7 +308,7 @@ subject to such regulations as Parliament shall by law prescribe.
 (2) Regulations prescribed under this article shall not exceed what
 is necessary for enabling the political system adopted to operate.
 
-74. Change of political systems by referenda or elections.
+##### 74. Change of political systems by referenda or elections.
 
 (1) A referendum shall be held for the purpose of changing the
 political system—  
@@ -339,15 +335,15 @@ of the total membership of each of at least half of all district councils.
 political system shall be taken only in the fourth year of the term of any
 Parliament.
 
-75. Prohibition of one-party State.
+##### 75. Prohibition of one-party State.
 
 Parliament shall have no power to enact a law establishing a one-party state.
 
 
-General.
+#### General.
 
 
-76. Parliament to enact laws on elections.
+##### 76. Parliament to enact laws on elections.
 
 Parliament may, subject to the provisions of this Constitution, enact such
 laws as may be necessary for the purposes of this Chapter, including laws for

@@ -1,18 +1,12 @@
-
-
 ## Chapter Six
+
 ### The Legislature.
 
+#### Establishment, composition and functions of Parliament.
 
-
-Establishment, composition and functions of Parliament.
-
-
-77. **Parliament of Uganda.**
-
+##### 77. Parliament of Uganda.
 
 (1) There shall be a Parliament of Uganda.
-
 
 (2) The composition and functions of Parliament shall be as
 prescribed by this Constitution.
@@ -25,7 +19,7 @@ would prevent a normal general election from being held, Parliament may, by
 resolution supported by not less than two-thirds of all members of Parliament,
 extend the life of Parliament for a period not exceeding six months at a time.
 
-78. Composition of Parliament.
+##### 78. Composition of Parliament.
 
 
 (1) Parliament shall consist of—  
@@ -43,7 +37,6 @@ members of Parliament, shall be ex officio members of
 Parliament without the right to vote on any issue requiring a vote
 in Parliament.
 
-
 (2) Upon the expiration of a period of ten years after the
 commencement of this Constitution and thereafter, every five years,
 Parliament shall review the representation under clause (1)(b) and (c) of this
@@ -56,7 +49,7 @@ be elected on the basis of universal adult suffrage and by secret ballot.
 (4) Parliament shall, by law, prescribe the procedure for elections of
 representatives referred to in clause (1)(b) and (c) of this article.
 
-79. Functions of Parliament.
+##### 79. Functions of Parliament.
 
 (1) Subject to the provisions of this Constitution, Parliament shall
 have power to make laws on any matter for the peace, order, development
@@ -69,7 +62,7 @@ in Uganda except under authority conferred by an Act of Parliament.
 (3) Parliament shall protect this Constitution and promote the
 democratic governance of Uganda.
 
-80. Qualifications and disqualifications of members of Parliament.
+##### 80. Qualifications and disqualifications of members of Parliament.
 
 (1) A person is qualified to be a member of Parliament if that
 person—
@@ -100,11 +93,10 @@ in force in Uganda and has not been discharged; or
 exceeding nine months imposed by any competent court without
 the option of a fine.
 
-
 (3) A person elected to Parliament when he or she is a member of a local government council or holds a public office shall resign the office
 before assuming the office of member of Parliament.
 
-81. Election of members of Parliament.
+##### 81. Election of members of Parliament.
 
 (1) A general election of members of Parliament shall be held within
 thirty days before the expiration of the term of Parliament.
@@ -126,11 +118,9 @@ Fourth Schedule to this Constitution.
 of this article, no person shall sit or vote in Parliament before taking and
 subscribing the oaths.
 
-82. Speaker and Deputy Speaker of Parliament.
-
+##### 82. Speaker and Deputy Speaker of Parliament.
 
 (1) There shall be a Speaker and Deputy Speaker of Parliament.
-
 
 (2) The Speaker and Deputy Speaker shall be elected by members of
 Parliament from among their number.
@@ -143,13 +133,10 @@ transacted in Parliament other than an election to the office of Speaker at any
 time that office is vacant.
 
 (5) The Chief Justice or a judge designated by the Chief Justice shall
-preside at an election of a Speaker, and the Speaker shall preside at an
-
-election of the Deputy Speaker.
+preside at an election of a Speaker, and the Speaker shall preside at an election of the Deputy Speaker.
 
 (6) An election to the office of Deputy Speaker shall be held at the
 first sitting of Parliament after that office becomes vacant.
-
 
 (7) The Speaker or Deputy Speaker shall vacate his or her office—  
 
@@ -165,7 +152,6 @@ her addressed to the Clerk to Parliament;
 (e) if he or she is removed by resolution of Parliament supported by
 not less than two-thirds of all members of Parliament.
 
-
 (8) The Speaker and Deputy Speaker shall receive such salaries,
 allowances and gratuities as may be prescribed by Parliament.
 
@@ -176,7 +162,7 @@ Speaker shall be charged on the Consolidated Fund.
 duties of office, take and subscribe the oath of Speaker or Deputy Speaker
 specified in the Fourth Schedule to this Constitution.
 
-83. Tenure of office of members of Parliament.
+##### 83. Tenure of office of members of Parliament.
 
 (1) A member of Parliament shall vacate his or her seat in
 Parliament—  
@@ -215,7 +201,6 @@ that person joins a political party;
 
 (i) if that person is appointed a public officer.
 
-
 (2) Notwithstanding clause (1)(g) and (h) of this article, membership
 of a coalition government of which his or her original political party forms
 part shall not affect the status of any member of Parliament.
@@ -224,7 +209,7 @@ part shall not affect the status of any member of Parliament.
 only apply during any period when the multiparty system of government is
 in operation.
 
-84. Right of recall.
+##### 84. Right of recall.
 
 (1) Subject to the provisions of this article, the electorate of any
 constituency and of any interest group referred to in article 78 of this
@@ -253,7 +238,6 @@ conduct a public inquiry into the matters alleged in the petition and the
 Electoral Commission shall expeditiously conduct the necessary inquiry and
 report its findings to the Speaker.
 
-
 (5) The Speaker shall—  
 
 (a) declare the seat vacant, if the Electoral Commission reports that
@@ -264,12 +248,11 @@ petition; or
 commission reports that it is not satisfied with the genuineness of
 the petition.
 
-
 (6) Subject to the provisions of clauses (2), (3), (4) and (5) of this
 article, Parliament shall, by law prescribe the procedure to be followed for the
 recall of a member of Parliament.
 
-85. Emoluments of members of Parliament.
+##### 85. Emoluments of members of Parliament.
 
 (1) A member of Parliament shall be paid such emoluments and such
 gratuity and shall be provided with such facilities as may be determined by
@@ -278,7 +261,7 @@ Parliament.
 (2) A member of Parliament shall not hold any office of profit or
 emolument likely to compromise his or her office.
 
-86. Determination of questions of membership.
+##### 86. Determination of questions of membership.
 
 (1) The High Court shall have jurisdiction to hear and determine any
 question whether—
@@ -292,7 +275,6 @@ or having been so elected, has vacated that office.
 (2) A person aggrieved by the determination of the High Court under
 this article may appeal to the Court of Appeal.
 
-
 (3) Parliament shall, by law make provision with respect to—
 
 (a) the persons eligible to apply to the High Court for determination of any question under this article; and
@@ -300,19 +282,16 @@ this article may appeal to the Court of Appeal.
 (b) the circumstances and manner in which and the conditions upon
 which any such application may be made.
 
-
-87. Clerk to Parliament and other staff.
+##### 87. Clerk to Parliament and other staff.
 
 There shall be a public officer designated Clerk to Parliament appointed by
 the President in consultation with the Public Service Commission and such
 other members of staff as may be necessary for the efficient discharge of the
 functions of Parliament.
 
+#### Procedure of Parliament.
 
-Procedure of Parliament.
-
-
-88. Quorum of Parliament.
+##### 88. Quorum of Parliament.
 
 (1) The quorum of Parliament shall be one-third of all members of
 Parliament entitled to vote.
@@ -323,7 +302,7 @@ required at a time when Parliament is voting on any question.
 (3) Rules of procedure of Parliament shall prescribe the quorum of
 Parliament for the conduct of business of Parliament other than for voting.
 
-89. Voting in Parliament.
+##### 89. Voting in Parliament.
 
 (1) Except as otherwise prescribed by this Constitution or any law
 consistent with this Constitution, any question proposed for decision of
@@ -335,7 +314,7 @@ under article 94 of this Constitution.
 nor a casting vote and if on any question before Parliament the votes are
 equally divided, the motion shall be lost.
 
-90. Committees of Parliament.
+##### 90. Committees of Parliament.
 
 (1) Parliament shall appoint standing committees and other
 committees necessary for the efficient discharge of its functions.
@@ -366,7 +345,7 @@ on oath, affirmation or otherwise;
 (iii) issuing a commission or request to examine witnesses
 abroad.
 
-91. Exercise of legislative powers.
+##### 91. Exercise of legislative powers.
 
 (1) Subject to the provisions of this Constitution, the power of
 Parliament to make laws shall be exercised through bills passed by
@@ -396,7 +375,6 @@ of at least two-thirds of all members of Parliament, the Speaker shall cause
 a copy of the bill to be laid before Parliament, and the bill shall become law
 without the assent of the President.
 
-
 (6) Where the President—  
 
 (a) refuses to assent to a bill under clause (3)(c) of this article,
@@ -410,7 +388,6 @@ least two-thirds of all members of Parliament, cause a copy of the
 bill to be laid before Parliament, and the bill shall become law
 without the assent of the President.
 
-
 (7) Where the President fails to do any of the acts specified in clause
 (3) of this article within the period prescribed in that clause, the President
 shall be taken to have assented to the bill and at the expiration of that period,
@@ -421,12 +398,12 @@ bill shall become law without the assent of the President.
 which has otherwise become law under this article shall be an Act of
 Parliament and shall be published in the Gazette.
 
-92. Restriction on retrospective legislation.
+##### 92. Restriction on retrospective legislation.
 
 Parliament shall not pass any law to alter the decision or judgment of any
 court as between the parties to the decision or judgment.
 
-93. Restriction on financial matters.
+##### 93. Restriction on financial matters.
 
 Parliament shall not, unless the bill or the motion is introduced on behalf of
 the Government—  
@@ -452,13 +429,11 @@ Government of Uganda; or
 effect of which would be to make provision for any of the
 purposes specified in paragraph (a) of this article.
 
-
-94. Rules of procedure in Parliament.
+##### 94. Rules of procedure in Parliament.
 
 (1) Subject to the provisions of this Constitution, Parliament may
 make rules to regulate its own procedure, including the procedure of its
 committees.
-
 
 (2) Parliament may act notwithstanding a vacancy in its membership.
 
@@ -483,7 +458,7 @@ area of operation is affected by the bill; and
 moving the private member’s bill professional assistance in the
 drafting of the bill.
 
-95. Sessions of Parliament.
+##### 95. Sessions of Parliament.
 
 (1) Where a new Parliament is elected, the President shall, by
 proclamation, appoint the place and a date not beyond seven days after the expiry of the term of Parliament or of the extended period, as the case may
@@ -511,10 +486,9 @@ Parliament shall stand dissolved upon the expiration of its term as prescribed
 by article 77 of this Constitution.
 
 
-General.
+#### General.
 
-
-97. Parliamentary immunities and privileges.
+#### 97. Parliamentary immunities and privileges.
 
 (1) The Speaker, the Deputy Speaker, members of Parliament and any
 other person participating or assisting in or acting in connection with or

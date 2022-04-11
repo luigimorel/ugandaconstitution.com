@@ -1,14 +1,10 @@
-
-
 ## Chapter Four
+
 #### Protection and promotion of fundamental and other human rights and freedoms.
 
+#### General.
 
-
-General.
-
-
-20. Fundamental and other human rights and freedoms.
+##### 20. Fundamental and other human rights and freedoms.
 
 (1) Fundamental rights and freedoms of the individual are inherent
 and not granted by the State.
@@ -17,7 +13,7 @@ and not granted by the State.
 in this Chapter shall be respected, upheld and promoted by all organs and
 agencies of Government and by all persons.
 
-21. Equality and freedom from discrimination.
+##### 21. Equality and freedom from discrimination.
 
 (1) All persons are equal before and under the law in all spheres of
 political, economic, social and cultural life and in every other respect and
@@ -48,7 +44,7 @@ a free and democratic society.
 
 (5) Nothing shall be taken to be inconsistent with this article which  is allowed to be done under any provision of this Constitution.
 
-22. Protection of right to life.
+##### 22. Protection of right to life.
 
 (1) No person shall be deprived of life intentionally except in
 execution of a sentence passed in a fair trial by a court of competent
@@ -58,7 +54,7 @@ conviction and sentence have been confirmed by the highest appellate court.
 (2) No person has the right to terminate the life of an unborn child
 except as may be authorised by law.
 
-23. Protection of personal liberty.
+##### 23. Protection of personal liberty.
 
 (1) No person shall be deprived of personal liberty except in any of
 the following cases—  
@@ -67,8 +63,7 @@ the following cases—
 established for Uganda or another country or of an international
 court or tribunal in respect of a criminal offence of which that
 person has been convicted, or of an order of a court punishing the
-person for contempt of court;  
-
+person for contempt of court;
 
 (b) in execution of the order of a court made to secure the fulfillment
 of any obligation imposed on that person by law;  
@@ -83,6 +78,7 @@ contagious disease;
 
 (e) in the case of a person who has not attained the age of eighteen
 years, for the purpose of the education or welfare of that person;  
+
 (f) in the case of a person who is, or is reasonably suspected to be, of
 unsound mind or addicted to drugs or alcohol, for the purpose of
 the care or treatment of that person or the protection of the
@@ -95,10 +91,8 @@ or for the purpose of restricting that person while being conveyed
 through Uganda in the course of the extradition or removal of that
 person as a convicted prisoner from one country to another; or
 
-
 (h) as may be authorised by law, in any other circumstances similar
 to any of the cases specified in paragraphs (a) to (g) of this clause.
-
 
 (2) A person arrested, restricted or detained shall be kept in a place
 authorised by law.
@@ -119,7 +113,6 @@ Uganda,
 shall, if not earlier released, be brought to court as soon as possible but in any
 case not later than forty-eight hours from the time of his or her arrest.
 
-
 (5) Where a person is restricted or detained—
 
 (a) the next-of-kin of that person shall, at the request of that person,
@@ -131,7 +124,6 @@ allowed reasonable access to that person; and
 (c) that person shall be allowed access to medical treatment
 including, at the request and at the cost of that person, access to
 private medical treatment.
-
 
 (6) Where a person is arrested in respect of a criminal offence—  
 
@@ -150,7 +142,6 @@ person shall be released on bail on such conditions as the court
 considers reasonable, if the person has been remanded in custody  for three hundred and sixty days before the case is committed to
 the High Court.
 
-
 (7) A person unlawfully arrested, restricted or detained by any other
 person or authority shall be entitled to compensation from that other person
 or authority whether it is the State or an agency of the State or other person
@@ -164,21 +155,16 @@ taken into account in imposing the term of imprisonment.
 (9) The right to an order of habeas corpus shall be inviolable and shall
 not be suspended.
 
-24. Respect for human dignity and protection from inhuman
-    treatment.
+##### 24. Respect for human dignity and protection from inhuman treatment.
 
 No person shall be subjected to any form of torture or cruel, inhuman or
 degrading treatment or punishment.
 
-25. Protection from slavery, servitude and forced labour.
-
+##### 25. Protection from slavery, servitude and forced labour.
 
 (1) No person shall be held in slavery or servitude.
 
-
-
 (2) No person shall be required to perform forced labour.
-
 
 (3) For the purposes of this article, “forced labour” does not
 include—  
@@ -194,9 +180,8 @@ the person is detained;
 
 (c) any labour required of a member of a disciplined force as part of
 that member’s duties as such or, in the case of a person who has
-conscientious objections to service as a member of a naval,
+conscientious objections to service as a member of a naval, military or air force, any labour which that person is required by  law to perform in place of that service;    
 
-military or air force, any labour which that person is required by  law to perform in place of that service;    
 (d) any labour required during any period when Uganda is at war or
 in case of any emergency or calamity which threatens the life and
 well-being of the community, to the extent that the requiring of
@@ -208,8 +193,7 @@ situation; or
 (e) any labour reasonably required as part of reasonable and normal
 communal or other civic obligations.
 
-
-26. Protection from deprivation of property.
+##### 26. Protection from deprivation of property.
 
 (1) Every person has a right to own property either individually or in
 association with others.
@@ -231,20 +215,19 @@ and
 (ii) a right of access to a court of law by any person who has an
 interest or right over the property.
 
-27. Right to privacy of person, home and other property.  
-
+##### 27. Right to privacy of person, home and other property.
 
 (1) No person shall be subjected to—
+
 (a) unlawful search of the person, home or other property of that
 person; or  
 
 (b) unlawful entry by others of the premises of that person.
 
-
 (2) No person shall be subjected to interference with the privacy of
 that person’s home, correspondence, communication or other property.
 
-28. Right to a fair hearing.
+##### 28. Right to a fair hearing.
 
 (1) In the determination of civil rights and obligations or any criminal
 charge, a person shall be entitled to a fair, speedy and public hearing before
@@ -254,7 +237,6 @@ an independent and impartial court or tribunal established by law.
 tribunal from excluding the press or the public from all or any proceedings
 before it for reasons of morality, public order or national security, as may be
 necessary in a free and democratic society.
-
 
 (3) Every person who is charged with a criminal offence shall—  
 
@@ -280,7 +262,6 @@ the trial;
 
 (g) be afforded facilities to examine witnesses and to obtain the
 attendance of other witnesses before the court.
-
 
 (4) Nothing done under the authority of any law shall be held to be
 inconsistent with—  
@@ -330,9 +311,7 @@ against that person.
 criminal offence unless the offence is defined and the penalty for it prescribed
 by law.
 
-29. Protection of freedom of conscience, expression, movement,
-    religion, assembly and association.
-
+#####29. Protection of freedom of conscience, expression, movement, religion, assembly and association.
 
 (1) Every person shall have the right to—  
 
@@ -354,8 +333,6 @@ peacefully and unarmed and to petition; and
 and join associations or unions, including trade unions and
 political and other civic organisations.
 
-
-
 (2) Every Ugandan shall have the right—
 
 (a) to move freely throughout Uganda and to reside and settle in any
@@ -365,12 +342,11 @@ part of Uganda;
 
 (c) to a passport or other travel document.
 
-
-30. Right to education.
+##### 30. Right to education.
 
 All persons have a right to education.
 
-31. Rights of the family.
+##### 31. Rights of the family.
 
 (1) Men and women of the age of eighteen years and above have the
 right to marry and to found a family and are entitled to equal rights in
@@ -390,7 +366,7 @@ children.
 entitled to bring them up against the will of their families or of those persons,
 except in accordance with the law.
 
-32. Affirmative action in favour of marginalised groups.
+##### 32. Affirmative action in favour of marginalised groups.
 
 (1) Notwithstanding anything in this Constitution, the State shall take
 affirmative action in favour of groups marginalised on the basis of gender,
@@ -401,7 +377,7 @@ the purpose of redressing imbalances which exist against them.
 establishment of an equal opportunities commission, for the purpose of
 giving full effect to clause (1) of this article.
 
-33. Rights of women.
+##### 33. Rights of women.
 
 (1) Women shall be accorded full and equal dignity of the person
 with men.
@@ -425,12 +401,11 @@ imbalances created by history, tradition or custom.
 dignity, welfare or interest of women or which undermine their status, are
 prohibited by this Constitution.
 
-34. Rights of children.
+##### 34. Rights of children.
 
 (1) Subject to laws enacted in their best interests, children shall have
 the right to know and be cared for by their parents or those entitled by law to
 bring them up.
-
 
 (2) A child is entitled to basic education which shall be the responsibility of the State and the parents of the child.
 
@@ -452,7 +427,7 @@ be kept separately from adult offenders.
 (7) The law shall accord special protection to orphans and other
 vulnerable children.
 
-35. Rights of persons with disabilities.
+##### 35. Rights of persons with disabilities.
 
 (1) Persons with disabilities have a right to respect and human
 dignity, and the State and society shall take appropriate measures to ensure
@@ -461,19 +436,19 @@ that they realise their full mental and physical potential.
 (2) Parliament shall enact laws appropriate for the protection of
 persons with disabilities.
 
-36. Protection of rights of minorities.
+##### 36. Protection of rights of minorities.
 
 Minorities have a right to participate in decision-making processes, and their
 views and interests shall be taken into account in the making of national plans
 and programmes.
 
-37. Right to culture and similar rights.
+##### 37. Right to culture and similar rights.
 
 Every person has a right as applicable to belong to, enjoy, practise, profess,
 maintain and promote any culture, cultural institution, language, tradition,
 creed or religion in community with others.
 
-38. Civic rights and activities.
+##### 38. Civic rights and activities.
 
 (1) Every Uganda citizen has the right to participate in the affairs of
 government, individually or through his or her representatives in accordance
@@ -482,26 +457,26 @@ with law.
 (2) Every Ugandan has a right to participate in peaceful activities to
 influence the policies of government through civic organisations.
 
-39. Right to a clean and healthy environment.
+##### 39. Right to a clean and healthy environment.
 
 Every Ugandan has a right to a clean and healthy environment.
 
-40. Economic rights.
-
+##### 40. Economic rights.
 
 (1) Parliament shall enact laws—  
+
 (a) to provide for the right of persons to work under satisfactory, safe
 and healthy conditions;  
+
 (b) to ensure equal payment for equal work without discrimination;
-and  
+and 
+
 (c) to ensure that every worker is accorded rest and reasonable
 working hours and periods of holidays with pay, as well as
 remuneration for public holidays.
 
-
 (2) Every person in Uganda has the right to practise his or her
 profession and to carry on any lawful occupation, trade or business.
-
 
 (3) Every worker has a right—  
 
@@ -513,11 +488,10 @@ interests;
 
 (c) to withdraw his or her labour according to law.  
 
-
 (4) The employer of every woman worker shall accord her protection
 during pregnancy and after birth, in accordance with the law.
 
-41. Right of access to information.
+##### 41. Right of access to information.
 
 (1) Every citizen has a right of access to information in the possession
 of the State or any other organ or agency of the State except where the release
@@ -528,19 +502,17 @@ State or interfere with the right to the privacy of any other person.
 referred to in clause (1) of this article and the procedure for obtaining access
 to that information.
 
-42. Right to just and fair treatment in administrative decisions.
+##### 42. Right to just and fair treatment in administrative decisions.
 
 Any person appearing before any administrative official or body has a right
 to be treated justly and fairly and shall have a right to apply to a court of law
 in respect of any administrative decision taken against him or her.
 
-43. General limitation on fundamental and other human rights and
-    freedoms.
+##### 43. General limitation on fundamental and other human rights and freedoms.
 
 (1) In the enjoyment of the rights and freedoms prescribed in this
 Chapter, no person shall prejudice the fundamental or other human rights and
 freedoms of others or the public interest.
-
 
 (2) Public interest under this article shall not permit— 
 
@@ -554,8 +526,7 @@ demonstrably justifiable in a free and democratic society, or what
 is provided in this Constitution.
 
 
-44. Prohibition of derogation from particular human rights and
-    freedoms.
+##### 44. Prohibition of derogation from particular human rights and freedoms.
 
 Notwithstanding anything in this Constitution, there shall be no derogation
 from the enjoyment of the following rights and freedoms—  
@@ -569,17 +540,15 @@ or punishment;
 
 (d) the right to an order of habeas corpus.
 
-45. Human rights and freedoms additional to other rights.
+##### 45. Human rights and freedoms additional to other rights.
 
 The rights, duties, declarations and guarantees relating to the fundamental
 and other human rights and freedoms specifically mentioned in this Chapter
 shall not be regarded as excluding others not specifically mentioned.
 
+#### Human rights and freedoms during a state of emergency.
 
-Human rights and freedoms during a state of emergency.
-
-
-46. Effect of laws enacted for a state of emergency.
+##### 46. Effect of laws enacted for a state of emergency.
 
 (1) An Act of Parliament shall not be taken to contravene the rights
 and freedoms guaranteed in this Chapter, if that Act authorises the taking of
@@ -593,7 +562,7 @@ only to that part of Uganda where the emergency exists.
 accordance with that clause may make provision for the detention of persons
 where necessary for the purposes of dealing with the emergency.
 
-47. Detention under emergency laws.
+##### 47. Detention under emergency laws.
 
 Where a person is restricted or detained under a law made for the purpose of
 a state of emergency, the following provisions shall apply—  
@@ -615,7 +584,7 @@ or detained and giving particulars of the provisions of the law
 under which his or her restriction or detention is authorised and
 the grounds of his or her restriction or detention.
 
-48. Review by the Uganda Human Rights Commission.
+##### 48. Review by the Uganda Human Rights Commission.
 
 (1) The Uganda Human Rights Commission shall review the case of
 a person who is restricted or detained and to whom article 47 of this
@@ -637,7 +606,7 @@ hearing or review of his or her case.
 may order the release of that person, or uphold the grounds of the restriction
 or detention.
 
-49. Report to Parliament.
+##### 49. Report to Parliament.
 
 (1) In every month in which there is a sitting of Parliament, the
 Minister responsible shall make a report to Parliament in respect of—  
@@ -665,11 +634,10 @@ emergency declared under this Constitution, any person in or under
 restriction, detention or custody as a result of the declaration of emergency shall be released immediately, unless charged with a criminal offence in a
 court of law.
 
+#### Enforcement of rights and freedoms by courts.
 
-Enforcement of rights and freedoms by courts.
 
-
-50. Enforcement of rights and freedoms by courts.
+##### 50. Enforcement of rights and freedoms by courts.
 
 (1) Any person who claims that a fundamental or other right or
 freedom guaranteed under this Constitution has been infringed or threatened,
@@ -686,10 +654,10 @@ the appropriate court.
 freedoms under this Chapter.
 
 
-Uganda Human Rights Commission.
+#### Uganda Human Rights Commission.
 
 
-51. Uganda Human Rights Commission.
+##### 51. Uganda Human Rights Commission.
 
 (1) There shall be a commission called the Uganda Human Rights
 Commission.
@@ -705,8 +673,7 @@ Court or a person qualified to hold that office.
 of high moral character and proven integrity and shall serve for a period of
 six years and be eligible for reappointment.
 
-52. Functions of the Human Rights Commission.
-
+##### 52. Functions of the Human Rights Commission.
 
 (1) The commission shall have the following functions—  
 
@@ -742,7 +709,6 @@ and convention obligations on human rights; and
 
 (i) to perform such other functions as may be provided by law.
 
-
 (2) The Uganda Human Rights Commission shall publish periodic
 reports on its findings and submit annual reports to Parliament on the state of
 human rights and freedoms in the country.
@@ -757,7 +723,7 @@ or person in the performance of its functions; and
 
 (c) observe the rules of natural justice.
 
-53. Powers of the commission.
+##### 53. Powers of the commission.
 
 (1) In the performance of its functions, the commission shall have the
 powers of a court—
@@ -775,7 +741,6 @@ knowledge relevant to any investigation by the commission; and
 
 (d) to commit persons for contempt of its orders.
 
-
 (2) The commission may, if satisfied that there has been an
 infringement of a human right or freedom, order—  
 
@@ -789,7 +754,6 @@ infringement of a human right or freedom, order—
 commission under clause (2) of this article has a right to appeal to the High
 Court.
 
-
 (4) The commission shall not investigate—  
 
 (a) any matter which is pending before a court or judicial tribunal;  
@@ -800,39 +764,34 @@ international organisation; or
 
 (c) a matter relating to the exercise of the prerogative of mercy.
 
-
-54. Independence of the commission.
+##### 54. Independence of the commission.
 
 Subject to this Constitution, the commission shall be independent and shall
 not, in the performance of its duties, be subject to the direction or control of
 any person or authority.
 
-55. Expenses of the commission.
+##### 55. Expenses of the commission.
 
 (1) The commission shall be self-accounting and all the
 administrative expenses of the commission, including salaries, allowances
 and pensions payable to persons serving with the commission, shall be
 charged on the Consolidated Fund.
 
+(2) The chairperson and other members of the commission shall be paid such salaries and allowances as Parliament may prescribe.
 
-(2) The chairperson and other members of the commission shall be
-
-
-paid such salaries and allowances as Parliament may prescribe.
-
-56. Removal of commissioners.
+##### 56. Removal of commissioners.
 
 The provisions of this Constitution relating to the removal of a judge of the
 High Court from office shall, with the necessary modifications, apply to the
 removal from office of a member of the commission.
 
-57. Staff of the commission.
+##### 57. Staff of the commission.
 
 The appointment of the officers and other employees of the commission shall
 be made by the commission in consultation with the Public Service
 Commission.
 
-58. Parliament to make laws regarding functions of the commission.
+##### 58. Parliament to make laws regarding functions of the commission.
 
 Parliament may make laws to regulate and facilitate the performance of the
 functions of the Uganda Human Rights Commission.

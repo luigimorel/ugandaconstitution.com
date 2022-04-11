@@ -2,7 +2,7 @@
 
 ### The Constitution.
 
-1. Sovereignty of the people.
+##### 1. Sovereignty of the people.
 
 (1) All power belongs to the people who shall exercise their
 sovereignty in accordance with this Constitution.
@@ -19,7 +19,7 @@ consent to be governed in accordance with this Constitution.
 govern them and how they should be governed, through regular, free and fair
 elections of their representatives or through referenda.
 
-2. Supremacy of the Constitution.
+##### 2. Supremacy of the Constitution.
 
 (1) This Constitution is the supreme law of Uganda and shall have
 binding force on all authorities and persons throughout Uganda.
@@ -28,7 +28,7 @@ binding force on all authorities and persons throughout Uganda.
 provisions of this Constitution, the Constitution shall prevail, and that other
 law or custom shall, to the extent of the inconsistency, be void.
 
-3. Defence of the Constitution.
+##### 3. Defence of the Constitution.
 
 (1) It is prohibited for any person or group of persons to take or retain
 control of the Government of Uganda, except in accordance with the
@@ -64,13 +64,12 @@ this Constitution, be considered void from the time it was imposed, and that
 person shall be taken to be absolved from all liabilities arising out of the
 punishment.
 
-4. Promotion of public awareness of the Constitution.
+##### 4. Promotion of public awareness of the Constitution.
 
 The State shall promote public awareness of this Constitution by—
 
 (a) translating it into Ugandan languages and disseminating it as
-widely as possible; and  
-
+widely as possible; and
 
 (b) providing for the teaching of the Constitution in all educational
 institutions and armed forces training institutions and regularly

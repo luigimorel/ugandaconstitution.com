@@ -1,14 +1,10 @@
-
-
 ## Chapter Seven
+
 ### The Executive.
 
+#### The President.
 
-
-The President.
-
-
-98. President of Uganda.
+##### 98. President of Uganda.
 
 (1) There shall be a President of Uganda who shall be the Head of
 State, Head of Government and Commander-in-Chief of the Uganda Peoples’
@@ -31,7 +27,7 @@ done in his or her personal capacity before or during the term of office of that
 person; and any period of limitation in respect of any such proceedings shall
 not be taken to run during the period while that person was President.
 
-99. Executive authority of Uganda.
+##### 99. Executive authority of Uganda.
 
 (1) The executive authority of Uganda is vested in the President and
 shall be exercised in accordance with this Constitution and the laws of
@@ -54,7 +50,7 @@ signature of a Minister; and the validity of any instrument so authenticated
 shall not be called in question on the ground that it is not made, issued or
 executed by the President.
 
-100. Notification of the absence of the President from Uganda.
+##### 100. Notification of the absence of the President from Uganda.
 
 The President shall, whenever leaving Uganda, notify in writing the Vice
 President, the Speaker and the Chief Justice.
@@ -67,7 +63,7 @@ Parliament, deliver to Parliament an address on the state of the nation.
 (2) The President may, also, in consultation with the Speaker, address
 Parliament from time to time, on any matter of national importance.
 
-102. Qualifications of the President.
+##### 102. Qualifications of the President.
 
 A person is not qualified for election as President unless that person is—  
 
@@ -78,7 +74,7 @@ years of age; and
 
 (c) a person qualified to be a member of Parliament.
 
-103. Election of the President.
+##### 103. Election of the President.
 
 (1) The election of the President shall be by universal adult suffrage
 through a secret ballot.
@@ -135,7 +131,7 @@ declared elected as President.
 law, prescribe the procedure for the election and assumption of office by a
 President.
 
-104. Challenging a presidential election.
+##### 104. Challenging a presidential election.
 
 (1) Subject to the provisions of this article, any aggrieved candidate
 may petition the Supreme Court for an order that a candidate declared by the
@@ -179,7 +175,7 @@ shall not apply.
 purposes of this article, including laws for grounds of annulment and rules of
 procedure.
 
-105. Tenure of office of a President.
+##### 105. Tenure of office of a President.
 
 (1) A person elected President under this Constitution shall, subject
 to clause (3) of this article, hold office for a term of five years.
@@ -205,7 +201,7 @@ received by the Chief Justice.
 resignation of the President under this article, notify the Vice President, the
 Speaker and the Electoral Commission of the resignation.
 
-106. Terms and conditions of service of the President.
+##### 106. Terms and conditions of service of the President.
 
 (1) The President shall be paid a salary and allowances and afforded
 such other benefits as Parliament shall by law provide.
@@ -231,7 +227,7 @@ while he or she holds office.
 (7) The retirement benefits granted to a President under this article
 shall not be varied to the disadvantage of the President.
 
-107. Removal of the President.
+##### 107. Removal of the President.
 
 (1) The President may be removed from office in accordance with
 this article on any of the following grounds—  
@@ -343,7 +339,7 @@ be assisted or represented by a lawyer or other expert or person of his or her
 choice during the proceedings of Parliament relating to the motion for a
 resolution under this article.
 
-108. Vice President.
+##### 108. Vice President.
 
 
 (1) There shall be a Vice President of Uganda.
@@ -363,10 +359,7 @@ Constitution.
 
 
 
-(4) The qualifications prescribed for the office of President by article
-
-
-102 of this Constitution shall apply to the office of Vice President.
+(4) The qualifications prescribed for the office of President by article 102 of this Constitution shall apply to the office of Vice President.
 
 
 (5) The office of Vice President shall become vacant if—  
@@ -388,7 +381,7 @@ Vice President.
 functions of Vice President, take and subscribe the oath of allegiance and the
 oath of Vice President, specified in the Fourth Schedule to this Constitution.
 
-109. Absence of the President.
+##### 109. Absence of the President.
 
 (1) If the President dies, resigns or is removed from office under this
 Constitution, the Vice President shall assume the office of President until
@@ -427,7 +420,7 @@ of the death, resignation or removal of the President and the Vice President,
 or under the provisions of article 104(7) of this Constitution, a presidential
 election shall be held in accordance with clause (2) of this article.
 
-110. State of emergency.
+##### 110. State of emergency.
 
 (1) The President may, in consultation with the Cabinet, by
 proclamation, declare that a state of emergency exists in Uganda, or any part
@@ -475,10 +468,10 @@ or (5) of this article shall be supported by the votes of more than one-half of
 all the members of Parliament.
 
 
-The Cabinet.
+#### The Cabinet.
 
 
-111. The Cabinet.
+##### 111. The Cabinet.
 
 (1) There shall be a Cabinet which shall consist of the President, the
 Vice President and such number of Ministers as may appear to the President
@@ -502,7 +495,7 @@ functions as the President may direct.
 his or her office, take and subscribe the oath of allegiance and the oath of
 Secretary to the Cabinet specified in the Fourth Schedule to this Constitution.
 
-112. Meetings of the Cabinet.
+##### 112. Meetings of the Cabinet.
 
 (1) Cabinet meetings shall be summoned and presided over by the
 President and in his or her absence, by the Vice President or in the absence
@@ -512,7 +505,7 @@ of both of them, by a Minister designated in writing by the President.
 (2) The Cabinet shall regulate the procedure of its meetings.
 
 
-113. Cabinet Ministers.
+##### 113. Cabinet Ministers.
 
 (1) Cabinet Ministers shall be appointed by the President with the
 approval of Parliament from among members of Parliament or persons
@@ -527,7 +520,7 @@ Government as the President may, from time to time, assign to him or her.
 (4) A Minister shall not hold any office of profit or emolument likely
 to compromise his or her office.
 
-114. Other Ministers.
+##### 114. Other Ministers.
 
 (1) The President may, with the approval of Parliament, appoint other
 Ministers to assist Cabinet Ministers in the performance of their functions.
@@ -547,13 +540,13 @@ Cabinet Minister as the President directs.
 (5) Article 113(4) of this Constitution applies to a Minister referred
 to in clause (1) of this article.
 
-115. Oath of Minister.
+##### 115. Oath of Minister.
 
 A Minister shall, before assuming the duties of office take and subscribe the
 oath of allegiance and the oath of Minister specified in the Fourth Schedule
 to this Constitution.
 
-116. Vacation of office of Minister.
+##### 116. Vacation of office of Minister.
 
 The office of a Minister shall become vacant—  
 
@@ -574,7 +567,7 @@ Ministers shall individually be accountable to the President for the
 administration of their Ministries and collectively be responsible for any
 decision made by the Cabinet.
 
-118. Vote of censure.
+##### 118. Vote of censure.
 
 (1) Parliament may, by resolution supported by more than half of all
 members of Parliament, pass a vote of censure against a Minister on any of
@@ -615,7 +608,7 @@ the expiry of thirty days after the petition was sent to the President.
 clause (5) of this article is entitled during the debate to be heard in his or her
 defence.
 
-119. Attorney General.
+##### 119. Attorney General.
 
 (1) There shall be an Attorney General who shall be a Cabinet
 Minister appointed by the President with the approval of Parliament.
@@ -658,10 +651,10 @@ a foreign government or its agency or an international organisation from the
 application of that clause.
 
 
-Director of Public Prosecutions.
+#### Director of Public Prosecutions.
 
 
-120. Director of Public Prosecutions.
+##### 120. Director of Public Prosecutions.
 
 (1) There shall be a Director of Public Prosecutions appointed by the
 President on the recommendation of the Public Service Commission and with
@@ -714,10 +707,10 @@ direction or control of any person or authority.
 conditions of service as those of a High Court judge.
 
 
-Prerogative of mercy.
+####Prerogative of mercy.
 
 
-121. Prerogative of mercy.
+##### 121. Prerogative of mercy.
 
 (1) There shall be an Advisory Committee on the Prerogative of
 Mercy which shall consist of—  
@@ -770,10 +763,10 @@ punishment, penalty, sentence or forfeiture by a court martial or other military
 tribunal except a field court martial.
 
 
-International relations.
+#### International relations.
 
 
-122. Diplomatic representation.
+##### 122. Diplomatic representation.
 
 (1) The President may, with the approval of Parliament, appoint
 ambassadors and heads of diplomatic missions.
@@ -782,7 +775,7 @@ ambassadors and heads of diplomatic missions.
 (2) The President may receive envoys accredited to Uganda.
 
 
-123. Execution of treaties, conventions and agreements.
+##### 123. Execution of treaties, conventions and agreements.
 
 (1) The President or a person authorised by the President may make
 treaties, conventions, agreements or other arrangements between Uganda and
@@ -794,10 +787,10 @@ conventions, agreements or other arrangements made under clause (1) of this
 article.
 
 
-Declaration of a state of war.
+#### Declaration of a state of war.
 
 
-124. Declaration of a state of war.
+##### 124. Declaration of a state of war.
 
 (1) The President may, with the approval of Parliament, given by
 resolution supported by not less than two-thirds of all the members of
@@ -820,10 +813,10 @@ resolution, revoke a declaration of a state of war made under clause (1) or (2)
 of this article.
 
 
-National Planning Authority.
+#### National Planning Authority.
 
 
-125. National Planning Authority.
+##### 125. National Planning Authority.
 
 There shall be a National Planning Authority whose composition and
 functions shall be prescribed by Parliament.

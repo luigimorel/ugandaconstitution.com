@@ -2,28 +2,26 @@
 
 ### Citizenship.
 
-9. Citizens of Uganda.
+##### 9. Citizens of Uganda.
 
 Every person who, on the commencement of this Constitution, is a citizen of
 Uganda shall continue to be such a citizen.
 
-10. Citizenship by birth.
+##### 10. Citizenship by birth.
 
-The following persons shall be citizens of Uganda by birth—  
+The following persons shall be citizens of Uganda by birth—
 
-
- a). every person born in Uganda one of whose parents or
+(a). every person born in Uganda one of whose parents or
 grandparents is or was a member of any of the indigenous
 communities existing and residing within the borders of Uganda
 as at the first day of February, 1926, and set out in the Third
-Schedule to this Constitution; and  
-
+Schedule to this Constitution; and
 
 b). every person born in or outside Uganda one of whose parents or
 grandparents was at the time of birth of that person a citizen of
 Uganda by birth.
 
-11. Foundlings and adopted children.
+##### 11. Foundlings and adopted children.
 
 (1) A child of not more than five years of age found in Uganda,
 whose parents are not known, shall be presumed to be a citizen of Uganda by
@@ -33,31 +31,32 @@ birth.
 is a citizen of Uganda, who is adopted by a citizen of Uganda shall, on
 application, be registered as a citizen of Uganda.
 
-12. Citizenship by registration.
+##### 12. Citizenship by registration.
 
 (1) Every person born in Uganda—  
+
 (a) at the time of whose birth—  
+
 (i) neither of his or her parents and none of his or her
-grandparents had diplomatic status in Uganda; and  
+grandparents had diplomatic status in Uganda; and 
+
 (ii) neither of his or her parents and none of his or her
 grandparents was a refugee in Uganda; and  
+
 (b) who has lived continuously in Uganda since the ninth day of
 October, 1962,
 shall, on application, be entitled to be registered as a citizen of Uganda.
 
 (2) The following persons shall, upon application, be registered as
-citizens of Uganda—  
-
+citizens of Uganda—
 
 (a) every person married to a Uganda citizen upon proof of a legal
 and subsisting marriage of three years or such other period
-prescribed by Parliament;  
-
+prescribed by Parliament;
 
 (b) every person who has legally and voluntarily migrated to and has
 been living in Uganda for at least ten years or such other period
 prescribed by Parliament;  
-
 
 (c) every person who, on the commencement of this Constitution, has
 lived in Uganda for at least twenty years.
@@ -69,38 +68,35 @@ continued to be a citizen of Uganda under this Constitution.
 (4) Where a person has been registered as a citizen of Uganda under
 clause (2) (a) of this article and the marriage by virtue of which that person
 was registered is—  
+
 (a) annulled or otherwise declared void by a court or tribunal of
 competent jurisdiction; or  
-(b) dissolved,
-that person shall, unless he or she renounces that citizenship, continue to be
+
+(b) dissolved, that person shall, unless he or she renounces that citizenship, continue to be
 a citizen of Uganda.
 
-13. Citizenship by naturalisation.
+##### 13. Citizenship by naturalisation.
 
 Parliament shall by law provide for the acquisition and loss of citizenship by
 naturalisation.
 
-14. Loss of citizenship by registration.
+##### 14. Loss of citizenship by registration.
 
 A person may be deprived of his or her citizenship if acquired by registration,
 on any of the following grounds—  
 
-
 (a) voluntary acquisition of the citizenship of another country;  
-
 
 (b) voluntary service in the armed forces or security forces of a
 country hostile to or at war with Uganda;  
-
 
 (c) acquisition of Uganda citizenship by fraud, deceit, bribery, or
 having made intentional and deliberate false statements in his or
 her application for citizenship; and  
 
-
 (d) espionage against Uganda.
 
-15. Prohibition of dual citizenship.
+##### 15. Prohibition of dual citizenship.
 
 (1) Subject to this article, a Uganda citizen shall not hold the
 citizenship of another country concurrently with his or her Uganda
@@ -111,10 +107,10 @@ Uganda if, on attaining the age of eighteen years he or she, by voluntary act
 other than marriage, acquires or retains the citizenship of a country other than
 Uganda.
 
-(3) A person who—  
+(3) A person who—
 
+(a) becomes a citizen of Uganda by registration; and 
 
-(a) becomes a citizen of Uganda by registration; and  
 (b) upon becoming a citizen of Uganda, is also a citizen of another
 country,
 shall cease to be a citizen of Uganda unless he or she has—  
@@ -142,7 +138,7 @@ of his or her citizenship by virtue of that marriage shall, on the dissolution o
 that marriage, if he or she thereby loses his or her citizenship acquired by that
 marriage, become a citizen of Uganda.
 
-16. National Citizenship and Immigration Board.
+##### 16. National Citizenship and Immigration Board.
 
 (1) There shall be a National Citizenship and Immigration Board.
 
@@ -167,7 +163,7 @@ naturalisation;
 (4) The functions of the board set out in clause (3)(a), (b) and (d) of
 this article may be decentralised to the district level.
 
-17. Duties of a citizen.
+##### 17. Duties of a citizen.
 
 (1) It is the duty of every citizen of Uganda—  
 
@@ -181,6 +177,7 @@ abuse, harassment or ill-treatment;
 (d) to protect and preserve public property;  
 
 (e) to defend Uganda and to render national service when necessary;
+
 (f) to cooperate with lawful agencies in the maintenance of law and
 order;  
 
@@ -198,11 +195,11 @@ training for the defence of this Constitution and the protection of the
 territorial integrity of Uganda whenever called upon to do so; and the State
 shall ensure that facilities are available for such training.
 
-18. Registration of births, marriages and deaths.
+##### 18. Registration of births, marriages and deaths.
 
 The State shall register every birth, marriage and death occurring in Uganda.
 
-19. Citizenship of a parent dying before the birth of a person.
+##### 19. Citizenship of a parent dying before the birth of a person.
 
 (1) A reference in this Chapter to the citizenship of the parent of a
 person at the time of the birth of that person shall, in relation to a person born

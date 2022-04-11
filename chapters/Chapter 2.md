@@ -2,7 +2,7 @@
 
 ### The Republic.
 
-5. The Republic of Uganda.
+##### 5. The Republic of Uganda.
 
 (1) Uganda is one sovereign State and a Republic.
 
@@ -15,7 +15,7 @@ Second Schedule to this Constitution.
 
 (4) The capital of Uganda is Kampala.
 
-6. Official language.
+##### 6. Official language.
 
 (1) The official language of Uganda is English.
 
@@ -24,11 +24,11 @@ used as a medium of instruction in schools or other educational institutions
 or for legislative, administrative or judicial purposes as may be prescribed by
 law.
 
-7. Nonadoption of a State religion.
+##### 7. Nonadoption of a State religion.
 
 Uganda shall not adopt a State religion.
 
-8. National symbols and seals.
+##### 8. National symbols and seals.
 
 The national flag, the national coat of arms, the public seal, the national
 anthem and the seals of the courts of judicature in use immediately before the

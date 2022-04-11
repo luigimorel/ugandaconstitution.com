@@ -1,10 +1,8 @@
-
-
 ## Chapter Sixteen
+
 ### Institution of Traditional or Cultural Leaders.
 
-
-246. Institution of traditional or cultural leaders.
+##### 246. Institution of traditional or cultural leaders.
 
 (1) Subject to the provisions of this Constitution, the institution of
 traditional leader or cultural leader may exist in any area of Uganda in
@@ -17,22 +15,28 @@ concerned using a method prescribed by Parliament.
 
 (3) The following provisions shall apply in relation to traditional
 leaders or cultural leaders—  
+
 (a) the institution of traditional leader or a cultural leader shall be a
 corporation sole with perpetual succession and with capacity to
 sue and be sued and to hold assets or properties in trust for itself
 and the people concerned;  
+
 (b) nothing in paragraph (a) shall be taken to prohibit a traditional
 leader or cultural leader from holding any asset or property
 acquired in a personal capacity;  
+
 (c) a traditional leader or cultural leader shall enjoy such privileges
 and benefits as may be conferred by the Government and local
 government or as that leader may be entitled to under culture,
 custom and tradition;  
+
 (d) subject to paragraph (c) of this clause, no person shall be
 compelled to pay allegiance or contribute to the cost of
 maintaining a traditional leader or cultural leader;  
+
 (e) a person shall not, while remaining a traditional leader or cultural
 leader, join or participate in partisan politics;  
+
 (f) a traditional leader or cultural leader shall not have or exercise
 any administrative, legislative or executive powers of
 Government or local government.

@@ -6,11 +6,11 @@
 
 Parliament shall—
 
-(a) by law establish an efficient, fair and expeditious machinery for
+- **(a)** by law establish an efficient, fair and expeditious machinery for
 the administration and management of the estates of deceased
 persons; and  
 
-(b) under the law referred to in paragraph (a) of this article, ensure
+- **(b)** under the law referred to in paragraph (a) of this article, ensure
 that the services of the department or organisation established for
 the purpose are decentralised and accessible to all persons who
 may reasonably require those services and that the interests of all
@@ -44,8 +44,7 @@ that purpose.
 by or against the Attorney General; and all documents required to be served on the Government for the purpose of or in connection with those
 proceedings shall be served on the Attorney General.
 
-(3) Parliament may by law make provision for the purposes of clause
-(1) of this article.
+(3) Parliament may by law make provision for the purposes of clause (1) of this article.
 
 (4) In the title of any criminal proceedings, the prosecution shall be
 designated by the word “Uganda”.
@@ -82,20 +81,20 @@ it.
 (3) For the purposes of clause (1) of this article, “office” includes the
 office of—  
 
-(a) the Vice President;  
+- **(a)** the Vice President;  
 
-(b) the Speaker and Deputy Speaker;  
+- **(b)** the Speaker and Deputy Speaker;  
 
-(c) a Minister;  
+- **(c)** a Minister;  
 
-(d) the Attorney General;  
+- **(d)** the Attorney General;  
 
-(e) a member of Parliament;  
+- **(e)** a member of Parliament;  
 
-(f) a member of any commission, authority, council or committee
+- **(f)** a member of any commission, authority, council or committee
 established by this Constitution; and  
 
-(g) a public officer.
+- **(g)** a public officer.
 
 
 (4) Subject to the provisions of this article, Parliament may make
@@ -146,96 +145,96 @@ administered in a manner prescribed by law.
 
 (1) In this Constitution, unless the context otherwise requires—  
 
-(a) “Act of Parliament” means a law made by Parliament;  
+- **(a)** “Act of Parliament” means a law made by Parliament;  
 
-(b) “article” means an article of this Constitution;  
+- **(b)** “article” means an article of this Constitution;  
 
-(c) “child” means a person under the age of eighteen years;  
+- **(c)** “child” means a person under the age of eighteen years;  
 
-(d) “court” means a court of judicature established by or under the
+- **(d)** “court” means a court of judicature established by or under the
 authority of this Constitution;  
 
-(e) “Court of Appeal” means the Court of Appeal of Uganda;  
+- **(e)** “Court of Appeal” means the Court of Appeal of Uganda;  
 
-(f) “district” means a district referred to in article 5 of this
+- **(f)** “district” means a district referred to in article 5 of this
 Constitution;   
 
-(g) “district council” means a district council established under
+- **(g)** “district council” means a district council established under
 article 180 of this Constitution; 
 
-(h) “education service” means any part of the public service
+- **(h)** “education service” means any part of the public service
 established as the education service by Parliament by law in
 conformity with this Constitution; 
 
-(i) “financial year” means the period of twelve months ending on the
+    - **(i)** “financial year” means the period of twelve months ending on the
 thirtieth day of June in any year or such other day as Parliament
 may by law prescribe; 
 
-(j) “functions” includes powers and duties;
+    - **(j)** “functions” includes powers and duties;
 
-(k) “Gazette” means The Uganda Gazette and includes any
+- **(k)** “Gazette” means The Uganda Gazette and includes any
 supplement of that Gazette;  
 
-(l) “Government” means the Government of Uganda;  
+- **(l)** “Government” means the Government of Uganda;  
 
-(m) “health service” means any part of the public service established
+- **(m)** “health service” means any part of the public service established
 as the health service by Parliament by law in conformity with this
 Constitution;  
 
-(n) “High Court” means the High Court of Uganda;  
+- **(n)** “High Court” means the High Court of Uganda;  
 
-(o) “judgment” includes a decision, an order or decree of the court;  
+- **(o)** “judgment” includes a decision, an order or decree of the court;  
 
-(p) “judicial power” means the power to dispense justice among
+- **(p)** “judicial power” means the power to dispense justice among
 persons and between persons and the State under the laws of
 Uganda;  
 
-(q) “Leadership Code of Conduct” means the Leadership Code of
+- **(q)** “Leadership Code of Conduct” means the Leadership Code of
 Conduct established under Chapter Fourteen of this Constitution;
 
-(r) “local government council” means a council referred to in article
+- **(r)** “local government council” means a council referred to in article
 180 of this Constitution;  
 
-(s) “Minister” means a Minister of the Government and includes a
+- **(s)** “Minister” means a Minister of the Government and includes a
 Minister of State and a Deputy Minister;  
 
-(t) “oath of allegiance” means an oath of allegiance prescribed by
+- **(t)** “oath of allegiance” means an oath of allegiance prescribed by
 this Constitution;  
 
-(u) “Parliament” means the Parliament of Uganda;  
+- **(u)** “Parliament” means the Parliament of Uganda;  
 
-(v) “President” means the President of Uganda; 
+- **(v)** “President” means the President of Uganda; 
 
-(w) “public office” means an office in the public service;  
+- **(w)** “public office” means an office in the public service;  
 
-(x) “public officer” means a person holding or acting in any public
+- **(x)** “public officer” means a person holding or acting in any public
 office;  
 
-(y) “public service” means service in a civil capacity of the
+- **(y)** “public service” means service in a civil capacity of the
 Government or of a local government;  
 
-(z) “session” means a series of meetings of Parliament within a
+- **(z)** “session” means a series of meetings of Parliament within a
 period of twelve months;  
 
-(aa) “sitting” includes a period during which Parliament is
+- **(aa)** “sitting” includes a period during which Parliament is
 continuously sitting without adjournment and a period during
 which it is in committee; 
 
-(bb) “Speaker” means the Speaker of Parliament and “Deputy
+- **(bb)** “Speaker” means the Speaker of Parliament and “Deputy
 Speaker” shall be construed accordingly;  
 
-(cc) “subordinate court” means a court subordinate to the High Court;  
+- **(cc)** “subordinate court” means a court subordinate to the High Court;  
 
-(dd) “Supreme Court” means the Supreme Court of Uganda;  
+- **(dd)** “Supreme Court” means the Supreme Court of Uganda;  
 
-(ee) “Uganda” means the Republic of Uganda.  
+- **(ee)** “Uganda” means the Republic of Uganda.  
 
 (2) In this Constitution—  
 
-(a) unless the context otherwise requires, a reference to an office in
+- **(a)** unless the context otherwise requires, a reference to an office in
 the public service includes—  
 
-(i) a reference to the office of Chief Justice, Deputy Chief
+    - **(i)** a reference to the office of Chief Justice, Deputy Chief
 Justice, Principal Judge, a justice of the Supreme Court or
 a justice of Appeal, or a judge of the High Court and the
 office of a member of any other court of law established by
@@ -244,11 +243,11 @@ court-martial, being an office the emoluments of which are
 paid directly from the Consolidated Fund or directly out of
 monies provided by Parliament; and  
 
-(ii) a reference to the office of a member of the Uganda Police
+- **(ii)** a reference to the office of a member of the Uganda Police
 Force, the Uganda Prisons Service, the education service
 and the health service;  
 
-(b) a reference to an office in the public service does not include a reference to the office of the President, the Vice President, the
+- **(b)** a reference to an office in the public service does not include a reference to the office of the President, the Vice President, the
 Speaker or Deputy Speaker, a Minister, the Attorney General, a
 member of Parliament or a member of any commission, authority,
 council or committee established by this Constitution.
@@ -296,13 +295,13 @@ the making of a different provision in place of that provision.
 
 (10) In this Constitution, unless the context otherwise requires—
 
-(a) words referring to natural persons include a reference to
+- **(a)** words referring to natural persons include a reference to
 corporations;  
 
-(b) words in the singular include the plural, and words in the plural
+- **(b)** words in the singular include the plural, and words in the plural
 include the singular;  
 
-(c) words directing or empowering a public officer to do any act or
+- **(c)** words directing or empowering a public officer to do any act or
 thing, or otherwise applying to that officer by the designation of
 the office of that person, include the successors in office and all
 deputies and other assistants of that person.
@@ -312,14 +311,14 @@ deputies and other assistants of that person.
 
 Subject to article 92 of this Constitution—  
 
-(a) no Act, resolution or decision passed or taken or purported to
+- **(a)** no Act, resolution or decision passed or taken or purported to
 have been passed or taken by Parliament at any time after the
 commencement of this Constitution using the procedure of voting
 by voice vote, namely, by the voices of “Ayes” for those in favour
 of the question and “Noes” for those against the question, shall be
 taken to be invalid by reason of the use of that procedure;     
 
-(b) no Act passed or purported to have been passed by Parliament at
+- **(b)** no Act passed or purported to have been passed by Parliament at
 any time after the commencement of this Constitution shall be
 taken to be invalid by reason of the fact that the bill for the Act
 was not discussed and recommendations made on it to Parliament

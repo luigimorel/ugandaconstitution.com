@@ -12,18 +12,18 @@ Constitution.
 
 (2) Notwithstanding clause (1) of this article—  
 
-(a) the Government or a local government may, subject to article 26
+- **(a)** the Government or a local government may, subject to article 26
 of this Constitution, acquire land in the public interest; and the
 conditions governing such acquisition shall be as prescribed by
 Parliament;  
 
-(b) the Government or a local government as determined by
+- **(b)** the Government or a local government as determined by
 Parliament by law shall hold in trust for the people and protect
 natural lakes, rivers, wetlands, forest reserves, game reserves,
 national parks and any land to be reserved for ecological and
 touristic purposes for the common good of all citizens;  
 
-(c) noncitizens may acquire leases in land in accordance with the
+- **(c)** noncitizens may acquire leases in land in accordance with the
 laws prescribed by Parliament, and the laws so prescribed shall
 define a noncitizen for the purposes of this paragraph.
 
@@ -31,21 +31,21 @@ define a noncitizen for the purposes of this paragraph.
 (3) Land in Uganda shall be owned in accordance with the following
 land tenure systems—  
 
-(a) customary;  
+- **(a)** customary;  
 
-(b) freehold;  
+- **(b)** freehold;  
 
-(c) mailo; and  
+- **(c)** mailo; and  
 
-(d) leasehold.
+- **(d)** leasehold.
 
 (4) On the coming into force of this Constitution—  
 
-(a) all Uganda citizens owning land under customary tenure may
+- **(a)** all Uganda citizens owning land under customary tenure may
 acquire certificates of ownership in a manner prescribed by
 Parliament; and 
 
-(b) land under customary tenure may be converted to freehold land
+- **(b)** land under customary tenure may be converted to freehold land
 ownership by registration.
 
 
@@ -66,11 +66,11 @@ enjoy security of occupancy on the land.
 (9) Within two years after the first sitting of Parliament elected under
 this Constitution, Parliament shall enact a law—  
 
-(a) regulating the relationship between the lawful or bonafide
+- **(a)** regulating the relationship between the lawful or bonafide
 occupants of land referred to in clause (8) of this article and the
 registered owners of that land;  
 
-(b) providing for the acquisition of registrable interest in the land by
+- **(b)** providing for the acquisition of registrable interest in the land by
 the occupant.
 
 
@@ -94,12 +94,12 @@ five years and shall be eligible to be reappointed.
 (5) A member of the commission may be removed from office by the
 President only for—  
 
-(a) inability to perform the functions of his or her office arising from
+- **(a)** inability to perform the functions of his or her office arising from
 infirmity of body or mind;  
 
-(b) misbehaviour or misconduct; or  
+- **(b)** misbehaviour or misconduct; or  
 
-(c) incompetence.
+- **(c)** incompetence.
 
 (6) The salaries and allowances of the members of the commission
 shall be charged on the Consolidated Fund.
@@ -124,12 +124,12 @@ prescribed by Parliament.
 
 (1) The functions of a district land board are—  
 
-(a) to hold and allocate land in the district which is not owned by any
+- **(a)** to hold and allocate land in the district which is not owned by any
 person or authority;  
 
-(b) to facilitate the registration and transfer of interests in land; and  
+- **(b)** to facilitate the registration and transfer of interests in land; and  
 
-(c) to deal with all other matters connected with land in the district
+- **(c)** to deal with all other matters connected with land in the district
 in accordance with laws made by Parliament.  
 
 
@@ -154,12 +154,12 @@ tribunals.
 
 (2) The jurisdiction of a land tribunal shall include—  
 
-(a) the determination of disputes relating to the grant, lease,
+- **(a)** the determination of disputes relating to the grant, lease,
 repossession, transfer or acquisition of land by individuals, the
 Uganda Land Commission or other authority with responsibility
 relating to land; and  
 
-(b) the determination of any disputes relating to the amount of
+- **(b)** the determination of any disputes relating to the amount of
 compensation to be paid for land acquired.
 
 (3) The chairperson of a land tribunal established under this article
@@ -178,14 +178,14 @@ decision of a land tribunal to a court of law.
 (1) Subject to clause (2) of this article, Parliament shall make laws
 regulating—  
 
-(a) the exploitation of minerals;  
+- **(a)** the exploitation of minerals;  
 
-(b) the sharing of royalties arising from mineral exploitation;
+- **(b)** the sharing of royalties arising from mineral exploitation;
 
-(c) the conditions for payment of indemnities arising out of
+- **(c)** the conditions for payment of indemnities arising out of
 exploitation of minerals; and  
 
-(d) the conditions regarding the restoration of derelict lands.
+- **(d)** the conditions regarding the restoration of derelict lands.
 
 (2) Minerals and mineral ores shall be exploited taking into account
 the interests of the individual land owners, local governments and the
@@ -200,7 +200,7 @@ murram, sand or any stone commonly used for building or similar purposes.
 ##### 245. Protection and preservation of the environment.
 
 Parliament shall, by law, provide for measures intended—  
-(a) to protect and preserve the environment from abuse, pollution and
+- **(a)** to protect and preserve the environment from abuse, pollution and
 degradation;  
-(b) to manage the environment for sustainable development; and  
-(c) to promote environmental awareness.
+- **(b)** to manage the environment for sustainable development; and  
+- **(c)** to promote environmental awareness.

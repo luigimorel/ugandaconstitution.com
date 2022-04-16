@@ -13,29 +13,29 @@ administrative units as Parliament may by law provide.
 (2) The following principles shall apply to the local government
 system—  
 
-(a) the system shall be such as to ensure that functions, powers and
+- **(a)** the system shall be such as to ensure that functions, powers and
 responsibilities are devolved and transferred from the
 Government to local government units in a coordinated manner; 
 
-(b) decentralisation shall be a principle applying to all levels of local
+- **(b)** decentralisation shall be a principle applying to all levels of local
 government and, in particular, from higher to lower local
 government units to ensure peoples’ participation and democratic
 control in decision making;  
 
-(c) the system shall be such as to ensure the full realisation of
+- **(c)** the system shall be such as to ensure the full realisation of
 democratic governance at all local government levels;  
 
-(d) there shall be established for each local government unit a sound
+- **(d)** there shall be established for each local government unit a sound
 financial base with reliable sources of revenue;  
 
-(e) appropriate measures shall be taken to enable local government
+- **(e)** appropriate measures shall be taken to enable local government
 units to plan, initiate and execute policies in respect of all matters
 affecting the people within their jurisdictions;  
 
-(f) persons in the service of local government shall be employed by
+- **(f)** persons in the service of local government shall be employed by
 the local governments; and  
 
-(g) the local governments shall oversee the performance of persons
+- **(g)** the local governments shall oversee the performance of persons
 employed by the Government to provide services in their areas
 and to monitor the provision of Government services or the
 implementation of projects in their areas.
@@ -61,19 +61,19 @@ culture and development as set out in the Fifth Schedule to this Constitution
 and may, for that purpose, form and support councils, trust funds or
 secretariats, subject to the following—
 
-(a) such cooperation shall conform to the democratic principles
+- **(a)** such cooperation shall conform to the democratic principles
 enshrined in this Constitution;
 
-(b) the councils, trust funds or secretariats so formed shall not have
+- **(b)** the councils, trust funds or secretariats so formed shall not have
 power to levy taxes; but Parliament may make provision enabling
 them to raise funds in addition to funds made available to them
 by the cooperating districts;
 
-(c) the terms and conditions of the cooperation shall be embodied in
+- **(c)** the terms and conditions of the cooperation shall be embodied in
 a charter signed by the consenting districts and deposited with the
 Speaker of Parliament; and
 
-(d) the councils, trust funds or secretariats formed under this article
+- **(d)** the councils, trust funds or secretariats formed under this article
 shall have power to make rules, regulations and bye-laws in
 relation to the functions assigned to them; except that such rules,
 regulations and bye-laws shall not be inconsistent with the
@@ -92,10 +92,10 @@ force of this Constitution.
 (4) Any district may withdraw from cooperation under this article
 if—
 
-(a) a resolution is passed by the district council of the district in favour of withdrawal, supported by two-thirds of all the members
+- **(a)** a resolution is passed by the district council of the district in favour of withdrawal, supported by two-thirds of all the members
 of the council; and
 
-(b) the resolution is supported by a resolution of Parliament.
+- **(b)** the resolution is supported by a resolution of Parliament.
 
 
 ##### 179. Boundaries of local government units.
@@ -103,9 +103,9 @@ of the council; and
 
 (1) Subject to the provisions of this Constitution, Parliament may—
 
-(a) alter the boundaries of districts; and
+- **(a)** alter the boundaries of districts; and
 
-(b) create new districts.
+- **(b)** create new districts.
 
 
 (2) Any measure to alter the boundary of a district or to create a new
@@ -132,17 +132,17 @@ Constitution.
 functions and electoral procedures in respect of local government councils,
 except that—  
 
-(a) the person elected as district chairperson of a local government
+- **(a)** the person elected as district chairperson of a local government
 shall be a member of the council;  
 
-(b) one-third of the membership of each local government council
+- **(b)** one-third of the membership of each local government council
 shall be reserved for women;  
 
-(c) any law enacted by virtue of this article shall provide for
+- **(c)** any law enacted by virtue of this article shall provide for
 affirmative action for all marginalised groups referred to in article
 32 of this Constitution; and  
 
-(d) Parliament shall exercise similar powers of review as stipulated in article 78(2) of this Constitution, in relation to paragraphs (b)
+- **(d)** Parliament shall exercise similar powers of review as stipulated in article 78(2) of this Constitution, in relation to paragraphs (b)
 and (c) of this clause.
 
 
@@ -184,34 +184,34 @@ of a local government council.
 
 (1) There shall be a district chairperson who shall—
 
-(a) be the political head of the district; and
+- **(a)** be the political head of the district; and
 
-(b) be elected by universal adult suffrage through a secret ballot.
+- **(b)** be elected by universal adult suffrage through a secret ballot.
 
 (2) A person is not qualified to be elected district chairperson unless
 he or she is—  
 
-(a) qualified to be elected a member of Parliament;  
+- **(a)** qualified to be elected a member of Parliament;  
 
-(b) at least thirty years and not more than seventy-five years of age;
+- **(b)** at least thirty years and not more than seventy-five years of age;
 and  
 
-(c) a person ordinarily resident in the district.
+- **(c)** a person ordinarily resident in the district.
 
 
 (3) The district chairperson shall—  
 
-(a) preside at meetings of the executive committee of the district;  
+- **(a)** preside at meetings of the executive committee of the district;  
 
-(b) monitor the general administration of the district; 
+- **(b)** monitor the general administration of the district; 
 
-(c) coordinate the activities of urban councils and councils of the
+- **(c)** coordinate the activities of urban councils and councils of the
 lower local administrative units in the district;  
 
-(d) coordinate and monitor Government functions as between the
+- **(d)** coordinate and monitor Government functions as between the
 district and the Government; and  
 
-(e) perform such other functions as Parliament may prescribe.
+- **(e)** perform such other functions as Parliament may prescribe.
 
 
 (4) In the performance of the functions under clause (3) of this article,
@@ -235,11 +235,11 @@ be removed from office by the council by resolution supported by the votes
 of not less than two-thirds of all members of the council on any of the
 following grounds—  
 
-(a) abuse of office;  
+- **(a)** abuse of office;  
 
-(b) misconduct or misbehaviour; or  
+- **(b)** misconduct or misbehaviour; or  
 
-(c) such physical or mental incapacity as would render him or her
+- **(c)** such physical or mental incapacity as would render him or her
 incapable of performing the duties of his or her office.
 
 (2) Parliament shall prescribe any other grounds and the procedure for
@@ -253,11 +253,11 @@ which shall perform the executive functions of the council.
 
 (2) An executive committee shall consist of—
 
-(a) the district chairperson;  
+- **(a)** the district chairperson;  
 
-(b) the vice chairperson; and  
+- **(b)** the vice chairperson; and  
 
-(c) such number of secretaries as the council may decide.
+- **(c)** such number of secretaries as the council may decide.
 
 (3) The vice chairperson shall be a person nominated by the district
 chairperson from among members of the council and approved by two-thirds
@@ -286,9 +286,9 @@ necessary for the efficient performance of its functions.
 (9) The following shall apply with respect to the composition of the
 committees of a district council—  
 
-(a) the chairpersons and members of the committees shall be elected from among the members of the council;
+- **(a)** the chairpersons and members of the committees shall be elected from among the members of the council;
 
-(b) the district chairperson, the vice chairperson and a secretary shall
+- **(b)** the district chairperson, the vice chairperson and a secretary shall
 not be members of a committee of the council but may take part
 in its proceedings without voting.
 
@@ -298,23 +298,23 @@ in its proceedings without voting.
 (1) The office of a member of a district executive committee shall
 become vacant if—
 
-(a) the appointment of that member is revoked by the district
+- **(a)** the appointment of that member is revoked by the district
 chairperson; or
 
-(b) that member—
+- **(b)** that member—
 
-(i) is elected as speaker of the district council;
+    - **(i)** is elected as speaker of the district council;
 
-(ii) resigns from office;
+    - **(ii)** resigns from office;
 
-(iii) becomes disqualified to be a member of the district council;
+    - **(iii)** becomes disqualified to be a member of the district council;
 
-(iv) is unable to perform his or her functions due to mental or
+    - **(iv)** is unable to perform his or her functions due to mental or
 physical incapacity or dies;
 
-(v) is censured by the council; or
+    - **(v)** is censured by the council; or
 
-(c) a new chairperson assumes office.
+- **(c)** a new chairperson assumes office.
 
 (2) A district council may, by resolution supported by not less than
 half of all members of the council, pass a vote of censure against a member
@@ -398,11 +398,11 @@ to taxes to which this article applies.
 
 Parliament shall by law provide—  
 
-(a) for the taxes that may be collected by a local government for or
+- **(a)** for the taxes that may be collected by a local government for or
 on behalf of the Government for payment into the Consolidated
 Fund;  
 
-(b) for a local government to retain for the purposes of its functions
+- **(b)** for a local government to retain for the purposes of its functions
 and services, a specified proportion of the revenues collected for
 or on behalf of the Government from the district.
 
@@ -412,11 +412,11 @@ or on behalf of the Government from the district.
 Constitution, cause to be presented to Parliament proposals as to the monies
 to be paid out of the Consolidated Fund as—  
 
-(a) unconditional grant in accordance with clause (2) of this article; 
+- **(a)** unconditional grant in accordance with clause (2) of this article; 
 
-(b) conditional grant in accordance with clause (3) of this article; 
+- **(b)** conditional grant in accordance with clause (3) of this article; 
 
-(c) equalisation grant in accordance with clause (4) of this article.
+- **(c)** equalisation grant in accordance with clause (4) of this article.
 
 (2) Unconditional grant is the minimum grant that shall be paid to
 local governments to run decentralised services and shall be calculated in the
@@ -458,23 +458,23 @@ elect from among themselves a chairperson and a vice chairperson.
 
 (4) The Local Government Finance Commission shall—  
 
-(a) advise the President on all matters concerning the distribution of
+- **(a)** advise the President on all matters concerning the distribution of
 revenue between the Government and local governments and the
 allocation to each local government of monies out of the
 Consolidated Fund;  
 
-(b) in consultation with the National Planning Authority, consider
+- **(b)** in consultation with the National Planning Authority, consider
 and recommend to the President the amount to be allocated as the
 equalisation and conditional grants and their allocation to each
 local government;  
 
-(c) consider and recommend to the President potential sources of
+- **(c)** consider and recommend to the President potential sources of
 revenue for local governments;  
 
-(d) advise the local governments on appropriate tax levels to be
+- **(d)** advise the local governments on appropriate tax levels to be
 levied by local governments; 
 
-(e) perform such other functions as Parliament shall prescribe.
+- **(e)** perform such other functions as Parliament shall prescribe.
 
 
 (5) The expenses of the commission, including salaries, allowances
@@ -492,14 +492,14 @@ Parliament shall prescribe.
 
 Parliament shall make laws—  
 
-(a) requiring each local government to draw up a comprehensive list
+- **(a)** requiring each local government to draw up a comprehensive list
 of all its internal revenue sources and to maintain data on total
 potential collectable revenues;  
 
-(b) prescribing financial control and accountability measures for
+- **(b)** prescribing financial control and accountability measures for
 compliance by all local governments; 
 
-(c) imposing regular audit requirements and procedures for local
+- **(c)** imposing regular audit requirements and procedures for local
 governments.
 
 ##### 197. Financial autonomy of urban authorities.
@@ -537,12 +537,12 @@ from office by the executive committee of the district with the approval of the
 district council and after consultation with the Public Service Commission
 but may be removed only for—  
 
-(a) inability to perform the functions of that office arising from
+- **(a)** inability to perform the functions of that office arising from
 physical or mental incapacity;  
 
-(b) misbehaviour or misconduct; or  
+- **(b)** misbehaviour or misconduct; or  
 
-(c) incompetence.
+- **(c)** incompetence.
 
 ##### 199. Secondment of staff.
 
@@ -581,13 +581,13 @@ not detract from the order, peace and good governance of any part of Uganda.
 members of Parliament, assume the executive and legislative powers of any
 district in any of the following circumstances—  
 
-(a) where the district council so requests and it is in the public
+- **(a)** where the district council so requests and it is in the public
 interest to do so;  
 
-(b) where a state of emergency has been declared in that district or in
+- **(b)** where a state of emergency has been declared in that district or in
 Uganda generally; or  
 
-(c) where it has become extremely difficult or impossible for the
+- **(c)** where it has become extremely difficult or impossible for the
 district government to function.
 
 (2) The exercise by the President of the power conferred by this
@@ -601,22 +601,21 @@ exceeding ninety days.
 
 (4) Upon the expiry of the term under clause (3) of this article—
 
-(a) the President shall hand back the administration of the district to
+- **(a)** the President shall hand back the administration of the district to
 the incumbent district government; or  
 
-(b) if Parliament decides that the prevailing circumstances still make
+- **(b)** if Parliament decides that the prevailing circumstances still make
 it impossible for the incumbent district government to resume the
 administration of the district then—  
 
-(i) where the unexpired term of the council is longer than
+    - **(i)** where the unexpired term of the council is longer than
 twelve months, the President shall cause elections to be
 held for a new district council within sixty days; or  
 
-(ii) where the unexpired term of the council is less than twelve
+    - **(ii)** where the unexpired term of the council is less than twelve
 months, the President shall continue to administer the
 district until the next elections are held.
-
-
+      
 ##### 203. Resident district commissioner.  
 
 (1) There shall be for each district a resident district commissioner
@@ -624,15 +623,15 @@ who shall be a senior civil servant appointed by the President.
 
 (2) The functions of a resident district commissioner are—
 
-(a) to coordinate the administration of Government services in the
+- **(a)** to coordinate the administration of Government services in the
 district;    
 
-(b) to advise the district chairperson on matters of a national nature
+- **(b)** to advise the district chairperson on matters of a national nature
 that may affect the district or its plans and programmes and
 particularly the relations between the district and the
 Government; and    
 
-(c) to carry out such other functions as may be assigned by the
+- **(c)** to carry out such other functions as may be assigned by the
 President or prescribed by Parliament.
 
 
@@ -641,9 +640,9 @@ President or prescribed by Parliament.
 Parliament shall prescribe the guidelines to be followed by the district
 councils in determining terms and conditions of service for—  
 
-(a) members of the local government councils; and  
+- **(a)** members of the local government councils; and  
 
-(b) members of the district service commissions and their
+- **(b)** members of the district service commissions and their
 committees.
 
 ##### 205. Prohibition of holding political offices concurrently.
@@ -651,10 +650,10 @@ committees.
 (1) No person shall hold concurrently on a full-time basis, political
 offices—   
 
-(a) in the service of the Government and that of a local government;
+- **(a)** in the service of the Government and that of a local government;
 or  
 
-(b) in the service of a higher local government and that of a lower
+- **(b)** in the service of a higher local government and that of a lower
 local government.
 
 (2) In this article, “political office” means the office of a Minister, a
@@ -670,24 +669,24 @@ to this Chapter.
 (2) Without prejudice to the general effect of clause (1) of this article,
 Parliament may make laws—   
 
-(a) limiting the number of political offices that may be created by
+- **(a)** limiting the number of political offices that may be created by
 local governments;  
 
-(b) enabling councils to make laws, regulations or other instruments
+- **(b)** enabling councils to make laws, regulations or other instruments
 for the administration of their areas of jurisdiction;  
 
-(c) requiring that with appropriate modifications, the system of
+- **(c)** requiring that with appropriate modifications, the system of
 government as it operates at the district level shall apply at the
 lower levels of local government units.
 
 ##### 207. Interpretation.
 
 In this Chapter, a reference to a local government includes—  
-(a) a district council;  
+- **(a)** a district council;  
 
-(b) an urban council;  
+- **(b)** an urban council;  
 
-(c) a subcounty council; or  
+- **(c)** a subcounty council; or  
 
 (d) any other unit prescribed by law to replace any of the councils
 mentioned in paragraphs (a), (b) and (c) of this article.

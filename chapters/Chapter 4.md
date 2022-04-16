@@ -32,13 +32,13 @@ or religion, social or economic standing, political opinion or disability.
 (4) Nothing in this article shall prevent Parliament from enacting laws
 that are necessary for—  
 
-- (a) implementing policies and programmes aimed at redressing
+- **(a)** implementing policies and programmes aimed at redressing
 social, economic, educational or other imbalance in society; or  
 
-- (b) making such provision as is required or authorised to be made
+- **(b)** making such provision as is required or authorised to be made
 under this Constitution; or  
 
-- (c) providing for any matter acceptable and demonstrably justified in
+- **(c)** providing for any matter acceptable and demonstrably justified in
 a free and democratic society.
 
 
@@ -59,39 +59,39 @@ except as may be authorised by law.
 (1) No person shall be deprived of personal liberty except in any of
 the following cases—  
 
-- (a) in execution of the sentence or order of a court, whether
+- **(a)** in execution of the sentence or order of a court, whether
 established for Uganda or another country or of an international
 court or tribunal in respect of a criminal offence of which that
 person has been convicted, or of an order of a court punishing the
 person for contempt of court;
 
-- (b) in execution of the order of a court made to secure the fulfillment
+- **(b)** in execution of the order of a court made to secure the fulfillment
 of any obligation imposed on that person by law;  
 
-- (c) for the purpose of bringing that person before a court in execution
+- **(c)** for the purpose of bringing that person before a court in execution
 of the order of a court or upon reasonable suspicion that that
 person has committed or is about to commit a criminal offence
 under the laws of Uganda;   
 
-- (d) for the purpose of preventing the spread of an infectious or
+- **(d)** for the purpose of preventing the spread of an infectious or
 contagious disease;  
 
-- (e) in the case of a person who has not attained the age of eighteen
+- **(e)** in the case of a person who has not attained the age of eighteen
 years, for the purpose of the education or welfare of that person;  
 
-- (f) in the case of a person who is, or is reasonably suspected to be, of
+- **(f)** in the case of a person who is, or is reasonably suspected to be, of
 unsound mind or addicted to drugs or alcohol, for the purpose of
 the care or treatment of that person or the protection of the
 community;  
 
-- (g) for the purpose of preventing the unlawful entry of that person
+- **(g)** for the purpose of preventing the unlawful entry of that person
 into Uganda, or for the purpose of effecting the expulsion,
 extradition or other lawful removal of that person from Uganda
 or for the purpose of restricting that person while being conveyed
 through Uganda in the course of the extradition or removal of that
 person as a convicted prisoner from one country to another; or
 
-- (h) as may be authorised by law, in any other circumstances similar
+- **(h)** as may be authorised by law, in any other circumstances similar
 to any of the cases specified in paragraphs (a) to (g) of this clause.
 
 (2) A person arrested, restricted or detained shall be kept in a place
@@ -104,10 +104,10 @@ choice.
 
 (4) A person arrested or detained—
 
-- (a) for the purpose of bringing him or her before a court in execution
+- **(a)** for the purpose of bringing him or her before a court in execution
 of an order of a court; or
 
-- (b) upon reasonable suspicion of his or her having committed or
+- **(b)** upon reasonable suspicion of his or her having committed or
 being about to commit a criminal offence under the laws of
 Uganda,
 shall, if not earlier released, be brought to court as soon as possible but in any
@@ -127,17 +127,17 @@ private medical treatment.
 
 (6) Where a person is arrested in respect of a criminal offence—  
 
-(a) the person is entitled to apply to the court to be released on bail,
+- **(a)** the person is entitled to apply to the court to be released on bail,
 and the court may grant that person bail on such conditions as the
 court considers reasonable;  
 
-(b) in the case of an offence which is triable by the High Court as
+- **(b)** in the case of an offence which is triable by the High Court as
 well as by a subordinate court, the person shall be released on bail
 on such conditions as the court considers reasonable, if that
 person has been remanded in custody in respect of the offence
 before trial for one hundred and twenty days;  
 
-(c) in the case of an offence triable only by the High Court, the
+- **(c)** in the case of an offence triable only by the High Court, the
 person shall be released on bail on such conditions as the court
 considers reasonable, if the person has been remanded in custody  for three hundred and sixty days before the case is committed to
 the High Court.

@@ -9,10 +9,10 @@ of the National Resistance Movement existing immediately before the
 coming into force of this Constitution, in this Chapter referred to as “the
 NRM Government” shall—  
 
-(a) continue in office until a new government is elected in
+- **(a)** continue in office until a new government is elected in
 accordance with this Constitution;  
 
-(b) as far as possible, exercise its functions in such a manner and
+_ **(b)** as far as possible, exercise its functions in such a manner and
 with such modifications as are necessary to bring them into
 conformity with the provisions of this Constitution.
 
@@ -26,21 +26,21 @@ that are necessary or practical to give effect to the provisions of this
 Constitution and, in particular, but without prejudice to the generality of the
 foregoing, shall—  
 
-(a) by law establish an Interim Electoral Commission whose
+- **(a)** by law establish an Interim Electoral Commission whose
 composition, appointment and functions shall, as far as possible,
 conform to the provisions of articles 60 and 61 of this
 Constitution;  
 
-(b) make interim laws for elections and other matters connected with
+- **(b)** make interim laws for elections and other matters connected with
 elections to any office under this Constitution;  
 
-(c) ensure that the tribunal for determination of disputes in respect of
+- **(c)** ensure that the tribunal for determination of disputes in respect of
 demarcation of electoral areas is appointed;  
 
-(d) make laws for the expeditious disposal of appeals referred to in
+- **(d)** make laws for the expeditious disposal of appeals referred to in
 article 64 of this Constitution;  
 
-(e) ensure that adequate resources and facilities are provided to the
+- **(e)** ensure that adequate resources and facilities are provided to the
 Interim Electoral Commission in accordance with article 66 of
 this Constitution.
 
@@ -111,16 +111,16 @@ On the commencement of this Constitution and until Parliament makes laws
 regulating the activities of political organisations in accordance with article
 73 of this Constitution, political activities may continue except—  
 
-(a) opening and operating branch offices;  
+- **(a)** opening and operating branch offices;  
 
-(b) holding delegates’ conferences;  
+- **(b)** holding delegates’ conferences;  
 
-(c) holding public rallies;  
+- **(c)** holding public rallies;  
 
-(d) sponsoring or offering a platform to or in any way campaigning
+- **(d)** sponsoring or offering a platform to or in any way campaigning
 for or against a candidate for any public elections;  
 
-(e) carrying on any activities that may interfere with the movement
+- **(e)** carrying on any activities that may interfere with the movement
 political system for the time being in force.
 
 ##### 271. Existing political parties or organisations.
@@ -156,15 +156,15 @@ The first appointments to the following offices shall be made within six
 months after the assumption of office of the first President elected in
 accordance with the provisions of this Constitution—  
 
-(a) the chairperson and other members of the Uganda Human Rights
+- **(a)** the chairperson and other members of the Uganda Human Rights
 commission;  
 
-(b) the chairperson and other members of the Electoral Commission;
+- **(b)** the chairperson and other members of the Electoral Commission;
 
-(c) the Inspector General of Government and the Deputy Inspectors
+- **(c)** the Inspector General of Government and the Deputy Inspectors
 General; and  
 
-(d) the chairperson, deputy chairperson and other members of the
+- **(d)** the chairperson, deputy chairperson and other members of the
 Judicial Service Commission.
 
 ##### 274. Existing law.
@@ -255,11 +255,11 @@ criminal offence committed after the coming into force of this Constitution.
 
 Subject to the provisions of article 284 of this Constitution—
 
-(a) any right, prerogative, privilege or function which under the
+- **(a)** any right, prerogative, privilege or function which under the
 existing law vested in the President shall vest in the President or
 other person or authority as is specified under this Constitution;
 
-(b) any right, privilege, obligation, liability, or function vested in or
+- **(b)** any right, privilege, obligation, liability, or function vested in or
 subsisting against the Government by or under an existing law
 shall continue to so vest or subsist.
 
@@ -296,13 +296,13 @@ shall cease to exist.
 
 Where—  
 
-(a) any treaty, agreement or convention with any country or
+- **(a)** any treaty, agreement or convention with any country or
 international organisation was made or affirmed by Uganda or the
 Government on or after the ninth day of October, 1962, and was
 still in force immediately before the coming into force of this
 Constitution; or  
 
-(b) Uganda or the Government was otherwise a party immediately
+- **(b)** Uganda or the Government was otherwise a party immediately
 before the coming into force of this Constitution to any such
 treaty, agreement or convention, the treaty, agreement or convention shall not be affected by the coming into
 force of this Constitution; and Uganda or the Government, as the case may

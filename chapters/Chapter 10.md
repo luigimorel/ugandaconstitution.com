@@ -109,17 +109,17 @@ substantial experience in the field of education.
 or her position in that office on appointment as a member of the
 commission—  
 
-(a) a member of Parliament;  
+- **(a)** a member of Parliament;  
 
-(b) a member of a local government council;  
+- **(b)** a member of a local government council;  
 
-(c) a member of the executive of a political party or political
+- **(c)** a member of the executive of a political party or political
 organisation;  
 
-(d) a member of any board or other authority responsible for the
+- **(d)** a member of any board or other authority responsible for the
 management of any school or college; or  
 
-(e) a public officer.
+- **(e)** a public officer.
 
 (6) A member of the Education Service Commission shall hold office
 for four years but is eligible for reappointment; except that of the first
@@ -136,32 +136,32 @@ the President may designate one of the members to act as chairperson.
 (9) A member of the commission may be removed from office by the
 President only for—  
 
-(a) inability to perform the functions of his or her office arising from
+- **(a)** inability to perform the functions of his or her office arising from
 infirmity of body or mind;  
 
-(b) misbehaviour or misconduct; or  
+- **(b)** misbehaviour or misconduct; or  
 
-(c) incompetence.
+- **(c)** incompetence.
 
 168. Functions of the Education Service Commission.
 
 (1) Subject to the provisions of this Constitution, the Education
 Service Commission shall— 
 
-(a) advise the President in performing, in relation to the education
+- **(a)** advise the President in performing, in relation to the education
 service, his or her functions under article 172 of this Constitution;  
 
-(b) have power to appoint persons to hold or act in any office in the
+- **(b)** have power to appoint persons to hold or act in any office in the
 education service, including the power to confirm such
 appointments, to exercise disciplinary control over those persons
 and to remove them from office;  
 
-(c) review the terms and conditions of service, standing orders,
+- **(c)** review the terms and conditions of service, standing orders,
 training and qualifications of public officers in the education
 service and matters connected with their management and welfare
 and make recommendations on them to the Government;  
 
-(d) perform such other functions as may be prescribed by this
+- **(d)** perform such other functions as may be prescribed by this
 Constitution or any other law.
 
 (2) In the exercise of its functions, the commission shall be
@@ -180,10 +180,10 @@ regulate the functions of the commission and prescribe the categories of
 public officers to constitute the education service.
 
 
-Health Service Commission.
+#### Health Service Commission.
 
 
-169. Health Service Commission.
+##### 169. Health Service Commission.
 
 
 (1) There shall be a Health Service Commission.
@@ -204,18 +204,18 @@ unless he or she is of high moral character and proven integrity.
 (5) A person holding any of the following offices shall relinquish his
 or her office on appointment as a member of the commission—  
 
-(a) a member of Parliament;  
+- **(a)** a member of Parliament;  
 
-(b) a member of a local government council;  
+- **(b)** a member of a local government council;  
 
-(c) a member of the executive of a political party or political
+- **(c)** a member of the executive of a political party or political
 organisation;  
 
-(d) a member of any board or other authority responsible for the
+- **(d)** a member of any board or other authority responsible for the
 management of any Government hospital or similar Government
 establishment; or  
 
-(e) a public officer.
+- **(e)** a public officer.
 
 (6) A member of the commission shall hold office for four years but
 is eligible for reappointment; except that of the first members appointed
@@ -231,32 +231,32 @@ the President may designate one of the members to act as chairperson.
 (9) A member of the commission may be removed from office by the
 President only for—  
 
-(a) inability to perform the functions of his or her office arising from
+- **(a)** inability to perform the functions of his or her office arising from
 infirmity of body or mind;  
 
-(b) misbehaviour or misconduct; or  
+- **(b)** misbehaviour or misconduct; or  
 
-(c) incompetence.
+- **(c)** incompetence.
 
 ##### 170. Functions of the Health Service Commission.
 
 (1) Subject to the provisions of this Constitution, the Health Service
 Commission shall—
 
-(a) advise the President in performing, in relation to the health
+- **(a)** advise the President in performing, in relation to the health
 service, his or her functions under article 172 of this Constitution; 
 
-(b) have power to appoint persons to hold or act in any office in the
+- **(b)** have power to appoint persons to hold or act in any office in the
 health service, including the power to confirm such appointments,
 to exercise disciplinary control over those persons and to remove
 them from office;  
 
-(c) review the terms and conditions of service, standing orders,
+- **(c)** review the terms and conditions of service, standing orders,
 training and qualifications of members of the health service and
 matters connected with their management and welfare and make
 recommendations on them to the Government;  
 
-(d) perform such other functions as may be prescribed by this
+- **(d)** perform such other functions as may be prescribed by this
 Constitution or any other law.
 
 
@@ -289,7 +289,7 @@ establish offices in the public service of the Government of Uganda.
 
 (1) Subject to the provisions of this Constitution—
 
-(a) the President may, acting in accordance with the advice of the
+- **(a)** the President may, acting in accordance with the advice of the
 Public Service Commission, the Education Service Commission or the Health Service Commission, as the case may be, appoint
 persons to hold or act in any office in the public service of
 Uganda of the rank of head of department or above other than
@@ -297,7 +297,7 @@ those referred to in article 200 of this Constitution, including
 confirmation of appointments, the exercise of disciplinary control
 over such persons and their removal from office; 
 
-(b) the Public Service Commission, the Education Service
+- **(b)** the Public Service Commission, the Education Service
 Commission or the Health Service Commission, as the case may
 be, may appoint persons to hold or act in any office in the public
 service of Uganda other than those referred to in paragraph (a) of
@@ -319,9 +319,9 @@ be prescribed by Parliament and may, in like manner, revoke the delegation.
 ##### 173. Protection of public officers.
 
 A public officer shall not be—  
-(a) victimised or discriminated against for having performed his or
+- **(a)** victimised or discriminated against for having performed his or
 her duties faithfully in accordance with this Constitution; or  
-(b) dismissed or removed from office or reduced in rank or otherwise
+- **(b)** dismissed or removed from office or reduced in rank or otherwise
 punished without just cause.
 
 ##### 174. Permanent Secretaries.
@@ -336,23 +336,23 @@ in accordance with the advice of the Public Service Commission.
 (3) The functions of a Permanent Secretary under this article
 include—  
 
-(a) organisation and operation of the department or Ministry;  
+- **(a)** organisation and operation of the department or Ministry;  
 
-(b) tendering advice to the responsible Minister in respect of the
+- **(b)** tendering advice to the responsible Minister in respect of the
 business of the department or Ministry;  
 
-(c) implementation of the policies of the Government of Uganda;  
+- **(c)** implementation of the policies of the Government of Uganda;  
 
-(d) subject to article 164 of this Constitution, responsibility for the
+- **(d)** subject to article 164 of this Constitution, responsibility for the
 proper expenditure of public funds by or in connection with the
 department or Ministry.
 
 ##### 175. Interpretation.
 
 In this Chapter, unless the context otherwise requires—  
-(a) “public officer” means any person holding or acting in an office
+- **(a)** “public officer” means any person holding or acting in an office
 in the public service;  
-(b) “public service” means service in any civil capacity of the
+- **(b)** “public service” means service in any civil capacity of the
 Government the emoluments for which are payable directly from
 the Consolidated Fund or directly out of monies provided by
 Parliament.

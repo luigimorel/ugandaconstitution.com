@@ -311,7 +311,7 @@ against that person.
 criminal offence unless the offence is defined and the penalty for it prescribed
 by law.
 
-#####29. Protection of freedom of conscience, expression, movement, religion, assembly and association.
+##### 29. Protection of freedom of conscience, expression, movement, religion, assembly and association.
 
 (1) Every person shall have the right to—  
 

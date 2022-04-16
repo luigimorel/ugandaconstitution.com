@@ -239,7 +239,7 @@ include—
 
 - **(c)** any other democratic and representative political system.
 
-70. Movement political system.
+##### 70. Movement political system.
 
 (1) The movement political system is broad-based, inclusive and
 nonpartisan and shall conform to the following principles—  

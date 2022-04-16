@@ -23,32 +23,32 @@ this Constitution.
 
 The functions of the Uganda Peoples’ Defence Forces are—  
 
-(a) to preserve and defend the sovereignty and territorial integrity of
+- **(a)** to preserve and defend the sovereignty and territorial integrity of
 Uganda;  
 
-(b) to cooperate with the civilian authority in emergency situations
+- **(b)** to cooperate with the civilian authority in emergency situations
 and in cases of natural disasters;  
 
-(c) to foster harmony and understanding between the defence forces
+- **(c)** to foster harmony and understanding between the defence forces
 and civilians; and  
 
-(d) to engage in productive activities for the development of Uganda.
+- **(d)** to engage in productive activities for the development of Uganda.
 
 ##### 210. Parliament to regulate the Uganda Peoples’ Defence Forces.
 
 Parliament shall make laws regulating the Uganda Peoples’ Defence Forces
 and, in particular, providing for— 
 
-(a) the organs and structures of the Uganda Peoples’ Defence Forces;  
+- **(a)** the organs and structures of the Uganda Peoples’ Defence Forces;  
 
-(b) recruitment, appointment, promotion, discipline and removal of
+- **(b)** recruitment, appointment, promotion, discipline and removal of
 members of the Uganda Peoples’ Defence Forces and ensuring
 that members of the Uganda Peoples’ Defence Forces are
 recruited from every district of Uganda;  
 
-(c) terms and conditions of service of members of the Uganda Peoples’ Defence Forces; and 
+- **(c)** terms and conditions of service of members of the Uganda Peoples’ Defence Forces; and 
 
-(d) the deployment of troops outside Uganda.
+- **(d)** the deployment of troops outside Uganda.
 
 
 #### Uganda Police Force.
@@ -72,13 +72,13 @@ be citizens of Uganda of good character.
 
 The functions of the Uganda Police Force shall include the following—
 
-(a) to protect life and property;  
+- **(a)** to protect life and property;  
 
-(b) to preserve law and order;  
+- **(b)** to preserve law and order;  
 
-(c) to prevent and detect crime; and  
+- **(c)** to prevent and detect crime; and  
 
-(d) to cooperate with the civilian authority and other security organs
+- **(d)** to cooperate with the civilian authority and other security organs
 established under this Constitution and with the population
 generally.
 
@@ -106,13 +106,13 @@ may be removed from office by the President.
 
 Parliament shall make laws—  
 
-(a) providing for the organisation and administration of the Uganda
+- **(a)** providing for the organisation and administration of the Uganda
 Police Force;  
 
-(b) ensuring that members of the Uganda Police Force are recruited
+- **(b)** ensuring that members of the Uganda Police Force are recruited
 from every district of Uganda; and  
 
-(c) regulating generally the Uganda Police Force.
+- **(c)** regulating generally the Uganda Police Force.
 
 
 #### Uganda Prisons Service.
@@ -141,13 +141,13 @@ be removed by the President.
 
 Parliament shall make laws—
 
-(a) providing for the organisation, administration and functions of the
+- **(a)** providing for the organisation, administration and functions of the
 Uganda Prisons Service;  
 
-(b) ensuring that members of the Uganda Prisons Service are
+- **(b)** ensuring that members of the Uganda Prisons Service are
 recruited from every district of Uganda; and  
 
-(c) regulating generally the Uganda Prisons Service.
+- **(c)** regulating generally the Uganda Prisons Service.
 
 
 #### Intelligence services.
@@ -174,10 +174,10 @@ determine.
 
 The functions of the National Security Council are—  
 
-(a) to inform and advise the President on matters relating to national
+- **(a)** to inform and advise the President on matters relating to national
 security; and  
 
-(b) any other functions prescribed by Parliament.
+- **(b)** any other functions prescribed by Parliament.
 
 
 #### General.

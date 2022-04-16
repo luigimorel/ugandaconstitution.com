@@ -11,9 +11,9 @@ Constitution in accordance with the procedure laid down in this Chapter.
 (2) This Constitution shall not be amended except by an Act of
 Parliament—  
 
-(a) the sole purpose of which is to amend this Constitution; and  
+- **(a)** the sole purpose of which is to amend this Constitution; and  
 
-(b) the Act has been passed in accordance with this Chapter.
+- **(b)** the Act has been passed in accordance with this Chapter.
 
 260. Amendments requiring a referendum.
 
@@ -21,27 +21,28 @@ Parliament—
 provisions specified in clause (2) of this article shall not be taken as passed
 unless—  
 
-(a) it is supported at the second and third readings in Parliament by
+- **(a)** it is supported at the second and third readings in Parliament by
 not less than two-thirds of all members of Parliament; and  
 
-(b) it has been referred to a decision of the people and approved by
+- **(b)** it has been referred to a decision of the people and approved by
 them in a referendum.
 
 
 (2) The provisions referred to in clause (1) of this article are—  
-(a) this article;  
 
-(b) Chapter One—articles l and 2;  
+- **(a)** this article;  
 
-(c) Chapter Four—article 44;  
+- **(b)** Chapter One—articles l and 2;  
 
-(d) Chapter Five—articles 69, 74 and 75;  
+- **(c)** Chapter Four—article 44;  
 
-(e) Chapter Six—article 79(2);  
+- **(d)** Chapter Five—articles 69, 74 and 75;  
 
-(f) Chapter Seven—article 105(1);  
+- **(e)** Chapter Six—article 79(2);  
 
-(g) Chapter Eight—article 128(1); and  
+- **(f)** Chapter Seven—article 105(1);  
+
+- **(g)** Chapter Eight—article 128(1); and  
 
 (h) Chapter Sixteen.
 
@@ -52,22 +53,22 @@ them in a referendum.
 provisions specified in clause (2) of this article shall not be taken as passed
 unless—  
 
-(a) it is supported at the second and third readings in Parliament by
+- **(a)** it is supported at the second and third readings in Parliament by
 not less than two-thirds of all members of Parliament; and
 
-(b) it has been ratified by at least two-thirds of the members of the
+- **(b)** it has been ratified by at least two-thirds of the members of the
 district council in each of at least two-thirds of all the districts of
 Uganda.
 
 (2) The provisions referred to in clause (1) of this article are—
 
-(a) this article;  
+- **(a)** this article;  
 
-(b) Chapter Two—article 5(2);  
+- **(b)** Chapter Two—article 5(2);  
 
-(c) Chapter Nine—article 152;  
+- **(c)** Chapter Nine—article 152;  
 
-(d) Chapter Eleven—articles 176(1), 178, 189 and 197.
+- **(d)** Chapter Eleven—articles 176(1), 178, 189 and 197.
 
 
 ##### 262. Amendments by Parliament.
@@ -87,11 +88,11 @@ days of Parliament.
 passed in accordance with this Chapter shall be assented to by the President
 only if—  
 
-(a) it is accompanied by a certificate of the Speaker that the
+- **(a)** it is accompanied by a certificate of the Speaker that the
 provisions of this Chapter have been complied with in relation to
 it; and  
 
-(b) in the case of a bill to amend a provision to which article 260 or
+- **(b)** in the case of a bill to amend a provision to which article 260 or
 261 of this Constitution applies, it is accompanied by a certificate
 of the Electoral Commission that the amendment has been
 approved at a referendum or, as the case may be, ratified by the
@@ -104,9 +105,9 @@ applies, the President shall not refuse to assent to the bill.
 (4) Where in the case of a bill to which clause (3) of this article
 applies the President—  
 
-(a) refuses to assent to the bill; or 
+- **(a)** refuses to assent to the bill; or 
 
-(b) fails to assent to the bill within thirty days after the bill is
+- **(b)** fails to assent to the bill within thirty days after the bill is
 submitted, the President shall be taken to have assented to the bill, and the Speaker shall
 cause a copy of the bill to be laid before Parliament and the bill shall become
 law without the assent of the President.

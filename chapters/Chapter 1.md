@@ -46,11 +46,11 @@ tried in accordance with this Constitution and other laws consistent with it.
 
 (4) All citizens of Uganda shall have the right and duty at all times—
 
-(a) to defend this Constitution and, in particular, to resist any person
+- **(a)** to defend this Constitution and, in particular, to resist any person
 or group of persons seeking to overthrow the established
 constitutional order; and
 
-(b) to do all in their power to restore this Constitution after it has
+- **(b)** to do all in their power to restore this Constitution after it has
 been suspended, overthrown, abrogated or amended contrary to
 its provisions.
 
@@ -68,10 +68,10 @@ punishment.
 
 The State shall promote public awareness of this Constitution by—
 
-(a) translating it into Ugandan languages and disseminating it as
+- **(a)** translating it into Ugandan languages and disseminating it as
 widely as possible; and
 
-(b) providing for the teaching of the Constitution in all educational
+- **(b)** providing for the teaching of the Constitution in all educational
 institutions and armed forces training institutions and regularly
 transmitting and publishing programmes through the media
 generally.

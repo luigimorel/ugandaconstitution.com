@@ -25,9 +25,11 @@ of, or in trust for the Government.
 
 (2) The revenues or other monies referred to in clause (1) of this
 article shall not include revenues or other monies—  
-(a) that are payable by or under an Act of Parliament, into some other
+
+- **(a)** that are payable by or under an Act of Parliament, into some other
 fund established for a specific purpose; or  
-(b) that may, under an Act of Parliament, be retained by the
+
+- **(b)** that may, under an Act of Parliament, be retained by the
 department of Government that received them for the purposes of
 defraying the expenses of that department.
 
@@ -36,10 +38,10 @@ defraying the expenses of that department.
 (1) No monies shall be withdrawn from the Consolidated Fund
 except—  
 
-(a) to meet expenditure charged on the fund by this Constitution or
+- **(a)** to meet expenditure charged on the fund by this Constitution or
 by an Act of Parliament; or  
 
-(b) where the issue of those monies has been authorised by an
+- **(b)** where the issue of those monies has been authorised by an
 Appropriation Act, a Supplementary Appropriation Act or as
 provided under clause (4) of this article.
 
@@ -63,10 +65,11 @@ whichever is the earlier.
 (5) Any sum issued in any financial year from the Consolidated Fund
 Account under clause (4) of this article in respect of any service of the
 Government—  
-(a) shall not exceed the amount shown as required on account in
+- **(a)** shall not exceed the amount shown as required on account in
 respect of that service in the vote on account approved by
 Parliament by resolution for that financial year; and  
-(b) shall be set off against the amount provided in respect of that
+
+- **(b)** shall be set off against the amount provided in respect of that
 service in the Appropriation Act for that financial year when that
 law comes into operation.
 
@@ -95,9 +98,11 @@ and make appropriate recommendations to Parliament.
 
 (5) Notwithstanding the provisions of clause (1) of this article, the
 President may cause to be prepared and laid before Parliament—  
-(a) fiscal and monetary programmes and plans for economic and
+
+- **(a)** fiscal and monetary programmes and plans for economic and
 social development covering periods exceeding one year;  
-(b) estimates of revenues and expenditure covering periods
+  
+- **(b)** estimates of revenues and expenditure covering periods
 exceeding one year.
 
 (6) Parliament may make laws for giving effect to the provisions of
@@ -114,12 +119,12 @@ appropriation of those sums for the purposes specified in the bill.
 
 (2) If in respect of any financial year it is found—  
 
-(a) that the amount appropriated for any purpose under the
+- **(a)** that the amount appropriated for any purpose under the
 Appropriation Act is insufficient or that a need has arisen for
 expenditure for a purpose for which no amount has been
 appropriated by that Act; or  
 
-(b) that any monies have been expended for any purpose in excess of
+- **(b)** that any monies have been expended for any purpose in excess of
 the amount appropriated for that purpose or for a purpose for
 which no amount has been appropriated by that Act,
 a supplementary estimate showing the sums required or spent shall be laid
@@ -160,11 +165,11 @@ authorised by or under an Act of Parliament.
 (3) An Act of Parliament made under clause (2) of this article shall
 provide—  
 
-(a) that the terms and conditions of the loan shall be laid before
+- **(a)** that the terms and conditions of the loan shall be laid before
 Parliament and shall not come into operation unless they have
 been approved by a resolution of Parliament; and  
 
-(b) that any monies received in respect of that loan shall be paid into
+- **(b)** that any monies received in respect of that loan shall be paid into
 the Consolidated Fund and form part of that fund or into some
 other public fund which is existing or is created for the purpose
 of the loan.
@@ -173,12 +178,12 @@ of the loan.
 cause to be presented to Parliament such information concerning any loan as
 is necessary to show—  
 
-(a) the extent of the total indebtedness by way of principal and
+- **(a)** the extent of the total indebtedness by way of principal and
 accumulated interest;  
 
-(b) the provision made for servicing or repayment of the loan; and  
+- **(b)** the provision made for servicing or repayment of the loan; and  
 
-(c) the utilisation and performance of the loan.
+- **(c)** the utilisation and performance of the loan.
 
 (5) Parliament may, by resolution, authorise the Government to enter
 into an agreement for the giving of a loan or a grant out of any public fund or
@@ -192,10 +197,10 @@ approved by Parliament by resolution.
 money lent or given to or by the Government on condition of return or
 repayment and any other form of borrowing or lending in respect of which—  
 
-(a) monies from the Consolidated Fund or any other public fund may
+- **(a)** monies from the Consolidated Fund or any other public fund may
 be used for payment or repayment; or  
 
-(b) monies from any fund by whatever name called, established for
+- **(b)** monies from any fund by whatever name called, established for
 the purposes of payment or repayment whether in whole or in part
 and whether directly or indirectly, may be used for payment or
 repayment.
@@ -229,9 +234,9 @@ members.
 (3) The governor, the deputy governor and all other members of the
 board shall—  
 
-(a) be appointed by the President with the approval of Parliament;  
+- **(a)** be appointed by the President with the approval of Parliament;  
 
-(b) hold office for a term of five years but shall be eligible for
+- **(b)** hold office for a term of five years but shall be eligible for
 reappointment.
 
 (4) The office of governor and deputy governor shall each be a public
@@ -241,29 +246,29 @@ chairperson and deputy chairperson of the board.
 (5) The governor, the deputy governor or any other member of the
 board may be removed from office by the President only for—  
 
-(a) inability to perform the functions of his or her office arising from
+- **(a)** inability to perform the functions of his or her office arising from
 infirmity of body or mind;  
 
-(b) misbehaviour or misconduct; or  
+- **(b)** misbehaviour or misconduct; or  
 
-(c) incompetence.
+- **(c)** incompetence.
 
 ##### 162. Functions of the bank.
 
 
 (1) The Bank of Uganda shall—  
 
-(a) promote and maintain the stability of the value of the currency of
+- **(a)** promote and maintain the stability of the value of the currency of
 Uganda;  
 
-(b) regulate the currency system in the interest of the economic
+- **(b)** regulate the currency system in the interest of the economic
 progress of Uganda;  
 
-(c) encourage and promote economic development and the efficient
+- **(c)** encourage and promote economic development and the efficient
 utilisation of the resources of Uganda through effective and
 efficient operation of a banking and credit system; and  
 
-(d) do all such other things not inconsistent with this article as may
+- **(d)** do all such other things not inconsistent with this article as may
 be prescribed by law.
 
 
@@ -287,21 +292,21 @@ office.
 (2) A person shall not be appointed Auditor General unless that
 person—
 
-(a) is a qualified accountant of not less than fifteen years’ standing;
+- **(a)** is a qualified accountant of not less than fifteen years’ standing;
 and
 
-(b) is a person of high moral character and proven integrity.
+- **(b)** is a person of high moral character and proven integrity.
 
 
 (3) The Auditor General shall—  
 
-(a) audit and report on the public accounts of Uganda and of all
+- **(a)** audit and report on the public accounts of Uganda and of all
 public offices, including the courts, the central and local
 government administrations, universities and public institutions
 of like nature, and any public corporation or other bodies or
 organisations established by an Act of Parliament; and  
 
-(b) conduct financial and value for money audits in respect of any
+- **(b)** conduct financial and value for money audits in respect of any
 project involving public funds.
 
 
@@ -330,12 +335,12 @@ and reported upon by an auditor appointed by Parliament.
 (10) The Auditor General may be removed from office by the President
 only for—  
 
-(a) inability to perform the functions of his or her office arising from
+- **(a)** inability to perform the functions of his or her office arising from
 infirmity of body or mind;  
 
-(b) misbehaviour or misconduct; or  
+- **(b)** misbehaviour or misconduct; or  
 
-(c) incompetence.
+- **(c)** incompetence.
 
 ##### 164. Accountability.
 

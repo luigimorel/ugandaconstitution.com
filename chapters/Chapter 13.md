@@ -8,9 +8,9 @@
 
 (2) The Inspectorate of Government shall consist of—  
 
-(a) the Inspector General of Government; and  
+- **(a)** the Inspector General of Government; and  
 
-(b) such number of Deputy Inspectors General as Parliament may
+- **(b)** such number of Deputy Inspectors General as Parliament may
 prescribe.
 
 (3) At least one of the persons referred to in clause (2) of this article
@@ -25,21 +25,21 @@ public service.
 General of Government or Deputy Inspector General of Government unless
 that person—  
 
-(a) is a citizen of Uganda;  
+- **(a)** is a citizen of Uganda;  
 
-(b) is a person of high moral character and proven integrity; and  
+- **(b)** is a person of high moral character and proven integrity; and  
 
-(c) possesses considerable experience and demonstrated competence
+- **(c)** possesses considerable experience and demonstrated competence
 and is of high calibre in the conduct of public affairs.
 
 (6) A person shall resign his or her office on appointment as an
 Inspector General or a Deputy Inspector General, if that person is—  
 
-(a) a member of Parliament;  
+- **(a)** a member of Parliament;  
 
-(b) a member of a local government council; or  
+- **(b)** a member of a local government council; or  
 
-(c) a member of the executive of a political party or organisation.
+- **(c)** a member of the executive of a political party or organisation.
 
 (7) The Inspector General of Government and Deputy Inspectors
 General shall hold office for a term of four years but shall be eligible for
@@ -56,35 +56,36 @@ The Inspector General or a Deputy Inspector General may be removed from
 office by the President on the recommendation of a special tribunal
 constituted by Parliament only for—  
 
-(a) inability to perform the functions of his or her office arising from
+- **(a)** inability to perform the functions of his or her office arising from
 infirmity of body or mind;  
 
-(b) misconduct, misbehaviour or conduct unbecoming of the holder
+- **(b)** misconduct, misbehaviour or conduct unbecoming of the holder
 of the office; or  
 
-(c) incompetence.
+- **(c)** incompetence.
 
 ##### 225. Functions of inspectorate.
 
 (1) The functions of the Inspectorate of Government shall be
 prescribed by Parliament and shall include the following—  
 
-(a) to promote and foster strict adherence to the rule of law and
+- **(a)** to promote and foster strict adherence to the rule of law and
 principles of natural justice in administration;  
 
-(b) to eliminate and foster the elimination of corruption, abuse of
+- **(b)** to eliminate and foster the elimination of corruption, abuse of
 authority and of public office;  
 
-(c) to promote fair, efficient and good governance in public offices;
-(d) subject to the provisions of this Constitution, to supervise the
+- **(c)** to promote fair, efficient and good governance in public offices;
+
+- **(d)** subject to the provisions of this Constitution, to supervise the
 enforcement of the Leadership Code of Conduct;  
 
-(e) to investigate any act, omission, advice, decision or
+- **(e)** to investigate any act, omission, advice, decision or
 recommendation by a public officer or any other authority to
 which this article applies, taken, made, given or done in exercise
 of administrative functions; and  
 
-(f) to stimulate public awareness about the values of
+- **(f)** to stimulate public awareness about the values of
 constitutionalism in general and the activities of its office, in
 particular, through any media and other means it considers
 appropriate.
@@ -173,20 +174,20 @@ make laws to give effect to the provisions of this Chapter.
 (2) Laws made for the purpose of this Chapter may, in particular,
 provide—  
 
-(a) for regulating the procedure for the making of complaints and
+- **(a)** for regulating the procedure for the making of complaints and
 requests to the Inspectorate of Government and for the exercise
 of its functions;  
 
-(b) for conferring such powers on it and imposing such duties on
+- **(b)** for conferring such powers on it and imposing such duties on
 persons concerned as are necessary to facilitate it in the
 performance of its functions;
 
-(c) for ensuring accessibility to the services of the inspectorate by the
+- **(c)** for ensuring accessibility to the services of the inspectorate by the
 general public and decentralising the exercise of those functions
 and, where necessary, for enabling the delegation by the
 inspectorate of any of those functions to other authorities or
 persons at district or lower local government levels; and  
 
-(d) for regulating the functioning of the Inspectorate of Government
+- **(d)** for regulating the functioning of the Inspectorate of Government
 in relation to other institutions or bodies established under this
 Constitution or any other law.

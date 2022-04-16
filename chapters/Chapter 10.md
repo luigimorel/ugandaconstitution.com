@@ -19,14 +19,14 @@ commission unless he or she is of high moral character and proven integrity.
 or her position in that office on appointment as a member of the
 commission—  
 
-(a) a member of Parliament;  
+- **(a)** a member of Parliament;  
 
-(b) a member of a local government council;  
+- **(b)** a member of a local government council;  
 
-(c) a member of the executive of a political party or political
+- **(c)** a member of the executive of a political party or political
 organisation; or  
 
-(d) a public officer.
+- **(d)** a public officer.
 
 (5) A member of the commission shall hold office for a term of four
 years but is eligible for reappointment; except that of the first members
@@ -42,12 +42,12 @@ the President may designate one of the members to act as chairperson.
 (8) A member of the commission may be removed from office by the
 President only for—   
 
-(a) inability to perform the functions of his or her office arising from
+- **(a)** inability to perform the functions of his or her office arising from
 infirmity of body or mind;  
 
-(b) misbehaviour or misconduct; or  
+- **(b)** misbehaviour or misconduct; or  
 
-(c) incompetence.
+- **(c)** incompetence.
 
 
 ##### 166. Functions of the Public Service Commission.
@@ -55,25 +55,25 @@ infirmity of body or mind;
 (1) Except as otherwise provided in this Constitution, the functions
 of the Public Service Commission include—  
 
-(a) to advise the President in performing his or her functions under
+- **(a)** to advise the President in performing his or her functions under
 article 172 of this Constitution;  
 
-(b) to appoint, promote and exercise disciplinary control over persons
+- **(b)** to appoint, promote and exercise disciplinary control over persons
 holding office in the public service of Uganda as provided in
 article 172 of this Constitution;  
 
-(c) to review the terms and conditions of service, standing orders,
+- **(c)** to review the terms and conditions of service, standing orders,
 training and qualifications of public officers and matters
 connected with personnel management and development of the
 public service and make recommendations on them to the
 Government;  
 
-(d) to guide and coordinate district service commissions;  
+- **(d)** to guide and coordinate district service commissions;  
 
-(e) to hear and determine grievances from persons appointed by
+- **(e)** to hear and determine grievances from persons appointed by
 district service commissions; and  
 
-(f) to perform such other functions as may be prescribed by this
+- **(f)** to perform such other functions as may be prescribed by this
 Constitution or any other law.
 
 (2) In the exercise of its functions, the Public Service Commission
@@ -110,11 +110,15 @@ or her position in that office on appointment as a member of the
 commission—  
 
 (a) a member of Parliament;  
+
 (b) a member of a local government council;  
+
 (c) a member of the executive of a political party or political
 organisation;  
+
 (d) a member of any board or other authority responsible for the
 management of any school or college; or  
+
 (e) a public officer.
 
 (6) A member of the Education Service Commission shall hold office
@@ -131,25 +135,32 @@ the President may designate one of the members to act as chairperson.
 
 (9) A member of the commission may be removed from office by the
 President only for—  
+
 (a) inability to perform the functions of his or her office arising from
 infirmity of body or mind;  
+
 (b) misbehaviour or misconduct; or  
+
 (c) incompetence.
 
 168. Functions of the Education Service Commission.
 
 (1) Subject to the provisions of this Constitution, the Education
-Service Commission shall—  
+Service Commission shall— 
+
 (a) advise the President in performing, in relation to the education
 service, his or her functions under article 172 of this Constitution;  
+
 (b) have power to appoint persons to hold or act in any office in the
 education service, including the power to confirm such
 appointments, to exercise disciplinary control over those persons
 and to remove them from office;  
+
 (c) review the terms and conditions of service, standing orders,
 training and qualifications of public officers in the education
 service and matters connected with their management and welfare
 and make recommendations on them to the Government;  
+
 (d) perform such other functions as may be prescribed by this
 Constitution or any other law.
 

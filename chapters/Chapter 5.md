@@ -43,14 +43,14 @@ the first term.
 or her position in that office on appointment as a member of the
 commission—  
 
-(a) a member of Parliament;  
+- **(a)** a member of Parliament;  
 
-(b) a member of a local government council;  
+- **(b)** a member of a local government council;  
 
-(c) a member of the executive of a political party or political
+- **(c)** a member of the executive of a political party or political
 organisation; or  
 
-(d) a public officer.
+- **(d)** a public officer.
 
 (6) Members of the commission shall be paid such emoluments as
 Parliament may determine.
@@ -64,36 +64,37 @@ the vacancy.
 (8) A member of the commission may be removed from office by the
 President only for— 
 
-(a) inability to perform the functions of his or her office arising out  
+- **(a)** inability to perform the functions of his or her office arising out  
 of physical or mental incapacity;  
 
-(b) misbehaviour or misconduct; or  
+- **(b)** misbehaviour or misconduct; or  
 
-(c) incompetence.
+- **(c)** incompetence.
 
 ##### 61. Functions of the Electoral Commission.
 
 The Electoral Commission shall have the following functions—
 
-(a) to ensure that regular, free and fair elections are held;
+- **(a)** to ensure that regular, free and fair elections are held;
 
-(b) to organise, conduct and supervise elections and referenda in
+- **(b)** to organise, conduct and supervise elections and referenda in
 accordance with this Constitution;
 
-(c) to demarcate constituencies in accordance with the provisions of
+- **(c)** to demarcate constituencies in accordance with the provisions of
 this Constitution;
 
-(d) to ascertain, publish and declare in writing under its seal the
+- **(d)** to ascertain, publish and declare in writing under its seal the
 results of the elections and referenda;
 
-(e) to compile, maintain, revise and update the voters register;
-(f) to hear and determine election complaints arising before and
+- **(e)** to compile, maintain, revise and update the voters register;  
+
+- **(f)** to hear and determine election complaints arising before and
 during polling;
 
-(g) to formulate and implement civic educational programmes
+- **(g)** to formulate and implement civic educational programmes
 relating to elections; and
 
-(h) to perform such other functions as may be prescribed by
+- **(h)** to perform such other functions as may be prescribed by
 Parliament by law.
 
 ##### 62. Independence of the commission.
@@ -210,9 +211,9 @@ poll.
 in the case of a referendum, the sides contesting or their agents, if any, shall
 sign and retain a copy of a declaration stating—
 
-(a) the polling station;
+- **(a)** the polling station;
 
-(b) the number of votes cast in favour of each candidate or question,
+- **(b)** the number of votes cast in favour of each candidate or question,
 and the presiding officer shall there and then, announce the results of the
 voting at that polling station before communicating them to the returning
 officer.
@@ -221,10 +222,10 @@ officer.
 determination by a referendum shall be taken to be determined by a majority of the votes cast at the referendum.
 
 
-Political systems.
+#### Political systems.
 
 
-69. Political systems.
+##### 69. Political systems.
 
 (1) The people of Uganda shall have the right to choose and adopt a
 political system of their choice through free and fair elections or referenda.
@@ -232,32 +233,32 @@ political system of their choice through free and fair elections or referenda.
 (2) The political systems referred to in clause (1) of this article shall
 include—  
 
-(a) the movement political system;  
+- **(a)** the movement political system;  
 
-(b) the multiparty political system; and  
+- **(b)** the multiparty political system; and  
 
-(c) any other democratic and representative political system.
+- **(c)** any other democratic and representative political system.
 
 70. Movement political system.
 
 (1) The movement political system is broad-based, inclusive and
 nonpartisan and shall conform to the following principles—  
 
-(a) participatory democracy;  
+- **(a)** participatory democracy;  
 
-(b) democracy, accountability and transparency;  
+- **(b)** democracy, accountability and transparency;  
 
-(c) accessibility to all positions of leadership by all citizens;  
+- **(c)** accessibility to all positions of leadership by all citizens;  
 
-(d) individual merit as a basis for election to political offices.
+- **(d)** individual merit as a basis for election to political offices.
 
 
 (2) Parliament may—  
 
-(a) create organs under the movement political system and define
+- **(a)** create organs under the movement political system and define
 their roles; and  
 
-(b) prescribe from time to time any other democratic principle of the
+- **(b)** prescribe from time to time any other democratic principle of the
 movement political system, as it may consider necessary.
 
 
@@ -266,22 +267,22 @@ movement political system, as it may consider necessary.
 A political party in the multiparty political system shall conform to the
 following principles—  
 
-(a) every political party shall have a national character;  
+- **(a)** every political party shall have a national character;  
 
-(b) membership of a political party shall not be based on sex,
+- **(b)** membership of a political party shall not be based on sex,
 ethnicity, religion or other sectional division;  
 
-(c) the internal organisation of a political party shall conform to the
+- **(c)** the internal organisation of a political party shall conform to the
 democratic principles enshrined in this Constitution;  
 
-(d) members of the national organs of a political party shall be
+- **(d)** members of the national organs of a political party shall be
 regularly elected from citizens of Uganda in conformity with the provisions of paragraphs (a) and (b) of this article and with due
 consideration for gender;  
 
-(e) political parties shall be required by law to account for the
+- **(e)** political parties shall be required by law to account for the
 sources and use of their funds and assets;  
 
-(f) no person shall be compelled to join a particular party by virtue
+- **(f)** no person shall be compelled to join a particular party by virtue
 of belonging to an organisation or interest group.
 
 
@@ -313,13 +314,13 @@ is necessary for enabling the political system adopted to operate.
 (1) A referendum shall be held for the purpose of changing the
 political system—  
 
-(a) if requested by a resolution supported by more than half of all
+- **(a)** if requested by a resolution supported by more than half of all
 members of Parliament;  
 
-(b) if requested by a resolution supported by the majority of the total
+- **(b)** if requested by a resolution supported by the majority of the total
 membership of each of at least one half of all district councils; or  
 
-(c) if requested through a petition to the Electoral Commission by at
+- **(c)** if requested through a petition to the Electoral Commission by at
 least one-tenth of the registered voters from each of at least
 two-thirds of the constituencies for which representatives are required to be directly elected under article 78(1)(a) of this
 Constitution.
@@ -341,7 +342,6 @@ Parliament shall have no power to enact a law establishing a one-party state.
 
 
 #### General.
-
 
 ##### 76. Parliament to enact laws on elections.
 

@@ -13,12 +13,12 @@ people.
 
 (2) In adjudicating cases of both a civil and criminal nature, the courts
 shall, subject to the law, apply the following principles—  
-(a) justice shall be done to all irrespective of their social or economic
+- **(a)** justice shall be done to all irrespective of their social or economic
 status;  
-(b) justice shall not be delayed;  
-(c) adequate compensation shall be awarded to victims of wrongs;
-(d) reconciliation between parties shall be promoted; and  
-(e) substantive justice shall be administered without undue regard to
+- **(b)** justice shall not be delayed;  
+- **(c)** adequate compensation shall be awarded to victims of wrongs;
+- **(d)** reconciliation between parties shall be promoted; and  
+- **(e)** substantive justice shall be administered without undue regard to
 technicalities.
 
 ##### 127. Participation of the people in the administration of justice.
@@ -66,11 +66,11 @@ office.
 (1) The judicial power of Uganda shall be exercised by the courts of
 judicature which shall consist of—  
 
-(a) the Supreme Court of Uganda;  
+- **(a)** the Supreme Court of Uganda;  
 
-(b) the Court of Appeal of Uganda;  
+- **(b)** the Court of Appeal of Uganda;  
 
-(c) the High Court of Uganda; and  
+- **(c)** the High Court of Uganda; and  
 
 (d) such subordinate courts as Parliament may by law establish,
 including qadhis’ courts for marriage, divorce, inheritance of
@@ -91,9 +91,9 @@ make provision for the jurisdiction and procedure of the courts.
 
 The Supreme Court shall consist of—  
 
-(a) the Chief Justice; and  
+- **(a)** the Chief Justice; and  
 
-(b) such number of justices of the Supreme Court, not being less than
+- **(b)** such number of justices of the Supreme Court, not being less than
 six, as Parliament may by law prescribe.
 
 ##### 131. Composition of the Supreme Court.
@@ -135,10 +135,10 @@ decisions of the Supreme Court on questions of law.
 
 (1) The Chief Justice—  
 
-(a) shall be the head of the judiciary and shall be responsible for the
+- **(a)** shall be the head of the judiciary and shall be responsible for the
 administration and supervision of all courts in Uganda; and  
 
-(b) may issue orders and directions to the courts necessary for the
+- **(b)** may issue orders and directions to the courts necessary for the
 proper and efficient administration of justice.
 
 
@@ -157,9 +157,9 @@ functions, those functions shall be performed by the Deputy Chief Justice.
 
 (1) The Court of Appeal of Uganda shall consist of—
 
-(a) the Deputy Chief Justice; and
+- **(a)** the Deputy Chief Justice; and
 
-(b) such number of justices of Appeal not being less than seven as
+- **(b)** such number of justices of Appeal not being less than seven as
 Parliament may by law prescribe.
 
 
@@ -179,10 +179,10 @@ the court as constituted shall preside.
 may create divisions of the Court of Appeal as the Chief Justice may consider
 necessary—  
 
-(a) consisting of such numbers of justices of Appeal as may be
+- **(a)** consisting of such numbers of justices of Appeal as may be
 assigned to them by the Chief Justice;  
 
-(b) sitting at such places in Uganda as the Chief Justice may, after  consultation with the Attorney General, by statutory order,
+- **(b)** sitting at such places in Uganda as the Chief Justice may, after  consultation with the Attorney General, by statutory order,
 determine.
 
 
@@ -191,21 +191,21 @@ determine.
 (1) Subject to the provisions of article 133 of this Constitution, the
 Deputy Chief Justice shall—  
 
-(a) deputise for the Chief Justice as and when the need arises;  
+- **(a)** deputise for the Chief Justice as and when the need arises;  
 
-(b) be the head of the Court of Appeal and in that capacity assist the
+- **(b)** be the head of the Court of Appeal and in that capacity assist the
 Chief Justice in the administration of that court; and  
 
-(c) perform such other functions as may be delegated or assigned to
+- **(c)** perform such other functions as may be delegated or assigned to
 him or her by the Chief Justice.
 
 (2) Where—  
 
-(a) the office of the Deputy Chief Justice is vacant;  
+- **(a)** the office of the Deputy Chief Justice is vacant;  
 
-(b) the Deputy Chief Justice is acting as Chief Justice; or  
+- **(b)** the Deputy Chief Justice is acting as Chief Justice; or  
 
-(c) the Deputy Chief Justice is for any reason unable to perform the
+- **(c)** the Deputy Chief Justice is for any reason unable to perform the
 functions of his or her office,  
 then, until a person has been appointed to and has assumed the functions of
 the office of the Deputy Chief Justice, those functions shall be performed by
@@ -226,9 +226,11 @@ determined by the Court of Appeal sitting as the constitutional court.
 consist of a bench of five members of that court.
 
 (3) A person who alleges that—  
-(a) an Act of Parliament or any other law or anything in or done
+
+- **(a)** an Act of Parliament or any other law or anything in or done
 under the authority of any law; or  
-(b) any act or omission by any person or authority,
+
+- **(b)** any act or omission by any person or authority,
 is inconsistent with or in contravention of a provision of this Constitution,
 may petition the constitutional court for a declaration to that effect, and for
 redress where appropriate.
@@ -236,18 +238,20 @@ redress where appropriate.
 (4) Where upon determination of the petition under clause (3) of this
 article the constitutional court considers that there is need for redress in
 addition to the declaration sought, the constitutional court may—  
-(a) grant an order of redress; or  
-(b) refer the matter to the High Court to investigate and determine the
+
+- **(a)** grant an order of redress; or  
+
+- **(b)** refer the matter to the High Court to investigate and determine the
 appropriate redress.
 
 (5) Where any question as to the interpretation of this Constitution
 arises in any proceedings in a court of law other than a field court martial, the
 court—  
 
-(a) may, if it is of the opinion that the question involves a substantial
+- **(a)** may, if it is of the opinion that the question involves a substantial
 question of law; and  
 
-(b) shall, if any party to the proceedings requests it to do so,
+- **(b)** shall, if any party to the proceedings requests it to do so,
 refer the question to the constitutional court for decision in accordance with
 clause (1) of this article.
 
@@ -270,9 +274,9 @@ pending before it.
 
 (1) The High Court of Uganda shall consist of—  
 
-(a) the Principal Judge; and  
+- **(a)** the Principal Judge; and  
 
-(b) such number of judges of the High Court as may be prescribed by
+- **(b)** such number of judges of the High Court as may be prescribed by
 Parliament.
 
 
@@ -308,18 +312,18 @@ referred to in clause (1) of this article.
 (1) Subject to the provisions of article 133 of this Constitution, the
 Principal Judge shall—  
 
-(a) be the head of the High Court, and shall, in that capacity, assist
+- **(a)** be the head of the High Court, and shall, in that capacity, assist
 the Chief Justice in the administration of the High Court and
 subordinate courts; and  
 
-(b) perform such other functions as may be delegated or assigned to
+- **(b)** perform such other functions as may be delegated or assigned to
 him or her by the Chief Justice.
 
 (2) Where—  
 
-(a) the office of Principal Judge is vacant; or  
+- **(a)** the office of Principal Judge is vacant; or  
 
-(b) the Principal Judge is for any reason unable to perform the
+- **(b)** the Principal Judge is for any reason unable to perform the
 functions of his or her office,  
 then, until a person has been appointed to and has assumed the functions of
 that office, or until the Principal Judge has resumed those functions, those
@@ -339,14 +343,14 @@ Service Commission and with the approval of Parliament.
 
 (2) Where—  
 
-(a) the office of a justice of the Supreme Court or a justice of Appeal
+- **(a)** the office of a justice of the Supreme Court or a justice of Appeal
 or a judge of the High Court is vacant; 
 
-(b) a justice of the Supreme Court or a justice of Appeal or a judge
+- **(b)** a justice of the Supreme Court or a justice of Appeal or a judge
 of the High Court is for any reason unable to perform the
 functions of his or her office; or  
 
-(c) the Chief Justice advises the Judicial Service Commission that
+- **(c)** the Chief Justice advises the Judicial Service Commission that
 the state of business in the Supreme Court, Court of Appeal or the
 High Court so requires,
 the President may, acting on the advice of the Judicial Service Commission,
@@ -366,32 +370,32 @@ advice of the Judicial Service Commission, whichever is the earlier.
 
 (1) A person shall be qualified for appointment as—  
 
-(a) Chief Justice, if he or she has served as a justice of the Supreme
+- **(a)** Chief Justice, if he or she has served as a justice of the Supreme
 Court of Uganda or of a court having similar jurisdiction or has
 practised as an advocate for a period not less than twenty years
 before a court having unlimited jurisdiction in civil and criminal
 matters;  
 
-(b) Deputy Chief Justice or Principal Judge, if he or she has served
+- **(b)** Deputy Chief Justice or Principal Judge, if he or she has served
 as a justice of the Supreme Court or as a justice of Appeal or as
 a judge of the High Court or a court of similar jurisdiction to such a court or has practised as an advocate for a period not less than
 fifteen years before a court having unlimited jurisdiction in civil
 and criminal matters;  
 
-(c) a justice of the Supreme Court if he or she has served as a justice
+- **(c)** a justice of the Supreme Court if he or she has served as a justice
 of Appeal or a judge of the High Court or a court of similar
 jurisdiction to such a court or has practised as an advocate for a
 period not less than fifteen years before a court having unlimited
 jurisdiction in civil and criminal matters;  
 
-(d) a justice of Appeal, if he or she has served as a judge of the High
+- **(d)** a justice of Appeal, if he or she has served as a judge of the High
 Court or a court having similar or higher jurisdiction or has
 practised as an advocate for a period not less than ten years before
 a court having unlimited jurisdiction in civil and criminal matters
 or is a distinguished jurist and an advocate of not less than ten
 years’ standing;  
 
-(e) a judge of the High Court, if he or she is or has been a judge of a
+- **(e)** a judge of the High Court, if he or she is or has been a judge of a
 court having unlimited jurisdiction in civil and criminal matters
 or a court having jurisdiction in appeals from any such court or
 has practised as an advocate for a period not less than ten years
@@ -408,14 +412,14 @@ of this article even though that person does not have a practising certificate.
 (1) A judicial officer may retire at any time after attaining the age of
 sixty years, and shall vacate his or her office—  
 
-(a) in the case of the Chief Justice, the Deputy Chief Justice, a justice
+- **(a)** in the case of the Chief Justice, the Deputy Chief Justice, a justice
 of the Supreme Court and a justice of Appeal, on attaining the age
 of seventy years; and  
 
-(b) in the case of the Principal Judge and a judge of the High Court,
+- **(b)** in the case of the Principal Judge and a judge of the High Court,
 on attaining the age of sixty-five years; or 
 
-(c) in each case, subject to article 128(7) this Constitution, on
+- **(c)** in each case, subject to article 128(7) this Constitution, on
 attaining such other age as may be prescribed by Parliament by
 law;
 but a judicial officer may continue in office after attaining the age at which
@@ -424,12 +428,12 @@ three months necessary to enable him or her to complete any work pending before 
 
 (2) A judicial officer may be removed from office only for—  
 
-(a) inability to perform the functions of his or her office arising from
+- **(a)** inability to perform the functions of his or her office arising from
 infirmity of body or mind;  
 
-(b) misbehaviour or misconduct; or  
+- **(b)** misbehaviour or misconduct; or  
 
-(c) incompetence,  
+- **(c)** incompetence,  
 but only in accordance with the provisions of this article.
 
 (3) The President shall remove a judicial officer if the question of his
@@ -443,19 +447,19 @@ investigated shall be referred to the President by either the Judicial Service
 Commission or the Cabinet with advice that the President should appoint a
 tribunal; and the President shall then appoint a tribunal consisting of—  
 
-(a) in the case of the Chief Justice, the Deputy Chief Justice or the
+- **(a)** in the case of the Chief Justice, the Deputy Chief Justice or the
 Principal Judge, five persons who are or have been justices of the
 Supreme Court or are or have been judges of a court having
 similar jurisdiction or who are advocates of at least twenty years’
 standing;  
 
-(b) in the case of a justice of the Supreme Court or a justice of
+- **(b)** in the case of a justice of the Supreme Court or a justice of
 Appeal, three persons who are or have been justices of the
 Supreme Court or who are or have been judges of a court of
 similar jurisdiction or who are advocates of at least fifteen years’
 standing; or  
 
-(c) in the case of a judge of the High Court, three persons who are or
+- **(c)** in the case of a judge of the High Court, three persons who are or
 have held office as judges of a court having unlimited jurisdiction
 in civil and criminal matters or a court having jurisdiction in
 appeals from such a court or who are advocates of at least ten
@@ -494,21 +498,21 @@ President on the advice of the Judicial Service Commission.
 this article, consist of the following persons who shall be appointed by the
 President with the approval of Parliament— 
 
-(a) a chairperson and a deputy chairperson who shall be persons
+- **(a)** a chairperson and a deputy chairperson who shall be persons
 qualified to be appointed as justices of the Supreme Court, other
 than the Chief Justice, the Deputy Chief Justice and the Principal
 Judge;  
 
-(b) one person nominated by the Public Service Commission;
+- **(b)** one person nominated by the Public Service Commission;
 
-(c) two advocates of not less than fifteen years’ standing nominated
+- **(c)** two advocates of not less than fifteen years’ standing nominated
 by the Uganda Law Society;  
 
-(d) one judge of the Supreme Court nominated by the President in
+- **(d)** one judge of the Supreme Court nominated by the President in
 consultation with the judges of the Supreme Court, the justices of
 Appeal and judges of the High Court; and  
 
-(e) two members of the public, who shall not be lawyers, nominated
+- **(e)** two members of the public, who shall not be lawyers, nominated
 by the President.
 
 (3) The Attorney General shall be an ex officio member of the
@@ -548,27 +552,27 @@ Commission.
 
 (1) The functions of the Judicial Service Commission are—  
 
-(a) to advise the President in the exercise of the President’s power to
+- **(a)** to advise the President in the exercise of the President’s power to
 appoint persons to hold or act in any office specified in clause (3)
 of this article, which includes power to confirm appointments, to
 exercise disciplinary control over such persons and to remove
 them from office;  
 
-(b) subject to the provisions of this Constitution, to review and make
+- **(b)** subject to the provisions of this Constitution, to review and make
 recommendations on the terms and conditions of service of
 judges and other judicial officers;  
 
-(c) to prepare and implement programmes for the education of, and
+- **(c)** to prepare and implement programmes for the education of, and
 for the dissemination of information to judicial officers and the
 public about law and the administration of justice; 
 
-(d) to receive and process people’s recommendations and complaints
+- **(d)** to receive and process people’s recommendations and complaints
 concerning the judiciary and the administration of justice and, generally, to act as a link between the people and the judiciary;
 
-(e) to advise the Government on improving the administration of
+- **(e)** to advise the Government on improving the administration of
 justice; and  
 
-(f) any other function prescribed by this Constitution or by
+- **(f)** any other function prescribed by this Constitution or by
 Parliament.
 
 
@@ -579,11 +583,11 @@ control of any person or authority.
 
 (3) The offices referred to in clause (1)(a) of this article are—  
 
-(a) the office of the Chief Justice, the Deputy Chief Justice, the
+- **(a)** the office of the Chief Justice, the Deputy Chief Justice, the
 Principal Judge, a justice of the Supreme Court, a justice of
 Appeal and a judge of the High Court; and 
 
-(b) the office of the Chief Registrar and a registrar.
+- **(b)** the office of the Chief Registrar and a registrar.
 
 
 ##### 148. Appointment of other judicial officers.
@@ -615,10 +619,10 @@ the Judicial Service Commission of their functions under this Chapter.
 In this Chapter, unless the context otherwise requires, “judicial officer”
 means—  
 
-(a) a judge or any person who presides over a court or tribunal
+- **(a)** a judge or any person who presides over a court or tribunal
 howsoever described;  
 
-(b) the Chief Registrar or a registrar of a court;  
+- **(b)** the Chief Registrar or a registrar of a court;  
 
-(c) such other person holding any office connected with a court as
+- **(c)** such other person holding any office connected with a court as
 may be prescribed by law.

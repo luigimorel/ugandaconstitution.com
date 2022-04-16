@@ -67,12 +67,12 @@ Parliament from time to time, on any matter of national importance.
 
 A person is not qualified for election as President unless that person is—  
 
-(a) a citizen of Uganda by birth;  
+- **(a)** a citizen of Uganda by birth;  
 
-(b) not less than thirty-five years and not more than seventy-five
+- **(b)** not less than thirty-five years and not more than seventy-five
 years of age; and  
 
-(c) a person qualified to be a member of Parliament.
+- **(c)** a person qualified to be a member of Parliament.
 
 ##### 103. Election of the President.
 
@@ -94,13 +94,13 @@ least two-thirds of all the districts in Uganda.
 days of the last ninety days before the expiration of the term of the President,
 except in the case of—  
 
-(a) the first election under this Constitution; 
+- **(a)** the first election under this Constitution; 
 
-(b) an election held under article 104(6) of this Constitution;  
+- **(b)** an election held under article 104(6) of this Constitution;  
 
-(c) an election held under article 109(2) of this Constitution; and  
+- **(c)** an election held under article 109(2) of this Constitution; and  
 
-(d) an election necessitated by the fact that a normal presidential
+- **(d)** an election necessitated by the fact that a normal presidential
 election could not be held as a result of the existence of a state of
 war or a state of emergency, in which case, the election shall be
 held within such period as Parliament may, by law, prescribe.
@@ -153,11 +153,11 @@ have been duly elected as President.
 (5) After due inquiry under clause (3) of this article, the Supreme
 Court may—  
 
-(a) dismiss the petition;  
+- **(a)** dismiss the petition;  
 
-(b) declare which candidate was validly elected; or
+- **(b)** declare which candidate was validly elected; or
 
-(c) annul the election.
+- **(c)** annul the election.
 
 (6) Where an election is annulled, a fresh election shall be held within
 twenty days from the date of the annulment.
@@ -186,9 +186,9 @@ office as President for more than two terms as prescribed by this article.
 
 (3) The office of President shall become vacant—
 
-(a) on the expiration of the period specified in this article; or
+- **(a)** on the expiration of the period specified in this article; or
 
-(b) if the incumbent dies or resigns or ceases to hold office under
+- **(b)** if the incumbent dies or resigns or ceases to hold office under
 article 107 of this Constitution.
 
 (4) The President may, by writing signed by him or her, and
@@ -232,20 +232,20 @@ shall not be varied to the disadvantage of the President.
 (1) The President may be removed from office in accordance with
 this article on any of the following grounds—  
 
-(a) abuse of office or wilful violation of the oath of allegiance and
+- **(a)** abuse of office or wilful violation of the oath of allegiance and
 the presidential oath or any provision of this Constitution;  
 
-(b) misconduct or misbehaviour—  
+- **(b)** misconduct or misbehaviour—  
 
-(i) that he or she has conducted himself or herself in a manner
+    - **(i)** that he or she has conducted himself or herself in a manner
 which brings or is likely to bring the office of President into
 hatred, ridicule, contempt or disrepute; or  
 
-(ii) that he or she has dishonestly done any act or omission
+    - **(ii)** that he or she has dishonestly done any act or omission
 which is prejudicial or inimical to the economy or security
 of Uganda; or  
 
-(c) physical or mental incapacity, namely that he or she is incapable
+- **(c)** physical or mental incapacity, namely that he or she is incapable
 of performing the functions of his or her office by reason of
 physical or mental incapacity.
 
@@ -253,19 +253,19 @@ physical or mental incapacity.
 (b) of this article, a notice in writing signed by not less than one-third of all
 the members of Parliament shall be submitted to the Speaker—  
 
-(a) stating that they intend to move a motion for a resolution in
+- **(a)** stating that they intend to move a motion for a resolution in
 Parliament for the removal of the President on the charge that the
 President has—  
 
-(i) wilfully abused his or her office or wilfully violated the
+    - **(i)** wilfully abused his or her office or wilfully violated the
 oath of allegiance and the presidential oath or any other
 provision of this Constitution in terms of clause (1)(a) of
 this article; or  
 
-(ii) misconducted himself or herself or misbehaved in terms of
+    - **(ii)** misconducted himself or herself or misbehaved in terms of
 clause (1)(b) of this article; and  
 
-(b) setting out the particulars of the charge supported by the
+- **(b)** setting out the particulars of the charge supported by the
 necessary documents on which it is claimed that the conduct of
 the President be investigated for the purposes of his or her
 removal.
@@ -295,11 +295,11 @@ physical or mental incapacity under clause (1)(c) of this article, there shall b
 submitted to the Speaker a notice in writing signed by not less than one-third
 of all the members of Parliament—
 
-(a) stating that they intend to move a motion for a resolution in
+- **(a)** stating that they intend to move a motion for a resolution in
 Parliament for the removal of the President from office on
 grounds of physical or mental incapacity; and
 
-(b) giving particulars of the alleged incapacity.
+- **(b)** giving particulars of the alleged incapacity.
 
 (8) The Speaker shall, within twenty-four hours after receipt of a
 notice under clause (7) of this article, cause a copy to be transmitted to the
@@ -351,9 +351,9 @@ majority, appoint a Vice President.
 
 (3) The Vice President shall—  
 
-(a) deputise for the President as and when the need arises; and  
+- **(a)** deputise for the President as and when the need arises; and  
 
-(b) perform such other functions as may be assigned to him or her by
+- **(b)** perform such other functions as may be assigned to him or her by
 the President, or as may be conferred on him or her by this
 Constitution.
 
@@ -364,9 +364,9 @@ Constitution.
 
 (5) The office of Vice President shall become vacant if—  
 
-(a) the appointment is revoked by the President; or  
+- **(a)** the appointment is revoked by the President; or  
 
-(b) the incumbent resigns or dies.
+- **(b)** the incumbent resigns or dies.
 
 
 (6) With the exception of clause (2) of that article, article 106 of this
@@ -403,7 +403,6 @@ perform the functions of the office of the President, the Speaker shall perform
 those functions until the President or the Vice President is able to perform
 those functions or until a new President assumes office.
 
-
 (6) The Vice President shall, before assuming the duties of the office of President under clause (1) of this article, appoint a person to the office of
 Vice President, subject to the approval of Parliament.
 
@@ -427,13 +426,13 @@ proclamation, declare that a state of emergency exists in Uganda, or any part
 of Uganda if the President is satisfied that circumstances exist in Uganda or
 in that part of Uganda—  
 
-(a) in which Uganda or that part of it is threatened by war or external
+- **(a)** in which Uganda or that part of it is threatened by war or external
 aggression;  
 
-(b) in which the security or the economic life of the country or that
+- **(b)** in which the security or the economic life of the country or that
 part is threatened by internal insurgency or natural disaster; or  
 
-(c) which render necessary the taking of measures which are required
+- **(c)** which render necessary the taking of measures which are required
 for securing the public safety, the defence of Uganda and the
 maintenance of public order and supplies and services essential
 to the life of the community.
@@ -550,18 +549,18 @@ to this Constitution.
 
 The office of a Minister shall become vacant—  
 
-(a) if the appointment of the holder of the office is revoked by the
+- **(a)** if the appointment of the holder of the office is revoked by the
 President; or  
 
-(b) if the holder—  
+- **(b)** if the holder—  
 
-(i) resigns; 
+    - **(i)** resigns; 
 
-(ii) becomes disqualified to be a member of Parliament; or  
+    - **(ii)** becomes disqualified to be a member of Parliament; or  
 
-(iii) dies.
+    - **(iii)** dies.
 
-117. Responsibility of Ministers.
+##### 117. Responsibility of Ministers.
 
 Ministers shall individually be accountable to the President for the
 administration of their Ministries and collectively be responsible for any
@@ -573,18 +572,18 @@ decision made by the Cabinet.
 members of Parliament, pass a vote of censure against a Minister on any of
 the following grounds—  
 
-(a) abuse of office or wilful violation of the oath of allegiance or oath
+- **(a)** abuse of office or wilful violation of the oath of allegiance or oath
 of office;  
 
-(b) misconduct or misbehaviour;  
+- **(b)** misconduct or misbehaviour;  
 
-(c) physical or mental incapacity, namely, that he or she is incapable
+- **(c)** physical or mental incapacity, namely, that he or she is incapable
 of performing the functions of his or her office by reason of
 physical or mental incapacity;  
 
-(d) mismanagement; or  
+- **(d)** mismanagement; or  
 
-(e) incompetence.
+- **(e)** incompetence.
 
 
 (2) Upon a vote of censure being passed against a Minister, the
@@ -623,17 +622,17 @@ Government.
 (4) The functions of the Attorney General shall include the
 following—  
 
-(a) to give legal advice and legal services to the Government on any
+- **(a)** to give legal advice and legal services to the Government on any
 subject;  
 
-(b) to draw and peruse agreements, contracts, treaties, conventions
+- **(b)** to draw and peruse agreements, contracts, treaties, conventions
 and documents by whatever name called, to which the Government is a party or in respect of which the Government has
 an interest;  
 
-(c) to represent the Government in courts or any other legal
+- **(c)** to represent the Government in courts or any other legal
 proceedings to which the Government is a party; and  
 
-(d) to perform such other functions as may be assigned to him or her
+- **(d)** to perform such other functions as may be assigned to him or her
 by the President or by law.
 
 
@@ -667,17 +666,17 @@ Court.
 (3) The functions of the Director of Public Prosecutions are the
 following—  
 
-(a) to direct the police to investigate any information of a criminal
+- **(a)** to direct the police to investigate any information of a criminal
 nature and to report to him or her expeditiously;  
 
-(b) to institute criminal proceedings against any person or authority
+- **(b)** to institute criminal proceedings against any person or authority
 in any court with competent jurisdiction other than a court
 martial;    
 
-(c) to take over and continue any criminal proceedings instituted by
+- **(c)** to take over and continue any criminal proceedings instituted by
 any other person or authority;
 
-(d) to discontinue at any stage before judgment is delivered, any
+- **(d)** to discontinue at any stage before judgment is delivered, any
 criminal proceedings to which this article relates, instituted by
 himself or herself or any other person or authority; except that the
 Director of Public Prosecutions shall not discontinue any
@@ -687,12 +686,12 @@ with the consent of the court.
 (4) The functions conferred on the Director of Public Prosecutions
 under clause (3) of this article—  
 
-(a) may, in the case of the functions under clause (3)(a), (b) and (c)
+- **(a)** may, in the case of the functions under clause (3)(a), (b) and (c)
 of this article, be exercised by him or her in person or by officers
 authorised by him or her in accordance with general or specified
 instructions; and   
 
-(b) shall, in the case of the functions under paragraph (d) of that
+- **(b)** shall, in the case of the functions under paragraph (d) of that
 clause, be exercised by him or her exclusively.
 
 (5) In exercising his or her powers under this article, the Director of
@@ -715,9 +714,9 @@ conditions of service as those of a High Court judge.
 (1) There shall be an Advisory Committee on the Prerogative of
 Mercy which shall consist of—  
 
-(a) the Attorney General who shall be the chairperson; and  
+- **(a)** the Attorney General who shall be the chairperson; and  
 
-(b) six prominent citizens of Uganda appointed by the President.
+- **(b)** six prominent citizens of Uganda appointed by the President.
 
 (2) A person shall not be qualified for appointment as a member of
 the committee if he or she is a member of Parliament, the Uganda Law
@@ -726,27 +725,27 @@ Society or a district council.
 
 (3) A member appointed under clause (1)(b) of this article shall serve for a period of four years and shall cease to be a member of the committee—
 
-(a) if circumstances arise that would disqualify him or her from
+- **(a)** if circumstances arise that would disqualify him or her from
 appointment; or
 
-(b) if removed by the President for inability to perform the functions
+- **(b)** if removed by the President for inability to perform the functions
 of his or her office arising from infirmity of body or mind or for
 misbehaviour, misconduct or incompetence.
 
 
 (4) The President may, on the advice of the committee—
 
-(a) grant to any person convicted of an offence a pardon either free
+- **(a)** grant to any person convicted of an offence a pardon either free
 or subject to lawful conditions;  
 
-(b) grant to a person a respite, either indefinite or for a specified
+- **(b)** grant to a person a respite, either indefinite or for a specified
 period, from the execution of punishment imposed on him or her
 for an offence;  
 
-(c) substitute a less severe form of punishment for a punishment
+- **(c)** substitute a less severe form of punishment for a punishment
 imposed on a person for an offence; or  
 
-(d) remit the whole or part of a punishment imposed on a person or
+- **(d)** remit the whole or part of a punishment imposed on a person or
 of a penalty or forfeiture otherwise due to Government on
 account of any offence.
 

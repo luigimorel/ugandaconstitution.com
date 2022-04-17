@@ -688,5 +688,5 @@ In this Chapter, a reference to a local government includes—
 
 - **(c)** a subcounty council; or  
 
-(d) any other unit prescribed by law to replace any of the councils
+- **(d)** any other unit prescribed by law to replace any of the councils
 mentioned in paragraphs (a), (b) and (c) of this article.

@@ -604,7 +604,7 @@ Every judicial officer shall, before assuming the duties of his or her office,
 take and subscribe the oath of allegiance and the judicial oath specified in the
 Fourth Schedule to this Constitution.
 
-##### 150. Power to make laws relating to the judiciary.
+ ##### 150. Power to make laws relating to the judiciary.
 
 (1) Subject to the provisions of this Constitution, Parliament may
 make laws providing for the structures, procedures and functions of the

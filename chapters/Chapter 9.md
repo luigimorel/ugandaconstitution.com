@@ -73,7 +73,7 @@ Parliament by resolution for that financial year; and
 service in the Appropriation Act for that financial year when that
 law comes into operation.
 
-####155. Financial year estimates.
+####  155. Financial year estimates.
 
 (1) The President shall cause to be prepared and laid before
 Parliament in each financial year, but in any case not later than the fifteenth
@@ -108,7 +108,7 @@ exceeding one year.
 (6) Parliament may make laws for giving effect to the provisions of
 this article.
 
-#####156. Appropriation Bill.
+#####  156. Appropriation Bill.
 
 (1) The heads of expenditure contained in the estimates, other than
 expenditure charged on the Consolidated Fund by this Constitution or any

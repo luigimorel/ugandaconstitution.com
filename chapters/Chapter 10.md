@@ -143,7 +143,7 @@ infirmity of body or mind;
 
 - **(c)** incompetence.
 
-168. Functions of the Education Service Commission.
+##### 168. Functions of the Education Service Commission.
 
 (1) Subject to the provisions of this Constitution, the Education
 Service Commission shall— 

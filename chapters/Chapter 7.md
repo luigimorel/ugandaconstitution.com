@@ -55,7 +55,7 @@ executed by the President.
 The President shall, whenever leaving Uganda, notify in writing the Vice
 President, the Speaker and the Chief Justice.
 
-101. Presidential addresses.
+##### 101. Presidential addresses.
 
 (1) The President shall, at the beginning of each session of
 Parliament, deliver to Parliament an address on the state of the nation.
@@ -706,7 +706,7 @@ direction or control of any person or authority.
 conditions of service as those of a High Court judge.
 
 
-####Prerogative of mercy.
+#### Prerogative of mercy.
 
 
 ##### 121. Prerogative of mercy.

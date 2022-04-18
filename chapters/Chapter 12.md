@@ -190,7 +190,7 @@ police force, the Uganda Prisons Service, all intelligence services and the
 National Security Council to observe and respect human rights and freedoms
 in the performance of their functions.
 
-##### 222. Parliament to regulate possession and use of firearms andammunition.
+##### 222. Parliament to regulate possession and use of firearms and ammunition.
 
 Parliament shall make laws to regulate the possession and use of firearms and
 ammunition.

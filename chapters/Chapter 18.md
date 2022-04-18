@@ -15,7 +15,7 @@ Parliament—
 
 - **(b)** the Act has been passed in accordance with this Chapter.
 
-260. Amendments requiring a referendum.
+##### 260. Amendments requiring a referendum.
 
 (1) A bill for an Act of Parliament seeking to amend any of the
 provisions specified in clause (2) of this article shall not be taken as passed
@@ -44,7 +44,7 @@ them in a referendum.
 
 - **(g)** Chapter Eight—article 128(1); and  
 
-(h) Chapter Sixteen.
+- **(h)** Chapter Sixteen.
 
 
 ##### 261. Amendments requiring approval by district councils.

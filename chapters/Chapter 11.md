@@ -218,7 +218,7 @@ district and the Government; and
 the chairperson shall be subject to the rules, decisions and recommendations
 of the district council and be answerable to the council.
 
-184. Speaker of a district council.
+##### 184. Speaker of a district council.
 
 (1) Each district council shall have a speaker elected by the district
 council from among its members; but a person shall only be taken to have
@@ -228,7 +228,7 @@ all the members of the council.
 (2) The speaker of the council shall, in relation to the council,
 perform similar functions to those of the Speaker of Parliament.
 
-185. Removal of a district chairperson and speaker.
+##### 185. Removal of a district chairperson and speaker.
 
 (1) The district chairperson or the speaker of a district council may
 be removed from office by the council by resolution supported by the votes
@@ -635,7 +635,7 @@ Government; and
 President or prescribed by Parliament.
 
 
-204. Terms and conditions of service.
+##### 204. Terms and conditions of service.
 
 Parliament shall prescribe the guidelines to be followed by the district
 councils in determining terms and conditions of service for—  

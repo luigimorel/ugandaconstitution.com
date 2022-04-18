@@ -34,7 +34,7 @@ Commission for Uganda to deal with both natural and man-made disasters.
 composition, functions and procedure for implementation of the functions of
 the commission.
 
-250. Legal proceedings by or against the Government.
+##### 250. Legal proceedings by or against the Government.
 
 (1) Where a person has a claim against the Government, that claim
 may be enforced as a right by proceedings taken against the Government for
@@ -166,11 +166,11 @@ article 180 of this Constitution;
 established as the education service by Parliament by law in
 conformity with this Constitution; 
 
-    - **(i)** “financial year” means the period of twelve months ending on the
+- **(i)** “financial year” means the period of twelve months ending on the
 thirtieth day of June in any year or such other day as Parliament
 may by law prescribe; 
 
-    - **(j)** “functions” includes powers and duties;
+- **(j)** “functions” includes powers and duties;
 
 - **(k)** “Gazette” means The Uganda Gazette and includes any
 supplement of that Gazette;  
@@ -234,7 +234,7 @@ Speaker” shall be construed accordingly;
 - **(a)** unless the context otherwise requires, a reference to an office in
 the public service includes—  
 
-    - **(i)** a reference to the office of Chief Justice, Deputy Chief
+- **(i)** a reference to the office of Chief Justice, Deputy Chief
 Justice, Principal Judge, a justice of the Supreme Court or
 a justice of Appeal, or a judge of the High Court and the
 office of a member of any other court of law established by

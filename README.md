@@ -20,15 +20,19 @@ The Constitution
 3. [Defence of the Constitution](/chapters/Chapter%201.md#3-defence-of-the-constitution)  
 4. [Promotion of public awareness of the Constitution](/chapters/Chapter%201.md#4-promotion-of-public-awareness-of-the-constitution)  
 
-## Chapter 3  
+## Chapter 2  
+
 The Republic  
+
 5. [The Republic of Uganda](/chapters/Chapter%202.md#5-the-republic-of-uganda)  
 6. [Official language](/chapters/Chapter%202.md#6-official-language)    
 7. [Nonadoption of a State religion](/chapters/Chapter%202.md#7-nonadoption-of-a-state-religion)   
 8. [National symbols and seals](/chapters/Chapter%202.md#8-national-symbols-and-seals)  
 
-## Chapter 3
+## Chapter 3 
+
 Citizenship  
+
 9. [Citizens of Uganda](/chapters/Chapter%203.md#9-citizens-of-uganda)  
 10. [Citizenship by birth](/chapters/Chapter%203.md#10-citizenship-by-birth)  
 11. [Foundlings and adopted children](/chapters/Chapter%203.md#11-foundlings-and-adopted-children)  
@@ -42,7 +46,9 @@ Citizenship
 19. [Citizenship of a parent dying before the birth of a person](/chapters/Chapter%203.md#19-citizenship-of-a-parent-dying-before-the-birth-of-a-person)  
 
 ## Chapter 4
-Protection and promotion of fundamental and other human rights and freedoms    
+
+Protection and promotion of fundamental and other human rights and freedoms  
+
 20. [Fundamental and other human rights and freedoms](/chapters/Chapter%204.md#20-fundamental-and-other-human-rights-and-freedoms)  
 21. [Equality and freedom from discrimination](/chapters/Chapter%204.md#21-equality-and-freedom-from-discrimination)  
 22. [Protection of right to life](/chapters/Chapter%204.md#22-protection-of-right-to-life)  
@@ -91,6 +97,7 @@ Uganda Human Rights Commission.
 
 
 ## Chapter 5
+
 Right to vote  
 
 59. [Right to vote](/chapters/Chapter%205.md#59-right-to-vote)  
@@ -117,7 +124,9 @@ Political systems
 76. [Parliament to enact laws on elections](/chapters/Chapter%205.md#76-parliament-to-enact-laws-on-elections)  
 
 ## Chapter 6: The Legislature.
-Establishment, composition and functions of Parliament.
+
+Establishment, composition and functions of Parliament  
+
 77. [Parliament of Uganda](/chapters/Chapter%206.md#77-parliament-of-uganda)  
 78. [Composition of Parliament](/chapters/Chapter%206.md#78-composition-of-parliament)  
 79. [Functions of Parliament](/chapters/Chapter%206.md#79-functions-of-parliament)  
@@ -130,19 +139,20 @@ Establishment, composition and functions of Parliament.
 86. [Determination of questions of membership](/chapters/Chapter%206.md#86-determination-of-questions-of-membership)  
 87. [Clerk to Parliament and other staff](/chapters/Chapter%206.md#87-clerk-to-parliament-and-other-staff)  
 
-Procedure of Parliament
+Procedure of Parliament  
 88. [Quorum of Parliament](/chapters/Chapter%206.md#88-quorum-of-parliament)  
 89. [Voting in Parliament](/chapters/Chapter%206.md#89-voting-in-parliament)  
 90. [Committees of Parliament](/chapters/Chapter%206.md#90-committees-of-parliament)  
 91. [Exercise of legislative powers](/chapters/Chapter%206.md#91-exercise-of-legislative-powers)  
 92. [Restriction on retrospective legislation](/chapters/Chapter%206.md#92-restriction-on-retrospective-legislation)  
-94. [Rules of procedure in Parliament](/chapters/Chapter%206.md#94-rules-of-procedure-in-parliament)
+94. [Rules of procedure in Parliament](/chapters/Chapter%206.md#94-rules-of-procedure-in-parliament)  
 95. [Sessions of Parliament](/chapters/Chapter%206.md#95-sessions-of-parliament)  
 
 General  
 97. [Parliamentary immunities and privileges](/chapters/Chapter%206.md#97-parliamentary-immunities-and-privileges)    
 
 ## Chapter 7: The Executive
+
 The President
 
 98. [President of Uganda](/chapters/Chapter%207.md#98-president-of-uganda)  
@@ -177,7 +187,7 @@ Director of Public Prosecutions.
 Prerogative of mercy.  
 121. [Prerogative of mercy](/chapters/Chapter%207.md#121-prerogative-of-mercy)  
 
-International relations.
+International relations.  
 122. [Diplomatic representation](/chapters/Chapter%207.md#122-diplomatic-representation)  
 123. [Execution of treaties, conventions and agreements](/chapters/Chapter%207.md#123-execution-of-treaties-conventions-and-agreements)  
 
@@ -191,10 +201,12 @@ National Planning Authority.
 
 
 ## Chapter 8: The Judiciary
+
 Administration of justice  
+
 126. [Exercise of judicial power](/chapters/Chapter%208.md#126-exercise-of-judicial-power)  
-127. [Participation of the people in the administration of justice](/chapters/Chapter%208.md#127-participation-of-the-people-in-the-administration-of-justice)
-128. [Independence of the judiciary](/chapters/Chapter%208.md#128-independence-of-the-judiciary)  
+127. [Participation of the people in the administration of justice](/chapters/Chapter%208.md#127-participation-of-the-people-in-the-administration-of-justice)  
+128. [Independence of the judiciary](/chapters/Chapter%208.md#128-independence-of-the-judiciary)    
 
 The courts of judicature.  
 129. [The courts of judicature](/chapters/Chapter%208.md#129-the-courts-of-judicature)
@@ -260,6 +272,7 @@ Auditor General
 ## Chapter 10: The Public Service
 
 Public Service Commission  
+
 165. [Public Service Commission](/chapters/Chapter%2010.md#165-public-service-commission)  
 166. [Functions of the Public Service Commission](/chapters/Chapter%2010.md#166-functions-of-the-public-service-commission)  
 
@@ -281,6 +294,7 @@ General
 
 
 ## Chapter 11 : Local Government.
+
 Principles and structures of local government  
 
 176. [Local government system](/chapters/Chapter%2011.md#176-local-government-system)   
@@ -324,7 +338,9 @@ General
 207. [Interpretation](/chapters/Chapter%2011.md#207-interpretation)  
 
 ## Chapter 12:  Defence And National Security.  
+
 Uganda Peoples’ Defence Forces  
+
 208. [Uganda Peoples’ Defence Forces](/chapters/Chapter%2012.md#208-uganda-peoples-defence-forces)  
 209. [Functions of the defence forces](/chapters/Chapter%2012.md#209-functions-of-the-defence-forces)  
 210. [Parliament to regulate the Uganda Peoples’ Defence Forces](/chapters/Chapter%2012.md#210-parliament-to-regulate-the-uganda-peoples-defence-forces)  
@@ -352,6 +368,7 @@ General.
 222. [Parliament to regulate possession and use of firearms and ammunition](/chapters/Chapter%2012.md#222-parliament-to-regulate-possession-and-use-of-firearms-andammunition)  
 
 ## Chapter 13
+
 Inspectorate of Government.    
 
 223. [Inspectorate of Government](/chapters/Chapter%2013.md#223-inspectorate-of-government)  
@@ -366,6 +383,7 @@ Inspectorate of Government.
 232. [Powers of Parliament regarding inspectorate](/chapters/Chapter%2013.md#232-powers-of-parliament-regarding-inspectorate)  
 
 ## Chapter 14
+
 Leadership Code of Conduct.  
 
 233. [Leadership Code of Conduct](/chapters/Chapter%2014.md#233-leadership-code-of-conduct)  
@@ -376,6 +394,7 @@ Leadership Code of Conduct.
 ## Chapter 15: Land and Environment.
 
 Land.  
+
 237. [Land ownership](/chapters/Chapter%2015.md#237-land-ownership)   
 
 Uganda Land Commission.  
@@ -417,6 +436,7 @@ General and Miscellaneous.
 258. [Ratification of certain acts relating to the procedure of Parliament](/chapters/Chapter%2017.md#258-ratification-of-certain-acts-relating-to-the-procedure-of-parliament)  
 
 ## Chapter Eighteen
+
 Amendment of the Constitution.  
 
 259. [Amendment of the Constitution](/chapters/Chapter%2018.md#259-amendment-of-the-constitution)  
@@ -426,6 +446,7 @@ Amendment of the Constitution.
 263. [Certificate of compliance](/chapters/Chapter%2018.md#263-certificate-of-compliance)  
 
 ## Chapter Nineteen
+
 Transitional Provisions.   
 
 264. [Transitional Government](/chapters/Chapter%2019.md#264-transitional-government)  

@@ -13,21 +13,21 @@
 
 # Chapters
 
-## Chapter One
+## Chapter 1
 The Constitution
 1. [Sovereignty of the people](/chapters/Chapter%201.md#1-sovereignty-of-the-people)  
 2. [Supremacy of the Constitution](/chapters/Chapter%201.md#2-supremacy-of-the-constitution)  
 3. [Defence of the Constitution](/chapters/Chapter%201.md#3-defence-of-the-constitution)  
 4. [Promotion of public awareness of the Constitution](/chapters/Chapter%201.md#4-promotion-of-public-awareness-of-the-constitution)  
 
-## Chapter Two  
+## Chapter 3  
 The Republic  
 5. [The Republic of Uganda](/chapters/Chapter%202.md#5-the-republic-of-uganda)  
 6. [Official language](/chapters/Chapter%202.md#6-official-language)    
 7. [Nonadoption of a State religion](/chapters/Chapter%202.md#7-nonadoption-of-a-state-religion)   
 8. [National symbols and seals](/chapters/Chapter%202.md#8-national-symbols-and-seals)  
 
-## Chapter Three
+## Chapter 3
 Citizenship  
 9. [Citizens of Uganda](/chapters/Chapter%203.md#9-citizens-of-uganda)  
 10. [Citizenship by birth](/chapters/Chapter%203.md#10-citizenship-by-birth)  
@@ -41,7 +41,7 @@ Citizenship
 18. [Registration of births, marriages and deaths](/chapters/Chapter%203.md#17-duties-of-a-citizen)  
 19. [Citizenship of a parent dying before the birth of a person](/chapters/Chapter%203.md#19-citizenship-of-a-parent-dying-before-the-birth-of-a-person)  
 
-## Chapter Four
+## Chapter 4
 Protection and promotion of fundamental and other human rights and freedoms    
 20. [Fundamental and other human rights and freedoms](/chapters/Chapter%204.md#20-fundamental-and-other-human-rights-and-freedoms)  
 21. [Equality and freedom from discrimination](/chapters/Chapter%204.md#21-equality-and-freedom-from-discrimination)  
@@ -143,7 +143,6 @@ General
 97. [Parliamentary immunities and privileges](/chapters/Chapter%206.md#97-parliamentary-immunities-and-privileges)    
 
 ## Chapter 7: The Executive
-
 The President
 
 98. [President of Uganda](/chapters/Chapter%207.md#98-president-of-uganda)  
@@ -260,15 +259,15 @@ Auditor General
 
 ## Chapter 10: The Public Service
 
-Public Service Commission
+Public Service Commission  
 165. [Public Service Commission](/chapters/Chapter%2010.md#165-public-service-commission)  
 166. [Functions of the Public Service Commission](/chapters/Chapter%2010.md#166-functions-of-the-public-service-commission)  
 
-Education Service Commission.
+Education Service Commission.  
 167. [Education Service Commission](/chapters/Chapter%2010.md#167-education-service-commission)  
 168. [Functions of the Education Service Commission](chapters/Chapter%2010.md#168-functions-of-the-education-service-commission)  
 
-Health Service Commission
+Health Service Commission  
 
 169. [Health Service Commission](chapters/Chapter%2010.md#169-health-service-commission)  
 170. [Functions of the Health Service Commission](/chapters/Chapter%2010.md#170-functions-of-the-health-service-commission)  
@@ -282,8 +281,175 @@ General
 
 
 ## Chapter 11 : Local Government.
-Principles and structures of local government
+Principles and structures of local government  
 
-176. [Local government system](/chapters/Chapter%2011.md#176-local-government-system)  
-177. [Districts of Uganda](/chapters/Chapter%2011.md#177-districts-of-uganda)
+176. [Local government system](/chapters/Chapter%2011.md#176-local-government-system)   
+177. [Districts of Uganda](/chapters/Chapter%2011.md#177-districts-of-uganda)  
 178. [Cooperation among districts](/chapters/Chapter%2011.md#178-cooperation-among-districts)  
+179. [Boundaries of local government units](/chapters/Chapter%2011.md#179-boundaries-of-local-government-units)  
+180. [Local government councils](/chapters/Chapter%2011.md#180-local-government-councils)  
+181. [Elections of local government councils](/chapters/Chapter%2011.md#181-elections-of-local-government-councils)  
+182. [Revocation of mandate](/chapters/Chapter%2011.md#182-revocation-of-mandate)  
+183. [District chairperson](/chapters/Chapter%2011.md#183-district-chairperson)  
+184. [Speaker of a district council](/chapters/Chapter%2011.md#184-speaker-of-a-district-council)  
+185. [Removal of a district chairperson and speaker](/chapters/Chapter%2011.md#185-removal-of-a-district-chairperson-and-speaker)    
+186. [District executive committee](/chapters/Chapter%2011.md#186-district-executive-committee)  
+187. [Vacation of office of member of district executive committee](/chapters/Chapter%2011.md#187-vacation-of-office-of-member-of-district-executive-committee)  
+188. [Chief administrative officer](/chapters/Chapter%2011.md#188-chief-administrative-officer)  
+189. [Functions of the Government and district councils](/chapters/Chapter%2011.md#189-functions-of-the-government-and-district-councils)  
+
+Finances of local governments.
+190. [Planning](/chapters/Chapter%2011.md#190-planning)  
+191. [Power to levy and appropriate taxes](/chapters/Chapter%2011.md#191-power-to-levy-and-appropriate-taxes)  
+192. [Collection of taxes by local government](/chapters/Chapter%2011.md#192-collection-of-taxes-by-local-government)  
+193. [Grants to local governments](/chapters/Chapter%2011.md#193-grants-to-local-governments)  
+194. [Local Government Finance Commission](/chapters/Chapter%2011.md#194-local-government-finance-commission)  
+195. [Loans and grants](/chapters/Chapter%2011.md#195-loans-and-grants)  
+196. [Accountability](/chapters/Chapter%2011.md#196-accountability)  
+197. [Financial autonomy of urban authorities](/chapters/Chapter%2011.md#197-financial-autonomy-of-urban-authorities)  
+
+District service commissions.   
+
+198. [District service commissions](/chapters/Chapter%2011.md#198-district-service-commissions)  
+199. [Secondment of staff](/chapters/Chapter%2011.md#199-secondment-of-staff)  
+200. [Functions of district service commissions](/chapters/Chapter%2011.md#200-functions-of-district-service-commissions)  
+
+General.
+201. [Exercise of administrative functions](/chapters/Chapter%2011.md#201-exercise-of-administrative-functions)  
+202. [Takeover of district administration by the President](/chapters/Chapter%2011.md#202-takeover-of-district-administration-by-the-president)    
+203. [Resident district commissioner](/chapters/Chapter%2011.md#203-resident-district-commissioner)  
+204. [Terms and conditions of service](/chapters/Chapter%2011.md#204-terms-and-conditions-of-service)  
+205. [Prohibition of holding political offices concurrently](/chapters/Chapter%2011.md#205-prohibition-of-holding-political-offices-concurrently)  
+206. [Parliament to make laws regarding local government](/chapters/Chapter%2011.md#206-parliament-to-make-laws-regarding-local-government)  
+207. [Interpretation](/chapters/Chapter%2011.md#207-interpretation)  
+
+## Chapter 12:  Defence And National Security.
+Uganda Peoples’ Defence Forces
+208. [Uganda Peoples’ Defence Forces](/chapters/Chapter%2012.md#208-uganda-peoples-defence-forces)  
+209. [Functions of the defence forces](/chapters/Chapter%2012.md#209-functions-of-the-defence-forces)  
+210. [Parliament to regulate the Uganda Peoples’ Defence Forces](/chapters/Chapter%2012.md#210-parliament-to-regulate-the-uganda-peoples-defence-forces)  
+
+Uganda Police Force.
+211. [Uganda Police Force](/chapters/Chapter%2012.md#211-uganda-police-force)  
+212. [Functions of the Uganda Police Force](/chapters/Chapter%2012.md#212-functions-of-the-uganda-police-force)  
+213. [Command of the Uganda Police Force](/chapters/Chapter%2012.md#213-command-of-the-uganda-police-force)  
+214. [Parliament to regulate the Uganda Police Force](/chapters/Chapter%2012.md#214-parliament-to-regulate-the-uganda-police-force)  
+
+Uganda Prisons Service
+215. [Uganda Prisons Service](/chapters/Chapter%2012.md#215-uganda-prisons-service)  
+216. [Commissioner and Deputy Commissioner of Prisons](/chapters/Chapter%2012.md#216-commissioner-and-deputy-commissioner-of-prisons)  
+217. [Parliament to regulate the Uganda Prisons Service](/chapters/Chapter%2012.md#217-parliament-to-regulate-the-uganda-prisons-service)  
+
+Intelligence services.
+218. [Intelligence services](/chapters/Chapter%2012.md#218-intelligence-services)   
+
+National Security Council.
+219. [National Security Council](/chapters/Chapter%2012.md#219-national-security-council)  
+220. [Functions of the National Security Council](/chapters/Chapter%2012.md#220-functions-of-the-national-security-council)  
+
+General.
+221. [Security organisations to observe human rights](/chapters/Chapter%2012.md#221-security-organisations-to-observe-human-rights)  
+222. [Parliament to regulate possession and use of firearms and ammunition](/chapters/Chapter%2012.md#222-parliament-to-regulate-possession-and-use-of-firearms-andammunition)  
+
+## Chapter 13
+Inspectorate of Government.  
+
+223. [Inspectorate of Government](/chapters/Chapter%2013.md#223-inspectorate-of-government)  
+224. [Removal of Inspector General and Deputy Inspector General](/chapters/Chapter%2013.md#224-removal-of-inspector-general-and-deputy-inspector-general)  
+225. [Functions of inspectorate](/chapters/Chapter%2013.md#225-functions-of-inspectorate)  
+226. [Jurisdiction of inspectorate](/chapters/Chapter%2013.md#226-jurisdiction-of-inspectorate)  
+227. [Independence of inspectorate](/chapters/Chapter%2013.md#227-independence-of-inspectorate)  
+228. [Branches of inspectorate](/chapters/Chapter%2013.md#228-branches-of-inspectorate)  
+229. [Resources of inspectorate](/chapters/Chapter%2013.md#229-resources-of-inspectorate)  
+230. [Special powers of inspectorate](/chapters/Chapter%2013.md#230-special-powers-of-inspectorate)  
+231. [Reports of inspectorate](/chapters/Chapter%2013.md#231-reports-of-inspectorate)  
+232. [Powers of Parliament regarding inspectorate](/chapters/Chapter%2013.md#232-powers-of-parliament-regarding-inspectorate)  
+
+## Chapter 14
+Leadership Code of Conduct.
+
+233. [Leadership Code of Conduct](/chapters/Chapter%2014.md#233-leadership-code-of-conduct)  
+234. [Enforcement of code](/chapters/Chapter%2014.md#234-enforcement-of-code)  
+235. [Disqualification for breach of code](/chapters/Chapter%2014.md#235-disqualification-for-breach-of-code)      
+236. [Interpretation](/chapters/Chapter%2014.md#236-interpretation)  
+
+## Chapter 15: Land and Environment.
+
+Land.  
+237. [Land ownership](/chapters/Chapter%2015.md#237-land-ownership)   
+
+Uganda Land Commission.  
+238. [Uganda Land Commission](/chapters/Chapter%2015.md#238-uganda-land-commission)  
+239. [Functions of the Uganda Land Commission](/chapters/Chapter%2015.md#239-functions-of-the-uganda-land-commission)  
+
+District land boards.  
+240. [District land boards](/chapters/Chapter%2015.md#240-district-land-boards)  
+241. [Functions of district land boards](/chapters/Chapter%2015.md#241-functions-of-district-land-boards)  
+
+General
+242. [Land use](/chapters/Chapter%2015.md#242-land-use)  
+243. [Land tribunals](/chapters/Chapter%2015.md#243-land-tribunals)  
+244. [Minerals](/chapters/Chapter%2015.md#244-minerals)  
+
+Environment.  
+245. [Protection and preservation of the environment](/chapters/Chapter%2015.md#245-protection-and-preservation-of-the-environment)  
+
+## Chapter 16
+
+Institution of Traditional or Cultural Leaders.  
+
+246. [Institution of traditional or cultural leaders](/chapters/Chapter%2016.md#246-institution-of-traditional-or-cultural-leaders)  
+
+## Chapter 17
+
+General and Miscellaneous.  
+247. [Administration of estates](/chapters/Chapter%2017.md#247-administration-of-estates)  
+248. [Law Reform Commission](/chapters/Chapter%2017.md#248-law-reform-commission)  
+249. [Disaster Preparedness and Management Commission](/chapters/Chapter%2017.md#249-disaster-preparedness-and-management-commission)  
+250. [Legal proceedings by or against the Government](/chapters/Chapter%2017.md#250-legal-proceedings-by-or-against-the-government)  
+251. [Performance of functions of commissions and authorities](/chapters/Chapter%2017.md#251-performance-of-functions-of-commissions-and-authorities)  
+252. [Resignations](/chapters/Chapter%2017.md#252-resignations)  
+253. [Reappointments and concurrent appointments](/chapters/Chapter%2017.md#253-reappointments-and-concurrent-appointments)  
+254. [Pension](/chapters/Chapter%2017.md#254-pension)  
+255. [Right of citizens to demand referenda](/chapters/Chapter%2017.md#255-right-of-citizens-to-demand-referenda)  
+256. [Manner of administering oaths](/chapters/Chapter%2017.md#256-manner-of-administering-oaths)  
+257. [Interpretation](/chapters/Chapter%2017.md#257-interpretation)  
+258. [Ratification of certain acts relating to the procedure of Parliament](/chapters/Chapter%2017.md#258-ratification-of-certain-acts-relating-to-the-procedure-of-parliament)  
+
+## Chapter Eighteen
+Amendment of the Constitution.  
+
+259. [Amendment of the Constitution](/chapters/Chapter%2018.md#259-amendment-of-the-constitution)  
+260. [Amendments requiring a referendum](/chapters/Chapter%2018.md#260-amendments-requiring-a-referendum)  
+261. [Amendments requiring approval by district councils](/chapters/Chapter%2018.md#261-amendments-requiring-approval-by-district-councils)  
+262. [Amendments by Parliament](/chapters/Chapter%2018.md#262-amendments-by-parliament)  
+263. [Certificate of compliance](/chapters/Chapter%2018.md#263-certificate-of-compliance)  
+
+## Chapter Nineteen
+Transitional Provisions.  
+
+264. [Transitional Government](/chapters/Chapter%2019.md#264-transitional-government)  
+265. [Particular functions of transitional Government](/chapters/Chapter%2019.md#264-transitional-government)  
+266. [Existing courts of judicature](/chapters/Chapter%2019.md#266-existing-courts-of-judicature)  
+267. [Existing offices of judges](/chapters/Chapter%2019.md#267-existing-offices-of-judges)  
+268. [Interim membership of Court of Appeal](/chapters/Chapter%2019.md#268-interim-membership-of-court-of-appeal)  
+269. [Existing offices](/chapters/Chapter%2019.md#269-existing-offices)  
+270. [Regulation of political organisations](/chapters/Chapter%2019.md#270-regulation-of-political-organisations)  
+271. [Existing political parties or organisations](/chapters/Chapter%2019.md#271-existing-political-parties-or-organisations)  
+272. [First elections](/chapters/Chapter%2019.md#272-first-elections)  
+273. [Appointment to certain offices](/chapters/Chapter%2019.md#273-appointment-to-certain-offices)  
+274. [Existing law](/chapters/Chapter%2019.md#274-existing-law)  
+275. [Modification of existing law by first President](/chapters/Chapter%2019.md#275-modification-of-existing-law-by-first-president)  
+276. [Enactments not yet in force](/chapters/Chapter%2019.md#276-enactments-not-yet-in-force)  
+277. [Provisions regarding urban authorities](/chapters/Chapter%2019.md#277-provisions-regarding-urban-authorities)  
+278. [Existing commissions and committees of inquiry](/chapters/Chapter%2019.md#278-existing-commissions-and-committees-of-inquiry)  
+279. [Oaths deemed to have been taken](/chapters/Chapter%2019.md#279-oaths-deemed-to-have-been-taken)  
+280. [Pending matters](/chapters/Chapter%2019.md#280-pending-matters)  
+281. [Proceedings pending before courts](/chapters/Chapter%2019.md#281-proceedings-pending-before-courts)  
+282. [Prerogative of mercy re cases before constitution](/chapters/Chapter%2019.md#282-prerogative-of-mercy-re-cases-before-constitution)  
+283. [Devolution of rights and liabilities](/chapters/Chapter%2019.md#283-devolution-of-rights-and-liabilities)  
+284. [Succession to property](/chapters/Chapter%2019.md#284-succession-to-property)  
+285. [Succession to contracts](/chapters/Chapter%2019.md#285-succession-to-contracts)  
+286. [Revocation of statutory leases to urban authorities](/chapters/Chapter%2019.md#286-revocation-of-statutory-leases-to-urban-authorities)    
+287. [International agreements, treaties and conventions](/chapters/Chapter%2019.md#287-international-agreements-treaties-and-conventions)    
+288. [Repeal of 1967 Constitution and Legal Notice No. 1 of 1986](/chapters/Chapter%2019.md#288-repeal-of-1967-constitution-and-legal-notice-no-1-of-1986)   

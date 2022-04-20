@@ -3,74 +3,20 @@
 ### Transitional Provisions.
 
 ##### 264. Transitional Government.
-
-(1) Notwithstanding anything in this Constitution, the Government
-of the National Resistance Movement existing immediately before the
-coming into force of this Constitution, in this Chapter referred to as “the
-NRM Government” shall—  
-
-- **(a)** continue in office until a new government is elected in
-accordance with this Constitution;  
-
-_ **(b)** as far as possible, exercise its functions in such a manner and
-with such modifications as are necessary to bring them into
-conformity with the provisions of this Constitution.
-
-(2) The elections provided for in clause (1) of this article shall be held
-within nine months after the promulgation of this Constitution.
+[Repealed]
 
 ##### 265. Particular functions of transitional Government.
-
-The appropriate organs of the NRM Government shall take such measures
-that are necessary or practical to give effect to the provisions of this
-Constitution and, in particular, but without prejudice to the generality of the
-foregoing, shall—  
-
-- **(a)** by law establish an Interim Electoral Commission whose
-composition, appointment and functions shall, as far as possible,
-conform to the provisions of articles 60 and 61 of this
-Constitution;  
-
-- **(b)** make interim laws for elections and other matters connected with
-elections to any office under this Constitution;  
-
-- **(c)** ensure that the tribunal for determination of disputes in respect of
-demarcation of electoral areas is appointed;  
-
-- **(d)** make laws for the expeditious disposal of appeals referred to in
-article 64 of this Constitution;  
-
-- **(e)** ensure that adequate resources and facilities are provided to the
-Interim Electoral Commission in accordance with article 66 of
-this Constitution.
+[Repealed]
 
 ##### 266. Existing courts of judicature.
-
-The Supreme Court and the High Court in existence immediately before the
-
-coming into force of this Constitution shall be taken to have been established
-under this Constitution and shall perform the functions of the Supreme Court
-and the High Court as specified in Chapter Eight of this Constitution.
+[Repealed]
 
 ##### 267. Existing offices of judges.
+[Repealed]
 
-(1) A justice of the Supreme Court or a judge of the High Court
-holding office immediately before the coming into force of this Constitution
-shall continue to hold office as if appointed to that office under this
-Constitution.
-
-(2) Any person to whom this article applies shall, on the coming into
-force of this Constitution, be deemed to have taken and subscribed the oath
-of allegiance and the judicial oath as prescribed by this Constitution or any
-other law.
 
 ##### 268. Interim membership of Court of Appeal.
-
-Upon the coming into force of this Constitution and until justices of the Court
-of Appeal are appointed under article 134 of this Constitution, the Chief
-Justice shall, in consultation with the Principal Judge, from time to time,
-designate such number of judges of the High Court as may be necessary to
-constitute the Court of Appeal.
+[Repealed]
 
 ##### 269. Existing offices.
 
@@ -106,66 +52,16 @@ inconsistent with any provision of this Constitution is, on the coming into
 force of this Constitution, abolished.
 
 ##### 270. Regulation of political organisations.
-
-On the commencement of this Constitution and until Parliament makes laws
-regulating the activities of political organisations in accordance with article
-73 of this Constitution, political activities may continue except—  
-
-- **(a)** opening and operating branch offices;  
-
-- **(b)** holding delegates’ conferences;  
-
-- **(c)** holding public rallies;  
-
-- **(d)** sponsoring or offering a platform to or in any way campaigning
-for or against a candidate for any public elections;  
-
-- **(e)** carrying on any activities that may interfere with the movement
-political system for the time being in force.
+[Repealed]
 
 ##### 271. Existing political parties or organisations.
-
-Notwithstanding the provisions of article 72(2) of this Constitution, but
-subject to article 270 of this Constitution, the political parties or organisations
-in existence immediately before the coming into force of this Constitution
-shall continue to exist and operate in conformity with the provisions of this
-Constitution until Parliament makes laws relating to registration of political
-parties and organisations.
+[Repealed]
 
 ##### 272. First elections.
-
-(1) Notwithstanding the provisions of article 69 of this Constitution,
-the first presidential, parliamentary, local government and other public elections after the promulgation of this Constitution shall be held under the
-movement political system.
-
-(2) Two years before the expiry of the term of the first Parliament
-elected under this Constitution, any person shall be free to canvass for public
-support for a political system of his or her choice for purposes of a
-referendum.
-
-(3) During the last month of the fourth year of the term of Parliament
-referred to in clause (2) of this article, a referendum shall be held to
-determine the political system the people of Uganda wish to adopt.
-
-(4) Parliament shall enact laws to give effect to the provisions of this
-article.
+[Repealed]
 
 ##### 273. Appointment to certain offices.
-
-The first appointments to the following offices shall be made within six
-months after the assumption of office of the first President elected in
-accordance with the provisions of this Constitution—  
-
-- **(a)** the chairperson and other members of the Uganda Human Rights
-commission;  
-
-- **(b)** the chairperson and other members of the Electoral Commission;
-
-- **(c)** the Inspector General of Government and the Deputy Inspectors
-General; and  
-
-- **(d)** the chairperson, deputy chairperson and other members of the
-Judicial Service Commission.
+[Repealed]
 
 ##### 274. Existing law.
 
@@ -182,12 +78,7 @@ immediately before the coming into force of this Constitution, including any
 Act of Parliament or Statute or statutory instrument enacted or made before that date which is to come into force on or after that date.
 
 ##### 275. Modification of existing law by first President.
-
-The first President elected under this Constitution may, within twelve months
-after assuming office as President, by statutory instrument, make such
-provision as may appear necessary for repealing, modifying, adding to or
-adapting any law for bringing it into conformity with this Constitution or
-otherwise for giving effect to this Constitution.
+[Repealed]
 
 ##### 276. Enactments not yet in force.
 
@@ -198,32 +89,14 @@ be brought into force in accordance with its terms or shall come into force on
 such subsequent date as the case may be.
 
 ##### 277. Provisions regarding urban authorities.
+[Repealed]
 
-(1) Subject to the provisions of this Constitution, the urban
-authorities in existence at the coming into force of this Constitution, other
-than the Kampala City Council, shall constitute lower local government units
-under the district councils within whose district they fall.
 
-(2) Subject to the powers of Parliament, the laws applicable to urban
-authorities immediately before the commencement of this Constitution, shall
-apply with such modifications as may be necessary to give effect to the
-provisions of Chapter Eleven of this Constitution.
-
-##### 278. Existing commissions and committees of inquiry.
-
-Notwithstanding anything in this Constitution to the contrary, any
-commission or committee of inquiry in existence immediately before the
-coming into force of this Constitution may continue in existence until the
-submission of its report unless otherwise dissolved in accordance with the
-law.
+##### 278. Existing commissions and committees of inquiry except for commissions and committees of inquiry whose work would still be going on at the time the repeal takes effect 
+[Repealed]
 
 ##### 279. Oaths deemed to have been taken.
-
-Notwithstanding any provision of this Constitution, any person who immediately before the coming into force of this Constitution held or was
-acting in any office established under or by virtue of the Constitution then in
-force and who holds or is acting in an equivalent office under this
-Constitution shall be deemed to have taken and subscribed any necessary oath
-under this Constitution, in accordance with this Constitution.
+ [Repealed]
 
 ##### 280. Pending matters.
 
@@ -287,10 +160,7 @@ be vested in or, as the case may be, subsist against the Government; and the
 contract shall otherwise continue to be of full force and effect.
 
 ##### 286. Revocation of statutory leases to urban authorities.
-
-Upon the coming into force of this Constitution and subject to the provisions
-of article 237(2)(a) of this Constitution, statutory leases to urban authorities
-shall cease to exist.
+[Repealed]
 
 ##### 287. International agreements, treaties and conventions.
 
@@ -318,3 +188,73 @@ shall, upon the coming into force of this Constitution, stand repealed.
 of this article, shall, notwithstanding the repeal, continue in force for the
 purposes only of the exercise by the NRM Government of its functions under
 articles 264 and 265 of this Constitution.
+
+##### 289.Term of current Parliament to end with term of the President.  
+
+(1) Notwithstanding anything in this Constitution, the term of the 
+Parliament in existence at the time this article comes into force, shall 
+expire on the same date as the five year term of the President in office at 
+the time this article comes into force as prescribed by clause (1) ofarticle 
+105 ofthis Constitution. 
+(2) Where the service of a member of Parliament is terminated 
+as a result of the application of clause (1), that member of Parliament 
+is entitled to the payment by the State of compensation for loss of 
+employment for the period by which his or her service as a member of 
+Parliament is shortened. 
+(3) The amount of compensation to be paid to a member of 
+Parliament under clause (2) shall be equal to the salary and allowances 
+that the member of Parliament would have earned as a member if he or 
+she had continued to be a member until the date on which the term ofthe 
+Parliament in question would normally have ended. 
+(4) Where a member of Parliament entitled to compensation under 
+clause (2) dies before the payment to him or her ofthe compensation, the 
+compensation shall be paid to his or her estate.
+
+##### 290.Transitional provision relatingta Kampala. 
+Until Parliament passes a law in accordance with article 5 of this 
+Constitution toprovide for the administration and development of Kampala 
+as the capital city for Uganda, Kampala the boundary of which is required 
+to be delineated by article 5 of this Constitution shall be administered as 
+a district in the manner in which Kampala was administered before the 
+commencement of the Constitution (Amendment) Act, 2005.* 
+291.Five year term of local government councils not to apply to 
+existing councils. 
+(1) For the avoidance of doubt, the term of five years prescribed for 
+local government councils by clause (4) of article 181 of this Constitution 
+shall only apply after the expiration of the term of the local government 
+councils which were in existence at the time that that clause came into 
+force. 
+(2) The term of local government councils in being at the time of 
+the commencement of the Constitution (Amendment) Act, 2005* shall 
+be deemed to be extended to expire at the same time as the term of the 
+President in office at the commencement of that Act. 
+##### 292.Modification of laws. 
+(l) Subject to any express provision of this Constitution any laws 
+in existence before the commencement of the Constitution (Amendment) 
+Act, 2005* shall continue in force subject to such modifications, 
+adaptations and qualifications as may be necessary to give effect to this 
+Constitution. 
+(2) The President may by statutory instrument, within two years 
+after the commencement of the Constitution (Amendment) Act, 2005, 
+make such modifications in any law referred to in clause (1), for the 
+purpose of bringing it into conformity with this Constitution. 
+(3) Where any law referred to in clause (1) is not yet in force, that 
+law may be brought into force in accordance with its terms or shall come 
+into force on such subsequent day as the case may be. 
+
+##### 293. Preservation of rights in respect of existing offices. 
+Subject to article 269, any person holding any office under this 
+Constitution before the coming into force of the Constitution 
+(Amendment) Act, 2005" shall, so far as consistent with this 
+Constitution, continue in office in an equivalent office. 
+
+##### 294. Existing constituencies. 
+Until Parliament prescribes the constituencies under article 63, the 
+constituencies shall be those into which Uganda was divided before 
+the coming into force of the Constitution (Amendment) Act, 2005.*
+
+##### 295. Movement organs continued. 
+Until the first parliamentary elections for the purpose of the multiparty 
+political system are held, the organs under the movement political 
+system as referred to in clause (2) of article 70 of the Constitution shall 
+remain in force and thereafter shall be subject to article 73.

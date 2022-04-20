@@ -114,7 +114,7 @@ Constitution and to any law made by Parliament.
 ##### 281. Proceedings pending before courts.
 
 Legal proceedings pending immediately before the coming into force of this
-Constitution before any court, including civil proceedings against the
+Constitution before any court, including civil proceebdings against the
 Government, may be proceeded with and completed.
 
 ##### 282. Prerogative of mercy re cases before constitution.

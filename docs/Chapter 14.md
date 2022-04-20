@@ -15,9 +15,8 @@ for persons holding such offices as may be specified by Parliament.
 liabilities from time to time and how they acquired or incurred
 them, as the case may be;  
 
-- **(b)** prohibit conduct—  
-
-    - **(i)** likely to compromise the honesty, impartiality and integrity
+- **(b)** prohibit conduct—
+   - **(i)** likely to compromise the honesty, impartiality and integrity
 of specified officers;  
 
     - **(ii)** likely to lead to corruption in public affairs; or  

@@ -411,21 +411,18 @@ court as between the parties to the decision or judgment.
 Parliament shall not, unless the bill or the motion is introduced on behalf of
 the Government—  
 
-- **(a)** proceed upon a bill, including an amendment bill, that makes
+- **(a)**  proceed upon a bill, including an amendment bill, that makes
 provision for any of the following—  
 
-    - **(i)** the imposition of taxation or the alteration of taxation
-otherwise than by reduction;  
-
-    - **(ii)** the imposition of a charge on the Consolidated Fund or other public fund of Uganda or the alteration of any such
-charge otherwise than by reduction;  
-
-    - **(iii)** the payment, issue or withdrawal from the Consolidated
+  - **(i)** the imposition of taxation or the alteration of taxation
+otherwise than by reduction;
+  - **(ii)** the imposition of a charge on the Consolidated Fund or other public fund of Uganda or the alteration of any such
+charge otherwise than by reduction;
+  - **(iii)** the payment, issue or withdrawal from the Consolidated
 Fund or other public fund of Uganda of any monies not
 charged on that fund or any increase in the amount of that
-payment, issue or withdrawal; or  
-
-    - **(iv)** the composition or remission of any debt due to the
+payment, issue or withdrawal; or
+  - **(iv)** the composition or remission of any debt due to the
 Government of Uganda; or  
 
 - **(b)** proceed upon a motion, including an amendment to a motion, the

@@ -210,8 +210,9 @@ or in the interest of defence, public safety, public order, public
 morality or public health; and  
 
 - **(b)** the compulsory taking of possession or acquisition of property is
-made under a law which makes provision for—  
-    - **(i)** prompt payment of fair and adequate compensation, prior
+made under a law which makes provision for—
+
+   - **(i)** prompt payment of fair and adequate compensation, prior
 to the taking of possession or acquisition of the property;
 and  
 

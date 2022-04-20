@@ -304,8 +304,7 @@ become vacant if—
 chairperson; or
 
 - **(b)** that member—
-
-    - **(i)** is elected as speaker of the district council;
+   - **(i)** is elected as speaker of the district council;
 
     - **(ii)** resigns from office;
 
@@ -608,9 +607,8 @@ the incumbent district government; or
 
 - **(b)** if Parliament decides that the prevailing circumstances still make
 it impossible for the incumbent district government to resume the
-administration of the district then—  
-
-    - **(i)** where the unexpired term of the council is longer than
+administration of the district then—
+   - **(i)** where the unexpired term of the council is longer than
 twelve months, the President shall cause elections to be
 held for a new district council within sixty days; or  
 

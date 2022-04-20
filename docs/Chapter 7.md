@@ -238,12 +238,10 @@ this article on any of the following grounds—
 the presidential oath or any provision of this Constitution;  
 
 - **(b)** misconduct or misbehaviour—  
-
-    - **(i)** that he or she has conducted himself or herself in a manner
+  - **(i)** that he or she has conducted himself or herself in a manner
 which brings or is likely to bring the office of President into
-hatred, ridicule, contempt or disrepute; or  
-
-    - **(ii)** that he or she has dishonestly done any act or omission
+hatred, ridicule, contempt or disrepute; or
+  - **(ii)** that he or she has dishonestly done any act or omission
 which is prejudicial or inimical to the economy or security
 of Uganda; or  
 
@@ -257,14 +255,14 @@ the members of Parliament shall be submitted to the Speaker—
 
 - **(a)** stating that they intend to move a motion for a resolution in
 Parliament for the removal of the President on the charge that the
-President has—  
-
-    - **(i)** wilfully abused his or her office or wilfully violated the
+President has—
+  
+  - **(i)** wilfully abused his or her office or wilfully violated the
 oath of allegiance and the presidential oath or any other
 provision of this Constitution in terms of clause (1)(a) of
-this article; or  
+this article; or
 
-    - **(ii)** misconducted himself or herself or misbehaved in terms of
+  - **(ii)** misconducted himself or herself or misbehaved in terms of
 clause (1)(b) of this article; and  
 
 - **(b)** setting out the particulars of the charge supported by the

@@ -217,19 +217,23 @@ as the capital city for Uganda, Kampala the boundary of which is required
 to be delineated by article 5 of this Constitution shall be administered as 
 a district in the manner in which Kampala was administered before the 
 commencement of the Constitution (Amendment) Act, 2005.* 
-291.Five year term of local government councils not to apply to 
-existing councils. 
+
+##### 291. Five year term of local government councils not to apply to existing councils. 
+
 (1) For the avoidance of doubt, the term of five years prescribed for 
 local government councils by clause (4) of article 181 of this Constitution 
 shall only apply after the expiration of the term of the local government 
 councils which were in existence at the time that that clause came into 
 force. 
+
 (2) The term of local government councils in being at the time of 
 the commencement of the Constitution (Amendment) Act, 2005* shall 
 be deemed to be extended to expire at the same time as the term of the 
 President in office at the commencement of that Act. 
+
 ##### 292.Modification of laws. 
-(l) Subject to any express provision of this Constitution any laws 
+
+(1) Subject to any express provision of this Constitution any laws 
 in existence before the commencement of the Constitution (Amendment) 
 Act, 2005* shall continue in force subject to such modifications, 
 adaptations and qualifications as may be necessary to give effect to this 
@@ -243,6 +247,7 @@ law may be brought into force in accordance with its terms or shall come
 into force on such subsequent day as the case may be. 
 
 ##### 293. Preservation of rights in respect of existing offices. 
+
 Subject to article 269, any person holding any office under this 
 Constitution before the coming into force of the Constitution 
 (Amendment) Act, 2005" shall, so far as consistent with this 

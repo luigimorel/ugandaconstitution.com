@@ -503,7 +503,7 @@ Transitional Provisions
 287. [International agreements, treaties     and conventions](/chapters/Chapter%2019.md#287-international-agreements-treaties-and-conventions)    
 288. [Repeal of 1967 Constitution and Legal Notice No. 1 of 1986](/chapters/Chapter%2019.md#288-repeal-of-1967-constitution-and-legal-notice-no-1-of-1986)   
 289. [Term of current Parliament to end with term of the President](/chapters/Chapter%2019.md#289term-of-current-parliament-to-end-with-term-of-the-president)  
-290.[Transitional provision](chapters/Chapter%2019.md#290transitional-provision-relatingta-kampala)
+290. [Transitional provision](chapters/Chapter%2019.md#290transitional-provision-relatingta-kampala)
 291. [Five year term of local government councils not to apply to existing councils](/chapters/Chapter%2019.md#291-five-year-term-of-local-government-councils-not-to-apply-to-existing-councils)  
 292. [Modification of laws](/chapters/Chapter%2019.md#292modification-of-laws)  
 293. [Preservation of rights in respect of existing offices](/chapters/Chapter%2019.md#293-preservation-of-rights-in-respect-of-existing-offices)  

@@ -491,7 +491,7 @@ Transitional Provisions
 275. [Modification of existing law by first President](/chapters/Chapter%2019.md#275-modification-of-existing-law-by-first-president)  
 276. [Enactments not yet in force](/chapters/Chapter%2019.md#276-enactments-not-yet-in-force)  
 277. [Provisions regarding urban authorities](/chapters/Chapter%2019.md#277-provisions-regarding-urban-authorities)  
-278. [Existing commissions and committees of inquiry](/chapters/Chapter%2019.md#278-existing-commissions-and-committees-of-inquiry)  
+278. [Existing commissions and committees of inquiry except for commissions and committees of inquiry whose work would still be going on at the time the repeal takes effect](/chapters/Chapter%2019.md#278-existing-commissions-and-committees-of-inquiry)  
 279. [Oaths deemed to have been taken](/chapters/Chapter%2019.md#279-oaths-deemed-to-have-been-taken)  
 280. [Pending matters](/chapters/Chapter%2019.md#280-pending-matters)  
 281. [Proceedings pending before courts](/chapters/Chapter%2019.md#281-proceedings-pending-before-courts)  

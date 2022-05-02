@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconstitution=self.webpackChunkconstitution||[]).push([[2535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/ugandan-constitution/blog/welcome"},{"title":"MDX Blog Post","permalink":"/ugandan-constitution/blog/mdx-blog-post"}]}')}}]);

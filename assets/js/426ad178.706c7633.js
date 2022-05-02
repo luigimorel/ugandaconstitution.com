@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconstitution=self.webpackChunkconstitution||[]).push([[1717],{7965:function(t){t.exports=JSON.parse('{"allTagsPath":"/ugandan-constitution/blog/tags","name":"hello","count":1,"permalink":"/ugandan-constitution/blog/tags/hello"}')}}]);

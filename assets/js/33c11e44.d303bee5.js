@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconstitution=self.webpackChunkconstitution||[]).push([[2708],{9187:function(t){t.exports=JSON.parse('{"allTagsPath":"/ugandan-constitution/blog/tags","name":"docusaurus","count":2,"permalink":"/ugandan-constitution/blog/tags/docusaurus"}')}}]);

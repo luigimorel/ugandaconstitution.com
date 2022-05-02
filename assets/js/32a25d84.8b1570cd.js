@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconstitution=self.webpackChunkconstitution||[]).push([[9718],{6338:function(t){t.exports=JSON.parse('{"permalink":"/ugandan-constitution/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

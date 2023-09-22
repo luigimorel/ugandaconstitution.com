@@ -17,7 +17,7 @@
 
 The Constitution
 
-1. [Sovereignty of the people](/chapters/Chapter1.md#1-sovereignty-of-the-people)
+1. [Sovereignty of the people](../chapters/Chapter1.md#1-sovereignty-of-the-people)
 2. [Supremacy of the Constitution](/chapters/Chapter%201.md#2-supremacy-of-the-constitution)
 3. [Defence of the Constitution](/chapters/Chapter%201.md#3-defence-of-the-constitution)
 4. [Promotion of public awareness of the Constitution](/chapters/Chapter%201.md#4-promotion-of-public-awareness-of-the-constitution)

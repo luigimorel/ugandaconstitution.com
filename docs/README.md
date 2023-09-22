@@ -102,7 +102,7 @@ V. Fundamental and other human rights and freedoms.
 - (ii) The State shall guarantee and respect the independence of
   nongovernmental organisations which protect and promote human rights.
 
-  VI. Gender balance and fair representation of marginalised groups.
+VI. Gender balance and fair representation of marginalised groups.
 
 The State shall ensure gender balance and fair representation of marginalised
 groups on all constitutional and other bodies.

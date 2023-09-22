@@ -15,6 +15,7 @@ Constitution for Uganda:
 Do hereby, in and through this constituent Assembly solemnly adopt, enact and give to ourselves
 and our posterity, this Constitution of the Republic of Uganda, this 22nd day of September, in the
 year 1995.
+
 FOR GOD AND MY COUNTRY
 
 # National Objectives and Directive Principles of State Policy.
